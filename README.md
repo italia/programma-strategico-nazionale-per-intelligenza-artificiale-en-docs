@@ -1,6 +1,6 @@
 # Programma strategico nazionale per l'intelligenza artificiale
 
-Descrizione scopo del documento.
+In questo documento viene discussa l'influenza dell'intelligenza artificiale (IA) sulla maggior parte delle attività economiche, fornendo opportunità per maggiore produttività, sviluppo tecnologico e attività analitiche avanzate in tutti i settori.
 
 # Dipendenze
 
