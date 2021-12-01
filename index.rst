@@ -1,6 +1,11 @@
-.. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
+Programma strategico Intelligenza Artificiale 2022 – 2024
+=========================================================
 
-  programma-strategico-intelligenza-artificiale-2022-2024.rst
-  sommario.rst
+.. toctree::
+  :maxdepth: 2
+
+  content/executive-summary.rst
+  content/contesto-la-posizione-competitiva-dellitalia-e-le-prossime-sfide.rst
+  content/il-programma-strategico-sullintelligenza-artificiale-ancoraggio-principi-e-obiettivi.rst
+  content/aree-strategiche-di-intervento-e-politiche.rst
+  content/governance.rst
