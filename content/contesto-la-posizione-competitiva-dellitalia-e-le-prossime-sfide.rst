@@ -1,8 +1,8 @@
 Contesto: la posizione competitiva dell'Italia e le prossime sfide
 ==================================================================
 
-1.1 L'ecosistema italiano
--------------------------
+L'ecosistema italiano
+---------------------
 
 L'ecosistema italiano dell'IA è caratterizzato da quattro categorie di
 attori: 1) comunità scientifica 2) centri di trasferimento tecnologico
@@ -226,8 +226,8 @@ il loro effettivo utilizzo. Nonostante il livello di digitalizzazione
 nella PA sia in linea con quello di contesti europei simili, i servizi
 online non sono altrettanto utilizzati.
 
-1.2 La posizione dell'Italia nel contesto internazionale
---------------------------------------------------------
+La posizione dell'Italia nel contesto internazionale
+----------------------------------------------------
 
 In un’ottica di confronto internazionale, l'ecosistema IA italiano è in
 linea con i Paesi di riferimento [14]_ per qualità della ricerca.

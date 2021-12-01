@@ -13,8 +13,8 @@ prioritari.
 Nelle sezioni seguenti, questa strategia si svilupperà su queste aree di
 intervento e descriverà le politiche specifiche previste dal Governo.
 
-3.1 Talenti e competenze
-------------------------
+Talenti e competenze
+--------------------
 
 L'IA può trasformare radicalmente molti aspetti della nostra società e
 la pandemia COVID-19 ha accelerato questa tendenza. Il World Economic
@@ -195,8 +195,8 @@ stage in tutti i curricula ITS.
 PNRR M4C1 Investimento 1.5: Sviluppo del sistema di formazione
 professionale terziaria (ITS) (1,5 Mld).
 
-3.2 Ricerca
------------
+Ricerca
+-------
 
 Come illustrato nel capitolo 1, l'ecosistema della ricerca italiano
 presenta caratteristiche incoraggianti, ma la sua frammentazione, la
@@ -440,8 +440,8 @@ sviluppate dalle comunità di ricerca, in particolare quelli stabiliti
 all'interno della tabella di marcia del Forum Strategico Europeo per le
 Infrastrutture di Ricerca (ESFRI Roadmap).
 
-3.3 Applicazioni
-----------------
+Applicazioni
+------------
 
 Come evidenziato nei capitoli introduttivi, l'ecosistema IA italiano
 soffre di un basso numero di brevetti e di un lento processo di

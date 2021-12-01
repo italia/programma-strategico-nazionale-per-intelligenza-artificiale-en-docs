@@ -1,12 +1,12 @@
-2. Il programma strategico sull'intelligenza artificiale: ancoraggio, principi e obiettivi
-==========================================================================================
+Il programma strategico sull'intelligenza artificiale: ancoraggio, principi e obiettivi
+=======================================================================================
 
 .. _section-3:
 
 .. _section-4:
 
-2.1 L'ancoraggio: un'IA che guarda all'UE
------------------------------------------
+L'ancoraggio: un'IA che guarda all'UE
+-------------------------------------
 
 Nell'ultimo decennio, l'industria e la società sono state radicalmente
 trasformate dalla rivoluzione digitale in corso. In questo contesto,
@@ -102,8 +102,8 @@ L'IA è quindi una priorità fondamentale per l'Unione europea. L'Italia
 mira a strutturare il proprio Programma Strategico in linea con
 l’approccio europeo.
 
-2.1 Principi guida
-------------------
+Principi guida
+--------------
 
 Questo programma strategico nazionale per l'intelligenza artificiale
 definisce un quadro coerente ed olistico di iniziative per lo sviluppo
@@ -175,8 +175,8 @@ cambiamenti sociali; entrambi, a loro volta, stimoleranno la ricerca
 fondamentale e quella applicata. Questo programma strategico è impostato
 per sostenere tutti questi aspetti.
 
-2.3 Obiettivi e settori prioritari
-----------------------------------
+Obiettivi e settori prioritari
+------------------------------
 
 Date le sfide descritte nel capitolo precedente, nonché la posizione
 competitiva dell'Italia nel campo dell'IA, questo programma strategico

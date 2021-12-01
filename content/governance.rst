@@ -1,5 +1,5 @@
-4. Governance
-=============
+Governance
+==========
 
 Le trasformazioni digitali coinvolgono tutti gli aspetti dell’economia e
 della società e non possono quindi essere gestite in isolamento. Ciò
