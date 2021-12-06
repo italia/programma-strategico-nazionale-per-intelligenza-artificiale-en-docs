@@ -10,6 +10,8 @@ prioritari.
 
 **Tre aree chiave di intervento**
 
+.. image:: ./media/2.jpg
+
 Nelle sezioni seguenti, questa strategia si svilupperà su queste aree di
 intervento e descriverà le politiche specifiche previste dal Governo.
 
@@ -38,7 +40,7 @@ STEM in tutto il sistema dell’istruzione, così da favorire lo sviluppo
 di una forza lavoro in grado di interagire con l'IA e sfruttarne i
 benefici.
 
-1. **Rafforzare il programma Nazionale di Dottorato**
+**A1. Rafforzare il programma Nazionale di Dottorato**
 
 **Questa misura mira a consolidare e ampliare complessivamente i corsi
 di dottorato italiani, con l'ambizione di assegnarne una quota adeguata
@@ -46,8 +48,8 @@ all'IA.**
 
 **Obiettivo**
 
-*Consolidare ed espandere i dottorati di ricerca per formare una quota
-maggiore di studenti di IA e attirare studenti di talento dall'estero.*
+Consolidare ed espandere i dottorati di ricerca per formare una quota
+maggiore di studenti di IA e attirare studenti di talento dall'estero.
 
 **Iniziative**
 
@@ -63,16 +65,16 @@ maggiore di studenti di IA e attirare studenti di talento dall'estero.*
 
 **Possibili fonti di investimento**
 
--  *PNRR*  [1]_ *M4C1 Investimento 4.1: Estensione del numero di
+-  PNRR  [1]_ M4C1 Investimento 4.1: Estensione del numero di
    dottorati di ricerca e dottorati innovativi. €430 Mln concessi su
-   base competitiva (approccio bottom-up).*
+   base competitiva (approccio bottom-up).
 
--  *PNRR M4C2 Investimento 3.3: Introduzione di dottorati innovativi che
+-  PNRR M4C2 Investimento 3.3: Introduzione di dottorati innovativi che
    rispondono ai fabbisogni di innovazione delle imprese e promuovono
    l’assunzione dei ricercatori dalle imprese. €600 Mln concessi su base
-   competitiva (approccio bottom-up).*
+   competitiva (approccio bottom-up).
 
-   2. **Attrarre e trattenere i ricercatori**
+**A2. Attrarre e trattenere i ricercatori**
 
 **Le carriere precarie e i lenti avanzamenti professionali spingono i
 talenti italiani verso Paesi con migliori opportunità e, allo stesso
@@ -86,27 +88,9 @@ competitività italiana nella ricerca sull'IA.
 
 **Iniziative**
 
-Finanziare attività di ricerca gestite in autonomia da giovani
-ricercatori, che acquisiranno da subito
+Finanziare attività di ricerca gestite in autonomia da giovani ricercatori, che acquisiranno da subito una prima esperienza di gestione autonoma della ricerca. Il programma - fortemente ispirato al pilastro Excellent Science del programma Horizon Europe - avrà lo scopo di attrarre giovani ricercatori, beneficiari di borse di studio di alto profilo internazionale come gli “starting grants” del Consiglio europeo della ricerca e le Marie Skłodowska-Curie Postdoctoral Fellowships (PF). Reclutare giovani ricercatori di IA nell'ambito del programma “Rita Levi Montalcini” ideato dal Ministero dell'Università e della Ricerca.
 
-una prima esperienza di gestione autonoma della ricerca. Il programma -
-fortemente ispirato al
-
-pilastro Excellent Science del programma Horizon Europe - avrà lo scopo
-di attrarre giovani
-
-ricercatori, beneficiari di borse di studio di alto profilo
-internazionale come gli “starting grants” del
-
-Consiglio europeo della ricerca e le Marie Skłodowska-Curie Postdoctoral
-Fellowships (PF).
-
-Reclutare giovani ricercatori di IA nell'ambito del programma “Rita Levi
-Montalcini” ideato dal
-
-Ministero dell'Università e della Ricerca.
-
-Possibili fonti di investimento
+**Possibili fonti di investimento**
 
 -  PNRR M4C2 Investimento 1.2: Finanziamento di progetti presentati da
    giovani ricercatori. 600 Mln concessi su base competitiva (non mirati
@@ -118,7 +102,7 @@ Possibili fonti di investimento
 -  Programma Rita Levi Montalcini: 5 Mln/anno concesso su base
    competitiva (approccio bottom-up).
 
-   3. **Rafforzare le competenze di IA nella Pubblica Amministrazione**
+**A3. Rafforzare le competenze di IA nella Pubblica Amministrazione**
 
 **Una grande debolezza**\  [2]_ **della Pubblica Amministrazione in
 Italia è la quota limitata di dipendenti con lauree STEM, in particolare
@@ -146,7 +130,7 @@ PNRR M4C1 Investimento 4.1: Estensione del numero di dottorati di
 ricerca e dottorati innovativi. 430M concessi su base competitiva
 (approccio bottom-up).
 
-4. **Promuovere corsi e carriere in materie STEM**
+**A4. Promuovere corsi e carriere in materie STEM**
 
 **Le materie STEM costituiscono la base per sviluppare le competenze e
 le carriere dell'IA. Pertanto, è importante stimolare l'interesse delle
@@ -155,8 +139,7 @@ attenzione alle donne.**
 
 **Obiettivo**
 
-Aumentare la quota di studenti che studiano materie STEM, le basi per
-sviluppare le competenze di intelligenza artificiale.
+Aumentare la quota di studenti che studiano materie STEM, le basi per sviluppare le competenze di intelligenza artificiale.
 
 **Iniziativa**
 
@@ -528,7 +511,7 @@ soluzioni di IA per aumentare la competitività delle imprese.
 **Possibili iniziative**
 
 Introduzione di linee guida chiare sugli stipendi degli esperti di
-IA [8]_che devono essere in linea con i parametri salariali
+IA [8]_ che devono essere in linea con i parametri salariali
 internazionali.
 
 Per quanto riguarda il reclutamento di esperti senior di AI, promozione
@@ -882,38 +865,37 @@ finanziate prevalentemente tramite risorse PCM [13]_-MITD/PA, in
 partnership con altre istituzioni pubbliche/private ove opportuno.
 
 .. [1]
-   `Piano Nazionale di Ripresa e
-   Resilienza <https://italiadomani.gov.it/it/home.html>`__
+   `Piano Nazionale di Ripresa e Resilienza <https://italiadomani.gov.it/it/home.html>`__
 
 .. [2]
-   :sup:`Secondo gli Indicatori di Governance Mondiale della Banca
+   Secondo gli Indicatori di Governance Mondiale della Banca
    Mondiale, l'efficacia della Pubblica Amministrazione (PA) italiana si
    colloca ben al di sotto dell'efficacia della PA in Francia, Germania
-   e Spagna.`
+   e Spagna.
 
 .. [3]
-   :sup:`Gli ITS sono scuole di eccellenza ad alta specializzazione
+   Gli ITS sono scuole di eccellenza ad alta specializzazione
    tecnologica che consentono agli studenti di conseguire un diploma
    tecnico superiore. Rappresentano un'opportunità di assoluto rilievo
    nel panorama formativo italiano che collega le politiche
    dell'istruzione, della formazione e del lavoro con le politiche
    industriali: l'obiettivo è sostenere interventi nei settori
    produttivi, con particolare riferimento alle esigenze di innovazione
-   e trasferimento tecnologico delle piccole e medie imprese.`
+   e trasferimento tecnologico delle piccole e medie imprese.
 
 .. [4]
-   :sup:`Cfr`\ \ \ https://www.go-fair.or
+   Cfr https://www.go-fair.or
 
 .. [5]
-   :sup:`Alcuni progetti potrebbero essere altamente rischiosi ma
+   Alcuni progetti potrebbero essere altamente rischiosi ma
    fondamentali, ad esempio l'apprendimento automatico o l'applicazione
    per il risparmio energetico sostenibile tra cui, ad esempio, la
    previsione della congestione e degli ingorghi in alcuni nodi di
    mobilità di interscambio vicino agli aeroporti e la ricerca di
-   soluzioni automatizzate per ridurre al minimo l'inquinamento.`
+   soluzioni automatizzate per ridurre al minimo l'inquinamento.
 
 .. [6]
-   :sup:`Potrebbe includere i Settori Pubblici e le sfide della società
+   Potrebbe includere i Settori Pubblici e le sfide della società
    (ad esempio per le tecnologie a sostegno della Giustizia come
    definite nel PNRR), iniziative per Transizioni 4.0, cofinanziate dal
    MUR e da aziende private con incentivi PNRR, per l'analisi dei dati
@@ -921,17 +903,17 @@ partnership con altre istituzioni pubbliche/private ove opportuno.
    lavorare su immagini satellitari e aerospaziali), per la salute (ad
    esempio lavorare con dati COVID-19) e per l'economia culturale e
    rinnovare l'offerta turistica con tecnologie di IA ed eventualmente
-   per nuove iniziative per il cambiamento climatico.`
+   per nuove iniziative per il cambiamento climatico.
 
 .. [7]
-   :sup:`1.4% nel 2019`
+   1.4% nel 2019
 
 .. [8]
-   :sup:`Per esempio le linee guida sugli stipendi dell'azione Marie
-   Sklodowska Curie`
+   Per esempio le linee guida sugli stipendi dell'azione Marie
+   Sklodowska Curie
 
 .. [9]
-   :sup:`Queste risorse dovrebbero includere i seguenti beni (l'elenco è
+   Queste risorse dovrebbero includere i seguenti beni (l'elenco è
    solo esplicativo e non esaustivo). Per i beni materiali: hardware di
    calcolo come HPC basato su unità GPU o CPU, computer GPU,
    archiviazione e gestione dati, ecc. Dispositivi dotati di strutture
@@ -939,13 +921,13 @@ partnership con altre istituzioni pubbliche/private ove opportuno.
    autonomia come droni, braccia robotiche, dispositivi indossabili,
    ecc. Per i beni non tangibili: licenze software IA, abbonamento a
    risorse editoriali e partecipazione a conferenze ed eventi accademici
-   internazionali di alto livello`
+   internazionali di alto livello
 
 .. [10]
-   :sup:`Ad esempio il Master di 2° livello in "Artificial Intelligence
+   Ad esempio il Master di 2° livello in "Artificial Intelligence
    & Cloud: Hands on innovation" offerto dal Politecnico di Torino o
    l'iniziativa “Advanced School in AI” finanziata dalla Regione Emilia
-   Romagna con il contributo di tutte le università regionali.`
+   Romagna con il contributo di tutte le università regionali.
 
 .. [11]
    Comitato Interministeriale per la Transizione Digitale
