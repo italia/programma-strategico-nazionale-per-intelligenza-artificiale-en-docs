@@ -264,7 +264,7 @@ riassume i principali indicatori.
      - 1,76% 
      - 1,45%
      -
-   * - Spesa Pubblica in Ricerca [20]_ (% del PIL, 2019)
+   * - Spesa Pubblica in Ricerca [15]_ (% del PIL, 2019)
      - 0,46%  
      - 0,28% 
      - 0,13%  
@@ -300,7 +300,7 @@ riassume i principali indicatori.
      - 6.645 
      - 3.374 
      - `Approfondisci <https://www.oecd.ai/data-from-partners?selectedTab=AIResearch>`_
-   * - Produttività media dei ricercatori IA [21]_ 
+   * - Produttività media dei ricercatori IA [16]_ 
      - 2,00
      - 1,22
      - 2,23
@@ -318,7 +318,7 @@ riassume i principali indicatori.
      - 54.762
      - 32.001
      - `Approfondisci <https://www.wipo.int/edocs/pubdocs/en/wipo_pub_941_2020.pdf>`_
-   * - Numero di istituzioni [22]_
+   * - Numero di istituzioni [17]_
      - 147
      - 76
      - 163
@@ -336,13 +336,13 @@ riassume i principali indicatori.
      - 28.926 €
      - 14.691 €
      - `Approfondisci <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
-   * - R&S industria le (% del PIL, 2018) [23]_
+   * - R&S industria le (% del PIL, 2018) [18]_
      - 2,23%
      - 1,45%
      - 1,22%
      - 0,84%
      - `Approfondisci <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
-   * - Numero di campioni digitali globali [24]_
+   * - Numero di campioni digitali globali [19]_
      - 8
      - 7
      - 33
@@ -366,7 +366,7 @@ riassume i principali indicatori.
 
 I ricercatori italiani in IA sono riconosciuti a livello internazionale
 per la loro produzione scientifica, sia in termini di quantità che di
-qualità [25]_.
+qualità [20]_.
 
 Tuttavia, ci sono diversi limiti che frenano lo sviluppo della ricerca
 italiana, sia nella sfera pubblica che in quella privata, che devono
@@ -374,7 +374,7 @@ essere considerati e affrontati. In particolare:
 
 -  **Il sistema di ricerca pubblico riceve minori finanziamenti rispetto
    a quelli di Paesi simili e le remunerazioni sono generalmente
-   inferiori**. In media, i paesi dell'UE  [26]_ (UE28) investono il
+   inferiori**. In media, i paesi dell'UE  [21]_ (UE28) investono il
    2,38% del PIL nella ricerca, mentre l'Italia investe solo l'1,45% del
    PIL. A tali finanziamenti si associano salari altrettanto ridotti, in
    quanto gli enti di ricerca pubblici italiani devono rispettare gli
@@ -383,14 +383,14 @@ essere considerati e affrontati. In particolare:
    ricercatori italiani ricevono stipendi inferiori (15.343 euro per i
    dottorati di ricerca) rispetto a Germania (48.027 euro), Francia
    (20.220 euro), Regno Unito (17.272 euro esentasse) e Svizzera (67.998
-   euro). [27]_
+   euro). [22]_
 
 -  Nel **settore privato, le imprese stanno sotto-investendo in R&S**.
    Le aziende italiane spendono ca. 15 miliardi di euro in R&S all'anno
    (2018), cifra inferiore alla media dei Paesi europei simili. Gli
    investimenti sono limitati anche dalle ridotte dimensioni medie
    dell'impresa italiana. All'Italia, infine, mancano **Global Digital
-   Champions**\  [28]_ nei settori hardware, software e integrazione, la
+   Champions**\  [23]_ nei settori hardware, software e integrazione, la
    cui presenza è considerata come un fattore chiave per stimolare
    l'innovazione.
 
@@ -401,14 +401,14 @@ così il ritardo delle aziende nel processo di trasformazione digitale.
 Il tasso di adozione di soluzioni IA da parte delle imprese italiane
 (35%) è inferiore rispetto alla media UE (43%) e nel 2017 solo il 15% di
 esse ha sviluppato progetti oltre la fase pilota (vs. 32% per i paesi
-europei simili) [29]_. Le imprese italiane indicano gli alti costi di
+europei simili) [24]_. Le imprese italiane indicano gli alti costi di
 adozione e l'assenza di finanziamenti pubblici come la principale
 barriera all’adozione di soluzioni IA. Inoltre, le aziende italiane
-faticano a trovare professionisti qualificati in IA [30]_. Poiché l'IA è
+faticano a trovare professionisti qualificati in IA [25]_. Poiché l'IA è
 un importante fattore abilitante della crescita della produttività,
 questo ritardo nella sua adozione sarà riflesso sulla crescita del PIL,
 con il rischio che si ampli il divario tra l'Italia e i Paesi europei di
-riferimento. Secondo McKinsey [31]_, il PIL generato dall'IA crescerà
+riferimento. Secondo McKinsey [26]_, il PIL generato dall'IA crescerà
 del 19% per l'UE e solamente del 13% in Italia.
 
 **Riepilogo: le sfide future**
@@ -435,131 +435,109 @@ promuovere d’ora in avanti per affrontare queste sfide.
    `Claire - AI <https://claire-ai.org/>`__
 
 .. [3]
-   :sup:`Unità`\ \ \ `ELLIS <https://ellis.eu/units#pro%1Fle>`__\ \ \ :sup:`,
-   tre delle quali in Italia a Genova, Torino e Modena.`
+   `Unità ELLIS <https://ellis.eu/units#pro%1Fle>`__\ \ \  `tre delle quali in Italia a Genova, Torino e Modena.`
 
 .. [4]
-   `Indagine
-   CINI <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ :sup:`-
+   `Indagine CINI <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-
    Lab AIIS National Assembly 2020: 229 donne e 936 uomini su un totale
    di 1167 membri; per i dati complessivi STEM si veda il Rapporto
    Fondazione Elsevier 2021: Gender in Research citato da Ansa il 24
    luglio 2021.`
 
 .. [5]
-   :sup:`Confindustria,`\ \ \ `Digital Innovation
-   Hubs <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ :sup:`.`
+   `Confindustria,`\ \ \ `Digital Innovation
+   Hubs <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [6]
-   :sup:`Camere di Commercio d’Italia,`\ \ \ `Punto Impresa
-   Digitale <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ :sup:`.`
+   `Camere di Commercio d’Italia,`\ \ \ `Punto Impresa
+   Digitale <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [7]
-   :sup:`Centri di competenza ad alta
-   specializzazione`\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ :sup:`.`
+   `Centri di competenza ad alta
+   specializzazione`\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
 
 .. [8]
-   :sup:`Commissione europea,`\ \ \ `European Digital Innovation
-   Hubs <https://digital-strategy.ec.europa.eu/en/activities/edihs>`__\ \ \ :sup:`.`
+   `Commissione europea,`\ \ \ `European Digital Innovation
+   Hubs <https://digital-strategy.ec.europa.eu/en/activities/edihs>`__\ \ \ `.`
 
 .. [9]
-   :sup:`Politecnico di Milano,`\ \ \ `Osservatorio italiano
-   sull'IA <https://www.osservatori.net/it/home>`__\ \ \ :sup:`.`
+   `Politecnico di Milano,`\ \ \ `Osservatorio italiano
+   sull'IA <https://www.osservatori.net/it/home>`__\ \ \ `.`
 
 .. [10]
-   :sup:`Iscritta alla sezione start up innovative del Registro delle
+   `Iscritta alla sezione start up innovative del Registro delle
    Imprese della Camera di Commercio.`
 
 .. [11]
-   :sup:`Osservatorio Italiano sull'IA, 2021, Il Mercato 2020
+   `Osservatorio Italiano sull'IA, 2021, Il Mercato 2020
    dell'Intelligenza Artificiale in Italia: Applicazioni e Trend di
    Sviluppo.`
 
 .. [12]
-   :sup:`Dati europei sulla spesa per l'IA forniti da Statista; Dati sul
+   `Dati europei sulla spesa per l'IA forniti da Statista; Dati sul
    PIL del FMI WEO.`
 
 .. [13]
-   :sup:`Commissione europea,`\ \ \ `EGovernment Benchmark
-   2020 <https://op.europa.eu/en/publication-detail/-/publication/8e708e4f-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-233013088>`__\ \ \ :sup:`.`
+   `Commissione europea,`\ \ \ `EGovernment Benchmark
+   2020 <https://op.europa.eu/en/publication-detail/-/publication/8e708e4f-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-233013088>`__\ \ \ `.`
 
 .. [14]
-   :sup:`Il confronto con i pari si è concentrato su Germania, Francia e
+   `Il confronto con i pari si è concentrato su Germania, Francia e
    Regno Unito; questi paesi sono simili all'Italia per dimensione
    (popolazione), scolarizzazione, PIL e peso relativo dei diversi
    settori sul PIL.`
 
 .. [15]
-   Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
-   expenditure in the EU at 2.19% of GDP in 2019"
+   `Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
+   expenditure in the EU at 2.19% of GDP in 2019"`
 
 .. [16]
-   Rapporto delle due righe precedenti.
+   `Rapporto delle due righe precedenti.`
 
 .. [17]
-   Aziende, istituti di ricerca, università, ecc. coinvolti nella
-   creazione di brevetti.
+   `Aziende, istituti di ricerca, università, ecc. coinvolti nella
+   creazione di brevetti.`
 
 .. [18]
-   Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
+   `Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
    expenditure in the EU at 2.19% of GDP in 2019", e IMF: WEO October
-   2020.
+   2020.`
 
 .. [19]
-   Numero di aziende "unicorni" focalizzate sull'IA.
+   `Numero di aziende "unicorni" focalizzate sull'IA.`
 
 .. [20]
-   Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
-   expenditure in the EU at 2.19% of GDP in 2019"
-
-.. [21]
-   Rapporto delle due righe precedenti.
-
-.. [22]
-   Aziende, istituti di ricerca, università, ecc. coinvolti nella
-   creazione di brevetti.
-
-.. [23]
-   Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
-   expenditure in the EU at 2.19% of GDP in 2019", e IMF: WEO October
-   2020.
-
-.. [24]
-   Numero di aziende "unicorni" focalizzate sull'IA.
-
-.. [25]
-   :sup:`Cfr. ad esempio Best Paper Award @NeurIPS (dicembre 2020) o
+   `Cfr. ad esempio Best Paper Award @NeurIPS (dicembre 2020) o
    anche i risultati del CNR sull'IA applicata all'informatica.`
 
-.. [26]
-   :sup:`High-level working group della Commissione Nazionale Italiana
+.. [21]
+   `High-level working group della Commissione Nazionale Italiana
    per l'UNESCO, 2021, Ricerca e sviluppo: quale futuro per l'Italia?`
 
-.. [27]
-   :sup:`Dati recuperati da`\ \ \ `Informatics
-   Europe <https://www.informatics-europe.org/data/higher-education/academic-salaries/phds-postdocs.html>`__\ \ \ :sup:`.`
+.. [22]
+   `Dati recuperati da`\ \ \  `Informatics
+   Europe <https://www.informatics-europe.org/data/higher-education/academic-salaries/phds-postdocs.html>`__\ \ \ `.`
 
-.. [28]
-   :sup:`Aziende che forniscono servizi digitali ad altre aziende in
+.. [23]
+   `Aziende che forniscono servizi digitali ad altre aziende in
    tutto il mondo per gestire la propria attività.`
 
-.. [29]
+.. [24]
    `Eurostat,
-   2020 <https://www.amcham.it/upload/documenti/5/57/572/5728.pdf>`__\ \ \ :sup:`,
+   2020 <https://www.amcham.it/upload/documenti/5/57/572/5728.pdf>`__\ \ \ `,
    “Indagine sulle imprese europee sull'uso delle tecnologie basate
    sull'intelligenza artificiale”; con alcune statistiche
    dell'Osservatorio del Politecnico di Milano si osserva un 50% di
    adozioni per le aziende intervistate; Rapporto della Camera di
    Commercio americana in Italia.`
 
-.. [30]
-   :sup:`Oltre il 50% delle aziende intervistate ha dichiarato che uno
+.. [25]
+   `Oltre il 50% delle aziende intervistate ha dichiarato che uno
    dei maggiori ostacoli è l'assenza di professionisti di IA
    (Osservatorio IA del Politecnico di Milano, edizione 2020).`
 
-.. [31]
-   :sup:`26
-   Dati`\ \ \ `presentati <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Arti%22cial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ :sup:`da
+.. [26]
+   `Dati presentati <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Arti%22cial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ `da
    McKinsey durante l'evento “The Future Is Now” tenutosi a Milano nel
    2019.`
 
