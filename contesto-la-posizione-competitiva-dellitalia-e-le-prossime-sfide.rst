@@ -430,6 +430,7 @@ I prossimi capitoli forniranno dettagli sui progetti che l’Italia vuole
 promuovere d’ora in avanti per affrontare queste sfide.
 
 .. [1]
+   Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019
 
 .. [2]
    `Claire - AI <https://claire-ai.org/>`__
