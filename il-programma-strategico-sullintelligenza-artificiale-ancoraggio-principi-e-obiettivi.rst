@@ -20,14 +20,11 @@ artificiale per l'Europa" COM(2018) 237, nell'ambito della strategia per
 il mercato unico digitale. Questa strategia delinea i seguenti
 obiettivi:
 
--  Rafforzare la **leadership** europea in IA sia in ambito tecnologico
-   che industriale e la diffusione dell'IA in tutta l'economia, sia nel
-   settore privato che in quello pubblico.
+-  .. rubric:: Rafforzare la **leadership** europea in IA sia in ambito tecnologico che industriale e la diffusione dell'IA in tutta l'economia, sia nel settore privato che in quello pubblico.
 
--  Prepararsi ai **cambiamenti socio-economici** che l’IA comporta.
+-  .. rubric:: Prepararsi ai **cambiamenti socio-economici** che l’IA comporta.
 
--  Stabilire un **quadro giuridico** appropriato basato su valori e
-   principi etici.
+-  .. rubric:: Stabilire un **quadro giuridico** appropriato basato su valori e principi etici.
 
 A seguire, la Commissione europea e gli Stati membri hanno presentato un
 "Piano coordinato sull'intelligenza artificiale" - COM(2018)795 nel
