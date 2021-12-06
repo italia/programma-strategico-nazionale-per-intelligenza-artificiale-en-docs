@@ -159,6 +159,8 @@ italiane che offrono prodotti e servizi IA, di cui:
 
 **Figura 1:**\ *Imprese italiane che offrono prodotti IA, per settore*
 
+.. image:: ./media/image7.jpg
+
 Inoltre, diverse grandi aziende italiane si stanno dotando di laboratori
 di ricerca sull'intelligenza artificiale, per creare soluzioni che
 migliorino la qualità dei prodotti o dei servizi offerti ai clienti. Le
@@ -196,6 +198,8 @@ progetti iniziati), **bancario-finanziario** (16%) e le
 
 **Tabella 2:**\ *Progetti di IA nelle medio-grandi imprese italiane, per
 settore Categoria*
+
+.. image:: ./media/image8.jpg
 
 Nel 2020 il mercato privato dell'Intelligenza Artificiale in Italia ha
 raggiunto un valore di 300 milioni di euro [11]_, con un aumento del 15%
@@ -236,165 +240,127 @@ considerano elementi come spesa industriale in ricerca e sviluppo,
 brevetti e applicazioni dell’intelligenza artificiale. La tabella 3
 riassume i principali indicatori.
 
-Tabella 3: La posizione internazionale dell'Italia
+**Tabella 3:**\ *La posizione internazionale dell'Italia*
 
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           | |image4|  | |image5|  | |image6|  | |image7|  |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Risorse   |           |           |           |           |           |
-| nazionali |           |           |           |           |           |
-| di R&S    |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Spesa di  | 3,17%     | 2,19%     | 1,76%     | 1,45%     | https://e |
-| Ricerca   |           |           |           |           | c.europa. |
-| (% del    |           |           |           |           | eu/eurost |
-| PIL,      |           |           |           |           | at/web/pr |
-| 2019)     |           |           |           |           | oducts-eu |
-|           |           |           |           |           | rostat-ne |
-|           |           |           |           |           | ws/-/DDN- |
-|           |           |           |           |           | 20201127- |
-|           |           |           |           |           | 1         |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Spesa     | 0,46%     | 0,28%     | 0,13%     | 0,20%     |           |
-| Pubblica  |           |           |           |           |           |
-| in        |           |           |           |           |           |
-| Ricerca [ |           |           |           |           |           |
-| 20]_      |           |           |           |           |           |
-| (% del    |           |           |           |           |           |
-| PIL,      |           |           |           |           |           |
-| 2019)     |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| R&S       | 109.544 € | 53.158 €  | 44.364 €  | 25.910 €  | https://e |
-| (€Mln,    |           |           |           |           | c.europa. |
-| 2019)     |           |           |           |           | eu/eurost |
-|           |           |           |           |           | at/web/pr |
-|           |           |           |           |           | oducts-eu |
-|           |           |           |           |           | rostat-ne |
-|           |           |           |           |           | ws/-/DDN- |
-|           |           |           |           |           | 20201127- |
-|           |           |           |           |           | 1         |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Personale | 8.500     | 6.950     | 7.000     | 5.150     | http://da |
-| R&S per   |           |           |           |           | ta.uis.un |
-| milione   |           |           |           |           | esco.org/ |
-| di        |           |           |           |           | Index.asp |
-| abitanti  |           |           |           |           | x?DataSet |
-| (2018)    |           |           |           |           | Code=SCN_ |
-|           |           |           |           |           | DS&lang=e |
-|           |           |           |           |           | n         |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Statistic |           |           |           |           |           |
-| he        |           |           |           |           |           |
-| di        |           |           |           |           |           |
-| ricerca e |           |           |           |           |           |
-| brevetti  |           |           |           |           |           |
-| IA        |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Ricercato | 2.660     | 2.755     | 2.974     | 739       | https://j |
-| ri        |           |           |           |           | fgagne.ai |
-| IA (2019) |           |           |           |           | /global-a |
-|           |           |           |           |           | i-talent- |
-|           |           |           |           |           | report-20 |
-|           |           |           |           |           | 20/       |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Pubblicaz | 5.310     | 3.352     | 6.645     | 3.374     | https://w |
-| ioni      |           |           |           |           | ww.oecd.a |
-| IA (2019) |           |           |           |           | i/data-fr |
-|           |           |           |           |           | om-partne |
-|           |           |           |           |           | rs?select |
-|           |           |           |           |           | edTab=AIR |
-|           |           |           |           |           | esearch   |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Produttiv | 2,00      | 1,22      | 2,23      | 4,57      |           |
-| ità       |           |           |           |           |           |
-| media dei |           |           |           |           |           |
-| ricercato |           |           |           |           |           |
-| ri        |           |           |           |           |           |
-| IA [21]_  |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Indice di | 0,79      | 0,34      | 0,29      | 0,07      |           |
-| intensità |           |           |           |           |           |
-| della     |           |           |           |           |           |
-| strategia |           |           |           |           |           |
-| di        |           |           |           |           |           |
-| brevettaz |           |           |           |           |           |
-| ione      |           |           |           |           |           |
-| (%brevett |           |           |           |           |           |
-| i         |           |           |           |           |           |
-| mondiali/ |           |           |           |           |           |
-| %pubblica |           |           |           |           |           |
-| zioni     |           |           |           |           |           |
-| mondiali) |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Domande   | 178.184   | 67.294    | 54.762    | 32.001    | https://w |
-| di        |           |           |           |           | ww.wipo.i |
-| brevetto  |           |           |           |           | nt/edocs/ |
-|           |           |           |           |           | pubdocs/e |
-|           |           |           |           |           | n/wipo_pu |
-|           |           |           |           |           | b_941_202 |
-|           |           |           |           |           | 0.pdf     |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Numero di | 147       | 76        | 163       | 42        | https://d |
-| istituzio |           |           |           |           | ata.jrc.e |
-| ni [22]_  |           |           |           |           | c.europa. |
-|           |           |           |           |           | eu/datase |
-|           |           |           |           |           | t/0cb8ba7 |
-|           |           |           |           |           | 4-097c-41 |
-|           |           |           |           |           | 97-ac50-c |
-|           |           |           |           |           | fbb0a5099 |
-|           |           |           |           |           | a5        |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Investime |           |           |           |           |           |
-| nti       |           |           |           |           |           |
-| aziendali |           |           |           |           |           |
-| e         |           |           |           |           |           |
-| risultati |           |           |           |           |           |
-| sull'IA   |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| R&S       | 74.162 €  | 33.809 €  | 28.926 €  | 14.691 €  | http://da |
-| industria |           |           |           |           | ta.uis.un |
-| le        |           |           |           |           | esco.org/ |
-| (€Mln,    |           |           |           |           | Index.asp |
-| 2018)     |           |           |           |           | x?DataSet |
-|           |           |           |           |           | Code=SCN_ |
-|           |           |           |           |           | DS&lang=e |
-|           |           |           |           |           | n         |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| R&S       | 2,23%     | 1,45%     | 1,22%     | 0,84%     | http://da |
-| industria |           |           |           |           | ta.uis.un |
-| le        |           |           |           |           | esco.org/ |
-| (% del    |           |           |           |           | Index.asp |
-| PIL,      |           |           |           |           | x?DataSet |
-| 2018) [23 |           |           |           |           | Code=SCN_ |
-| ]_        |           |           |           |           | DS&lang=e |
-|           |           |           |           |           | n         |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Numero di | 8         | 7         | 33        | 0         |           |
-| campioni  |           |           |           |           |           |
-| digitali  |           |           |           |           |           |
-| globali [ |           |           |           |           |           |
-| 24]_      |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Investime | 5,0 €     | 3,0 €     | n.a.      | Risultato | https://p |
-| nti       |           |           |           | del       | ublicatio |
-| pubblici  |           |           |           | programma | n.enseign |
-| dedicati  |           |           |           |           | ementsup- |
-| all'IA (€ |           |           |           |           | recherche |
-| Mld)      |           |           |           |           | .gouv.fr/ |
-|           |           |           |           |           | eesr/FR/T |
-|           |           |           |           |           | 923/l_e!o |
-|           |           |           |           |           | rt_de_rec |
-|           |           |           |           |           | herche_et |
-|           |           |           |           |           | _developp |
-|           |           |           |           |           | ement_en_ |
-|           |           |           |           |           | france/   |
-+-----------+-----------+-----------+-----------+-----------+-----------+
+.. list-table:: 
+   :widths: 50 25 25 25 25 25
+   :header-rows: 1
+
+   * - 
+     - |image4|
+     - |image5|
+     - |image6|
+     - |image7|
+     - 
+   * - **Risorse nazionali di R&S**
+     -
+     -
+     -
+     -
+     - `Approfondisci <https://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20201127-1>`_
+   * - Spesa di Ricerca (% del PIL, 2019)
+     - 3,17% 
+     - 2,19%
+     - 1,76% 
+     - 1,45%
+     -
+   * - Spesa Pubblica in Ricerca [20]_ (% del PIL, 2019)
+     - 0,46%  
+     - 0,28% 
+     - 0,13%  
+     - 0,20% 
+     -
+   * - R&S (€Mln, 2019)
+     - 109.544 €
+     - 53.158 € 
+     - 44.364 € 
+     - 25.910 € 
+     - `Approfondisci <https://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20201127-1>`_
+   * - Personale R&S per milione di abitanti (2018)
+     - 8.500
+     - 6.950
+     - 7.000
+     - 5.150
+     - `Approfondisci <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
+   * - **Statistiche di ricerca e brevetti IA**
+     - 
+     - 
+     -
+     - 
+     - 
+   * - Ricercatori IA (2019)
+     - 2.660 
+     - 2.755
+     - 2.974
+     - 739
+     - `Approfondisci <https://jfgagne.ai/global-ai-talent-report-2020/>`_
+   * - Pubblicazioni IA (2019)
+     - 5.310
+     - 3.352
+     - 6.645 
+     - 3.374 
+     - `Approfondisci <https://www.oecd.ai/data-from-partners?selectedTab=AIResearch>`_
+   * - Produttività media dei ricercatori IA [21]_ 
+     - 2,00
+     - 1,22
+     - 2,23
+     - 4,57
+     - 
+   * - Indice di intensità della strategia di brevettazione (%brevett i mondiali / %pubblicazioni mondiali)
+     - 0,79
+     - 0,34
+     - 0,29
+     - 0,07
+     - 
+   * - Domande di brevetto
+     - 178.184
+     - 67.294
+     - 54.762
+     - 32.001
+     - `Approfondisci <https://www.wipo.int/edocs/pubdocs/en/wipo_pub_941_2020.pdf>`_
+   * - Numero di istituzioni [22]_
+     - 147
+     - 76
+     - 163
+     - 42
+     - `Approfondisci <https://data.jrc.ec.europa.eu/dataset/0cb8ba74-097c-4197-ac50-cfbb0a5099a5>`_
+   * - **Investimenti aziendali e risultati sull’IA**
+     - 
+     - 
+     - 
+     - 
+     - 
+   * - R&S industriale (€Mln, 2018)
+     - 74.162 €
+     - 33.809 €
+     - 28.926 €
+     - 14.691 €
+     - `Approfondisci <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
+   * - R&S industria le (% del PIL, 2018) [23]_
+     - 2,23%
+     - 1,45%
+     - 1,22%
+     - 0,84%
+     - `Approfondisci <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
+   * - Numero di campioni digitali globali [24]_
+     - 8
+     - 7
+     - 33
+     - 0
+     - 
+   * - 
+     - 
+     - 
+     - 
+     - 
+     - 
+   * - Investimenti pubblici dedicati all’IA (€ Mld)
+     - 5,0 €
+     - 3,0 €
+     - n.a.
+     - Risultato del programma
+     - `Approfondisci <https://publication.enseignementsup-recherche.gouv.fr/eesr/FR/T923/l_e!ort_de_recherche_et_developpement_en_france/>`_
+
 
 **La posizione della ricerca italiana**
 
@@ -408,7 +374,7 @@ essere considerati e affrontati. In particolare:
 
 -  **Il sistema di ricerca pubblico riceve minori finanziamenti rispetto
    a quelli di Paesi simili e le remunerazioni sono generalmente
-   inferiori**. In media, i paesi dell'UE  [26]_(UE28) investono il
+   inferiori**. In media, i paesi dell'UE  [26]_ (UE28) investono il
    2,38% del PIL nella ricerca, mentre l'Italia investe solo l'1,45% del
    PIL. A tali finanziamenti si associano salari altrettanto ridotti, in
    quanto gli enti di ricerca pubblici italiani devono rispettare gli
@@ -417,7 +383,7 @@ essere considerati e affrontati. In particolare:
    ricercatori italiani ricevono stipendi inferiori (15.343 euro per i
    dottorati di ricerca) rispetto a Germania (48.027 euro), Francia
    (20.220 euro), Regno Unito (17.272 euro esentasse) e Svizzera (67.998
-   euro\ :sup:`2`). [27]_
+   euro). [27]_
 
 -  Nel **settore privato, le imprese stanno sotto-investendo in R&S**.
    Le aziende italiane spendono ca. 15 miliardi di euro in R&S all'anno
