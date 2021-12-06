@@ -348,46 +348,46 @@ particolare sarà dedicato a sostenere la nascita e la crescita delle
 aziende IT italiane.
 
 .. [1]
-   :sup:`Commissione europea,`\ \ \ `Eccellenza e fiducia
+   Commissione europea, \ \ \ `Eccellenza e fiducia
    nell'intelligenza
-   artificiale <https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en>`__\ \ \ :sup:`.`
+   artificiale <https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en>`__\ \ \ .
 
 .. [2]
-   :sup:`Proposta di regolamento del Parlamento europeo e del Consiglio
+   Proposta di regolamento del Parlamento europeo e del Consiglio
    recante norme armonizzate sull'intelligenza artificiale (Artificial
    Intelligence Act) e che modifica alcuni atti legislativi.
-   COM/2021/206 definitivo.`
+   COM/2021/206 definitivo.
 
 .. [3]
-   :sup:`Commissione europea, 2020,`\ \ \ `Libro bianco dell'UE
+   Commissione europea, 2020, \ \ \ `Libro bianco dell'UE
    sull'intelligenza
-   artificiale <https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf>`__\ \ \ :sup:`.`
+   artificiale <https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf>`__\ \ \ .
 
 .. [4]
-   :sup:`Secondo il Piano Nazionale per la Ricerca 2021-2027.`
+   Secondo il Piano Nazionale per la Ricerca 2021-2027.
 
 .. [5]
-   :sup:`Commissione europea,`\ \ \ `Linee guida etiche per un'IA
-   affidabile <https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1>`__\ \ \ :sup:`.`
+   Commissione europea, \ \ \ `Linee guida etiche per un'IA
+   affidabile <https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1>`__\ \ \ .
 
 .. [6]
-   :sup:`Commissione europea,`\ \ \ `L'intelligenza artificiale nei
+   Commissione europea, \ \ \ `L'intelligenza artificiale nei
    servizi
-   pubblici <https://knowledge4policy.ec.europa.eu/ai-watch/artificial-intelligence-public-services_en>`__\ \ \ :sup:`.`
+   pubblici <https://knowledge4policy.ec.europa.eu/ai-watch/artificial-intelligence-public-services_en>`__\ \ \ .
 
 .. [7]
-   :sup:`Cfr. ad esempio
-   il`\ \ \ `rapporto <https://www.ericsson.com/en/network-services/ai-5g-networks>`__\ \ \ :sup:`di
+   Cfr. ad esempio
+   il `rapporto <https://www.ericsson.com/en/network-services/ai-5g-networks>`__\ \ \  di
    Ericsson sulle applicazioni di intelligenza artificiale alle reti
-   5G.`
+   5G.
 
 .. [8]
-   :sup:`Come affermato nel Libro bianco sull'intelligenza artificiale
-   al servizio dei cittadini pubblicato dalla Task Force AI.`
+   Come affermato nel Libro bianco sull'intelligenza artificiale
+   al servizio dei cittadini pubblicato dalla Task Force AI.
 
 .. [9]
-   :sup:`Con un focus specifico su tecnologie e metodi per
+   Con un focus specifico su tecnologie e metodi per
    l'acquisizione, l'archiviazione e la trasmissione di informazioni,
    big data, immagini, video e la loro elaborazione ed estrazione della
    conoscenza, nonché tecnologie per la comprensione del linguaggio e
-   del testo, dai Chatbot alla Robot Process Automation Servizi.`
+   del testo, dai Chatbot alla Robot Process Automation Servizi.
