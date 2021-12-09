@@ -663,7 +663,7 @@ PNRR M1C2 Investimento 1: Transizione 4.0 ( 13,38 Mld)
 
 Tutti i settori prioritari.
 
-E. **IA modernizzare la pubblica amministrazione**
+**IA modernizzare la pubblica amministrazione**
 
 Il passaggio al nuovo paradigma tecnologico basato sull'IA influenzerà
 fortemente la pubblica amministrazione. Grazie all’IA, infatti, la PA
@@ -781,8 +781,7 @@ colmare il divario di scala tra aziende/servizi di intelligenza
 artificiale emergenti e le più grandi aziende tecnologiche
 internazionali che hanno accesso ai propri database privati.
 
-**9. Creare banche dati e analisi basate su IA/NLP per
-   feedback/miglioramento dei servizi**
+**9. Creare banche dati e analisi basate su IA/NLP per feedback/miglioramento dei servizi**
 
 **Obiettivo**
 
@@ -800,8 +799,7 @@ rilevamento e previsione dei punti critici nei processi per identificare
 possibili soluzioni. Creare bandi specifici per fornire soluzioni per la
 PA scalabili a livello nazionale.
 
-**10. Creare banca dati per analisi sofisticate su base IA/Computer
-    vision per il miglioramento dei servizi nella PA**
+**10. Creare banca dati per analisi sofisticate su base IA/Computer vision per il miglioramento dei servizi nella PA**
 
 **Obiettivo**
 
@@ -825,8 +823,7 @@ monitoraggio costiero e di confine; c) dati satellitari e delle
 videocamere urbane delle strade nazionali per la previsione e la
 gestione del traffico (e della navigazione) a breve e lungo termine.
 
-**11. Introdurre tecnologie per condivisione e risoluzione di casi
-    trasversali a varie autorità**
+**11. Introdurre tecnologie per condivisione e risoluzione di casi trasversali a varie autorità**
 
 **Obiettivo**
 
@@ -851,6 +848,10 @@ sovvenzioni.
 Tutte le iniziative per le applicazioni dell'IA alla PA saranno
 finanziate prevalentemente tramite risorse PCM [13]_-MITD/PA, in
 partnership con altre istituzioni pubbliche/private ove opportuno.
+
+.. raw:: html
+
+   <hr>
 
 .. [1]
    `Piano Nazionale di Ripresa e Resilienza <https://italiadomani.gov.it/it/home.html>`__

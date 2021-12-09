@@ -429,6 +429,10 @@ concentrare riforme e investimenti. Per riassumere, l'Italia deve:
 I prossimi capitoli forniranno dettagli sui progetti che l’Italia vuole
 promuovere d’ora in avanti per affrontare queste sfide.
 
+.. raw:: html
+
+   <hr>
+
 .. [1]
    Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019
 

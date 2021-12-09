@@ -347,6 +347,10 @@ competitiva in tutte le diverse applicazioni. Per questo, uno sforzo
 particolare sarà dedicato a sostenere la nascita e la crescita delle
 aziende IT italiane.
 
+.. raw:: html
+
+   <hr>
+
 .. [1]
    Commissione europea, \ \ \ `Eccellenza e fiducia
    nell'intelligenza
