@@ -198,15 +198,14 @@ fondamentale e applicata.
 
 **C.** Aspetti trasversali.
 
-B. **Costruire l'ecosistema italiano della ricerca IA: ricerca
-   fondamentale e applicata**
+**B. Costruire l'ecosistema italiano della ricerca IA: ricerca fondamentale e applicata**
 
 Queste iniziative sono state pensate per collegare le eccellenze
 esistenti e le attività territoriali in un unico piano di coordinamento
 nazionale. Sono concepiti per ottenere risultati sia a basso TRL
 (Technology Readiness Level) che vicini all’introduzione al mercato.
 
-1. **Rafforzare l'ecosistema italiano della ricerca sull’IA**
+**B1. Rafforzare l'ecosistema italiano della ricerca sull’IA**
 
 **Un ecosistema strutturato è necessario per definire una grande massa
 critica, rafforzare le sinergie tra centri più piccoli e più grandi e
@@ -233,7 +232,7 @@ partenariato su 15 è rivolto alla ricerca sull'IA (approccio top-down)
 mentre aspetti dell'IA sono ritenuti cruciali nei restanti 14
 partenariati.
 
-2. **Lanciare la piattaforma italiana di dati e software per la ricerca
+**B2. Lanciare la piattaforma italiana di dati e software per la ricerca
    sull’IA**
 
 **Una piattaforma unica condivisa da tutti gli ecosistemi italiani è
@@ -262,7 +261,7 @@ PNRR M4C2 Investimento 3.1: Fondo per la realizzazione di un sistema
 integrato di infrastrutture di ricerca e innovazione. 1,58 Mld concessi
 su base competitiva (approccio bottom-up).
 
-3. **Creare cattedre italiane di ricerca sull'IA**
+**B3. Creare cattedre italiane di ricerca sull'IA**
 
 **Obiettivo**
 
@@ -285,7 +284,7 @@ territoriali.
 Fondo per la scienza (L.23 luglio 2021, n. 106): 50 Mln nel 2021 e 150
 Mln dal 2022 concessi su base competitiva (approccio bottom-up).
 
-4. **Creare iniziative IA-PRIN per ricerca fondamentale**
+**B4. Creare iniziative IA-PRIN per ricerca fondamentale**
 
 **Obiettivo**
 
@@ -306,7 +305,7 @@ PNRR M4C2 Investimento 1.1: Fondo per il Programma Nazionale Ricerca
 (PNR) e progetti di Ricerca di Significativo Interesse Nazionale (PRIN).
 1,8 Mld concessi su base competitiva (approccio bottom-up).
 
-5. **Promuovere campioni nazionali IA multidisciplinari**
+**B5. Promuovere campioni nazionali IA multidisciplinari**
 
 **Obiettivo**
 
@@ -330,8 +329,7 @@ Technologies. 1,6 Mld per 5 Centri Nazionali selezionati su base
 competitiva. Un centro su 5 si rivolge all'HPC (approccio top-down)
 mentre gli aspetti dell'IA sono cruciali nei restanti 4 centri.
 
-6. **Lanciare bandi di ricerca-innovazione IA per collaborazioni
-   pubblico-private**
+**B6. Lanciare bandi di ricerca-innovazione IA per collaborazioni pubblico-private**
 
 **Obiettivo**
 
@@ -355,9 +353,9 @@ dell'innovazione", costruzione di "leader territoriali di R&S". 1,3 Mld
 per un massimo di 12 ecosistemi di innovazione selezionati su base
 competitiva (approccio bottom-up).
 
-C. **Aspetti trasversali**
+**C. Aspetti trasversali**
 
-   7. **Finanziare ricerca e applicazioni dell’IA creativa**
+**C1. Finanziare ricerca e applicazioni dell’IA creativa**
 
 **Obiettivo**
 
@@ -391,8 +389,7 @@ neuroscienze, psicologi e persone creative.
    ricerca di base. 1,61 Mld per un massimo di 10 partnership
    selezionate su base competitiva.
 
-   8. **Promuovere progetti bilaterali per incentivare il rientro in
-      Italia di professionisti**
+**C2. Promuovere progetti bilaterali per incentivare il rientro in Italia di professionisti**
 
 **Obiettivo**
 
