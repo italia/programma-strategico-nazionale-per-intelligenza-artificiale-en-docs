@@ -460,8 +460,11 @@ Tutte le iniziative condividono problemi e obiettivi comuni:
 A tal fine, questa strategia individua due aree di intervento che
 riteniamo di maggior impatto particolarmente strategiche.
 
-1. IA per modernizzare le imprese.
-2. IA per modernizzare la pubblica amministrazione.
+**D.** IA per modernizzare le imprese.
+
+**E.** IA per modernizzare la pubblica amministrazione.
+
+**D.IA per modernizzare le imprese.**
 
 L'impatto dell'IA sulle imprese sarà di enorme rilevanza. L'IA infatti
 implicherà una vera e propria rivoluzione nel loro *modus operandi*, dai
@@ -491,7 +494,7 @@ Complessivamente le iniziative proposte mirano a:
 
 Pertanto, questa strategia propone le seguenti iniziative:
 
-**1. Fare dell'IA un pilastro a supporto della Transizione 4.0 delle imprese**
+**D1. Fare dell'IA un pilastro a supporto della Transizione 4.0 delle imprese**
 
 **Obiettivo:**
 
@@ -536,7 +539,7 @@ dovrebbero essere considerati anche la sicurezza nazionale e le
 tecnologie dell'informazione. Dal secondo e terzo anno dovranno essere
 aggiunti tutti i settori prioritari.
 
-**2. Sostenere la crescita di spin-off innovativi e start-up**
+**D2. Sostenere la crescita di spin-off innovativi e start-up**
 
 **Obiettivo**
 
@@ -575,7 +578,7 @@ infrastrutture e reti (in particolare comunicazione e servizi
 energetici), banche, finanza e assicurazioni e tecnologie
 dell'informazione.
 
-**3. Promuovere e facilitare le sperimentazioni di tecnologie IA destinate al mercato**
+**D3. Promuovere e facilitare le sperimentazioni di tecnologie IA destinate al mercato**
 
 **Obiettivo**
 
@@ -599,7 +602,7 @@ limitati, prima della loro eventuale introduzione sul mercato.
 
 Tutti i settori prioritari.
 
-**4. Supportare le imprese nella certificazione dei prodotti di IA**
+**D4. Supportare le imprese nella certificazione dei prodotti di IA**
 
 **Obiettivo**
 
@@ -631,7 +634,7 @@ settore IA.
 
 Tutti i settori prioritari.
 
-**5. Promuovere campagne di informazione sull’IA per le imprese**
+**D5. Promuovere campagne di informazione sull’IA per le imprese**
 
 **Obiettivo**
 
@@ -660,7 +663,7 @@ PNRR M1C2 Investimento 1: Transizione 4.0 ( 13,38 Mld)
 
 Tutti i settori prioritari.
 
-**IA modernizzare la pubblica amministrazione**
+**E. IA modernizzare la pubblica amministrazione**
 
 Il passaggio al nuovo paradigma tecnologico basato sull'IA influenzerà
 fortemente la pubblica amministrazione. Grazie all’IA, infatti, la PA
@@ -685,7 +688,7 @@ adeguati.
 A tal fine, proponiamo le seguenti iniziative per la promozione dell'IA
 all'\ *interno* della PA e *per* la PA:
 
-**6. Creare interoperabilità e dati aperti per favorire la creazione di modelli di IA**
+**E1. Creare interoperabilità e dati aperti per favorire la creazione di modelli di IA**
 
 **Obiettivo**
 
@@ -715,7 +718,7 @@ standard già esistenti e alla definizione di meccanismi di incentivi per
 i singoli gestori della PA, basati sulla conformità della loro struttura
 dati e dei servizi ai criteri indicati.
 
-**7. Rafforzare le soluzioni IA nella PA e nell'ecosistema GovTech in Italia**
+**E2. Rafforzare le soluzioni IA nella PA e nell'ecosistema GovTech in Italia**
 
 **Obiettivo**
 
@@ -753,7 +756,7 @@ con il comitato tecnico del MITD [12]_, esegue la prima selezione delle
 start-up e fornisce il finanziamento iniziale, il mentoring e l'accesso
 a investitori di venture capital.
 
-**8. Creare un dataset comune di lingua italiana per lo sviluppo dell'IA**
+**E3. Creare un dataset comune di lingua italiana per lo sviluppo dell'IA**
 
 **Obiettivo**
 
@@ -778,7 +781,7 @@ colmare il divario di scala tra aziende/servizi di intelligenza
 artificiale emergenti e le più grandi aziende tecnologiche
 internazionali che hanno accesso ai propri database privati.
 
-**9. Creare banche dati e analisi basate su IA/NLP per feedback/miglioramento dei servizi**
+**E4. Creare banche dati e analisi basate su IA/NLP per feedback/miglioramento dei servizi**
 
 **Obiettivo**
 
@@ -796,7 +799,7 @@ rilevamento e previsione dei punti critici nei processi per identificare
 possibili soluzioni. Creare bandi specifici per fornire soluzioni per la
 PA scalabili a livello nazionale.
 
-**10. Creare banca dati per analisi sofisticate su base IA/Computer vision per il miglioramento dei servizi nella PA**
+**E5. Creare banca dati per analisi sofisticate su base IA/Computer vision per il miglioramento dei servizi nella PA**
 
 **Obiettivo**
 
@@ -820,7 +823,7 @@ monitoraggio costiero e di confine; c) dati satellitari e delle
 videocamere urbane delle strade nazionali per la previsione e la
 gestione del traffico (e della navigazione) a breve e lungo termine.
 
-**11. Introdurre tecnologie per condivisione e risoluzione di casi trasversali a varie autorità**
+**E6. Introdurre tecnologie per condivisione e risoluzione di casi trasversali a varie autorità**
 
 **Obiettivo**
 
