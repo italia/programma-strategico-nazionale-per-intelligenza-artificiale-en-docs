@@ -232,8 +232,7 @@ partenariato su 15 è rivolto alla ricerca sull'IA (approccio top-down)
 mentre aspetti dell'IA sono ritenuti cruciali nei restanti 14
 partenariati.
 
-**B2. Lanciare la piattaforma italiana di dati e software per la ricerca
-   sull’IA**
+**B2. Lanciare la piattaforma italiana di dati e software per la ricerca sull’IA**
 
 **Una piattaforma unica condivisa da tutti gli ecosistemi italiani è
 necessaria per mantenere la proprietà intellettuale dei risultati
