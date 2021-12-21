@@ -41,7 +41,7 @@ providing computing facilities and AI competences that allow scientists of
 any discipline to realise complex and computationally demanding AI experiments.
 
 -  **Communities**: Italian researchers participate in all major **AI international research networks**, including the top
-rated EU networks, such as CLAIRE [2]_, ELLIS - confederating several AI laboratories all over Europe [3]_ - and the
+rated EU networks, such as CLAIRE [2]_ , ELLIS - confederating several AI laboratories all over Europe [3]_ - and the
 networks of excellence under the EU Horizon 2020 ICT-48 portfolio, namely HumanE-AI-Net, TAILOR, AI4MEDIA, ELISE and VISION. 
 Italy is one of the founding members of **Global Partnership on AI (GPAI)** as the result of
 an idea developed within the G7, under the Canadian and French presidencies. This partnership aims to bridge
@@ -56,16 +56,11 @@ of Computational Linguistics, mainly devoted to research in natural language pro
 At the same time, however, the Italian AI research ecosystem presents **four main weaknesses** this strategy will
 address, and namely: 
 
--  **Parceled growth of research labs**. Despite the international excellence of the Italian AI research community,
-the persistent issue of scale, critical mass and interdisciplinary integration of research labs, together with the
-scarce public/private national funding of fundamental research, represent a serious potential risk for the country’s competitiveness.
+-  **Parceled growth of research labs**. Despite the international excellence of the Italian AI research community, the persistent issue of scale, critical mass and interdisciplinary integration of research labs, together with the scarce public/private national funding of fundamental research, represent a serious potential risk for the country’s competitiveness.
 
--  **Poor talent attraction**. While new talents’ development is adequate in Italy, talent attraction is poor, with few
-foreign talents coming to work in Italy. No special strategies have been effective, until now, to support the
-attraction of foreign talents.
+-  **Poor talent attraction**. While new talents’ development is adequate in Italy, talent attraction is poor, with few foreign talents coming to work in Italy. No special strategies have been effective, until now, to support the attraction of foreign talents.
 
--  **Significant gender gap**. A survey of 2020 of CINILab AIIS National Assembly among its members shows that
-only 19.6% of AI researchers are women, compared to close to 50% in STEMS overall. [4]_.
+-  **Significant gender gap**. A survey of 2020 of CINILab AIIS National Assembly among its members shows that only 19.6% of AI researchers are women, compared to close to 50% in STEMS overall. [4]_.
 
 -  **Limited patent capacity**. Italy yields far less patents per paper than EU peers.
 
@@ -85,20 +80,13 @@ C. **Technology and solution providers**
 The Italian ecosystem is characterised by a variety of technology providers which specialise in a variety of AI solutions. 
 As of February 2021, the Observatory on AI [9]_ registered 260 Italian companies offering AI products and services (See Figure 1): 
 
--  The majority of them (55%) offer solutions designed to be used in specific areas, i.e. *Healthcare, Marketing &
-Sales, Finance and Cybersecurity*. 
+-  The majority of them (55%) offer solutions designed to be used in specific areas, i.e. **Healthcare, Marketing & Sales, Finance and Cybersecurity**. 
 
--  One quarter (25%) are more general in nature, providing for example advanced analysis of structured and
-unstructured data for purposes that may concern Forecasting, Classification, Natural Language Processing,
-Computer Vision, Human-AI interaction in various application areas. About a third of these companies are
-start-ups [10]_.
+-  One quarter (25%) are more general in nature, providing for example advanced analysis of structured and unstructured data for purposes that may concern Forecasting, Classification, Natural Language Processing, Computer Vision, Human-AI interaction in various application areas. About a third of these companies are start-ups [10]_ .
 
--  The remaining companies are divided between System integrators (about 10%) and Consulting companies
-(about 5%), most of which are either medium or large companies.
+-  The remaining companies are divided between System integrators (about 10%) and Consulting companies (about 5%), most of which are either medium or large companies.
 
--  Few of them are cloud providers offering AI solutions and companies offering sensing and edge computing for
-efficient computing or storage dedicated to AI. Cloud providers are limited in number but they tend to be among
-the largest players. The largest among them offer services in critical infrastructures management or cybersecurity. 
+-  Few of them are cloud providers offering AI solutions and companies offering sensing and edge computing for efficient computing or storage dedicated to AI. Cloud providers are limited in number but they tend to be among the largest players. The largest among them offer services in critical infrastructures management or cybersecurity. 
 
 **Figura 1:**\ *Imprese italiane che offrono prodotti IA, per settore*
 
@@ -139,10 +127,9 @@ project exports. The Politecnico study highlights the following classes of AI ba
 
 -  *Natural Language Processing* (18%),
 
--  *Sistemi di suggerimento* (18%),
+-  *Recommendation Systems* (18%),
 
--  *Automazione dei Processi Ripetitivi (RPA) intelligente, Chatbot /
-   Assistenti virtuali e Computer Vision* (31%).
+-  *Intelligent RPA, Chatbot / Virtual Assistant and Computer Vision* (31%).
 
 With regards to the public sector, understanding what is happening in the field of digital transformation is crucial in
 order to imagine how AI can create synergies with the process of digitising the country. According to the study E-government Benchmark 2020 by the European Commission, [13]_, Italy is characterised by a low level of penetration (25% vs.
@@ -156,7 +143,7 @@ Italy’s international position
 The Italian AI ecosystem is in line with international peers [14]_ when it comes to research quality and output. Yet, this
 ecosystem fares less well when it comes to business spending on R&D, patenting and AI applications. Table 3 summarises key statistics. 
 
-**Tabella 3:**\ *Italy’s international position*
+**Table 3:**\ *Comparison and international position*
 
 .. list-table:: 
    :widths: 50 25 25 25 25 25
@@ -287,16 +274,9 @@ quantity and quality [20]_.
 Nevertheless, there are several limitations affecting the Italian research landscape - both in the public and private
 sphere - which need to be explicitly considered and addressed. In particular: 
 
--  The **public research system is less funded than peers and wages are low**. On average, EU countries (EU28) [21]_ invest 2.38% of 
-GDP in research, while Italy invests 1.45% of GDP only. Low funding is compounded by low
-wages, as public research institutions must comply with the same rules as the rest of the Public Administration,
-without considering the specific needs of these entities. As a consequence, Italian researchers receive lower
-wages (€15,343 for PhDs) than in Germany (€48,027), France (€20,220), UK (€17,272 tax-free) and Switzerland (€67,998). [22]_
+-  The **public research system is less funded than peers and wages are low**. On average, EU countries (EU28) [21]_ invest 2.38% of GDP in research, while Italy invests 1.45% of GDP only. Low funding is compounded by low wages, as public research institutions must comply with the same rules as the rest of the Public Administration, without considering the specific needs of these entities. As a consequence, Italian researchers receive lower wages (€15,343 for PhDs) than in Germany (€48,027), France (€20,220), UK (€17,272 tax-free) and Switzerland (€67,998). [22]_
 
--  In the private sector, firms are underinvesting in R&D. Although Italian companies spend €14.7 billion in R&D
-per annum (2018) this figure is less than average EU peers. Investments are also constrained by the small size
-of the average Italian firm. Lastly, Italy is missing **global Digital Champions** [23]_ in the hardware, software and
-integration areas, and is thus missing a key factor in stimulating innovation.
+-  In the private sector, firms are underinvesting in R&D. Although Italian companies spend €14.7 billion in R&D per annum (2018) this figure is less than average EU peers. Investments are also constrained by the small size of the average Italian firm. Lastly, Italy is missing **global Digital Champions** [23]_ in the hardware, software and integration areas, and is thus missing a key factor in stimulating innovation.
 
 **Technology & solution providers**
 
@@ -341,23 +321,23 @@ by the universities and research organizations participating in the programme.
    STEM figures, see Elsevier Foundation 2021 Report: Gender in Research cited in Ansa on July 24th 2021 <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-.`
 
 .. [5]
-   `Confindustria,`\ \ \ `Digital Innovation
+   `Confindustria, `\ \ \ `Digital Innovation
    Hubs <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [6]
-   `Italian Chamber of Commerce,`\ \ \ `Punto Impresa
+   `Italian Chamber of Commerce, `\ \ \ `Punto Impresa
    Digitale <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [7]
    `Centri di competenza ad alta
-   specializzazione`\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
+   specializzazione, `\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
 
 .. [8]
-   `European Commission,`\ \ \ `European Digital Innovation
+   `European Commission, `\ \ \ `European Digital Innovation
    Hubs <https://digital-strategy.ec.europa.eu/en/activities/edihs>`__\ \ \ `.`
 
 .. [9]
-   `Politecnico di Milano,`\ \ \ `Osservatorio italiano
+   `Politecnico di Milano, `\ \ \ `Osservatorio italiano
    sull'IA <https://www.osservatori.net/it/home>`__\ \ \ `.`
 
 .. [10]
@@ -370,7 +350,7 @@ by the universities and research organizations participating in the programme.
    `European AI spending data from Statista; GDP figures from IMF WEO.`
 
 .. [13]
-   ` European Commission,`\ \ \ `EGovernment Benchmark
+   ` European Commission, `\ \ \ `EGovernment Benchmark
    2020 <https://op.europa.eu/en/publication-detail/-/publication/8e708e4f-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-233013088>`__\ \ \ `.`
 
 .. [14]
@@ -415,7 +395,7 @@ by the universities and research organizations participating in the programme.
    obstacles is the absence of AI professionals (Osservatorio AI del Politecnico di Milano/2020).`
 
 .. [26]
-   `Data presented by McKinsey during the event “The Future Is Now” held in Milan in 2019. <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`
+   `Data presented by McKinsey during the event “The Future Is Now” held in Milan in 2019. <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ `.
 
 .. |image0| image:: ./media/image2.png
    :width: 0.35069in
