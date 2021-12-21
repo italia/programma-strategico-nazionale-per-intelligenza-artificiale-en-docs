@@ -45,15 +45,9 @@ framework programmes [1]_.
          (data and cloud infrastructures for AI)).
          :name: Aspects-contributing-to-AI-data-and-cloud-infrastructures-for-AI.
 
-   -  .. rubric:: Development of AI technologies (especially in cluster 4, where the partnership AI-Big Data and Robotics
-has been launched, and bottom-up approaches like EIC, MSCA, ERC etc.).
-         :name: Development-of-AI-technologies-especially-in-cluster-4-where-the-partnership-AI-Big-Data-and-Robotics-has-been-launched-and-bottom-up-approaches-like-EIC-MSCA-ERC-etc.).
+   -  .. rubric:: Development of AI technologies (especially in cluster 4, where the partnership AI-Big Data and Robotics has been launched, and bottom-up approaches like EIC, MSCA, ERC etc.). :name: Development-of-AI-technologies-especially-in-cluster-4-where-the-partnership-AI-Big-Data-and-Robotics-has-been-launched-and-bottom-up-approaches-like-EIC-MSCA-ERC-etc.).
 
-   -  .. rubric:: Use of AI in other clusters contributing to 
-   AI (1. Health, 3. Civil security for society, 5. Climate, energy and
-mobility, 6. Food and natural resources) and in all Missions.
-         :name: Use-of-AI-in-other-clusters-contributing-to-AI-1-Health-3-Civil-security-for-society-5-Climate-energy-and
-mobility-6-Food-and-natural-resources-and-in-all-Missions.
+   -  .. rubric:: Use of AI in other clusters contributing to AI (1. Health, 3. Civil security for society, 5. Climate, energy and mobility, 6. Food and natural resources) and in all Missions. :name: Use-of-AI-in-other-clusters-contributing-to-AI-1-Health-3-Civil-security-for-society-5-Climate-energy-and-mobility-6-Food-and-natural-resources-and-in-all-Missions.
 
 -  .. rubric:: Digital Europe
       :name: digital-europe
@@ -92,7 +86,8 @@ Its design is **inspired by five guiding principles**.
 1. **Italy’s AI is a European AI**. In line with the EU Coordinated Plan on Artificial Intelligence [3]_, 
    the Italian Strategic Programme stems from the awareness that only through common and coordinated actions Europe will
    be able to compete globally and work towards strategic autonomy. Therefore, this programme reflects
-   the four sets of proposals put forward by the 2021 EU Coordinated Plan on AI. First, it sets enabling conditions for AI’s development and uptake by focusing      on cooperation, data and computing infrastructure. Second, it leverages on existing Italian HPC and data-management infrastructure. Third, it aims at        
+   the four sets of proposals put forward by the 2021 EU Coordinated Plan on AI. First, it sets enabling conditions for AI’s development and uptake by focusing  
+   on cooperation, data and computing infrastructure. Second, it leverages on existing Italian HPC and data-management infrastructure. Third, it aims at        
    nurturing talents and adheres to the joint effort for
    improving and adopting the harmonised set of rules for AI proposed by the AI ACT. Fourth, it identifies priority sectors where to build strategic leadership.
 
