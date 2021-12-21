@@ -35,8 +35,7 @@ The three areas of intervention are:
 
 -  **Expanding funding of advanced research in AI**,
 
--  **Favouring the adoption of AI and its applications** both in the public administration (PA) and in the Italian
-economy at large.
+-  **Favouring the adoption of AI and its applications** both in the public administration (PA) and in the Italian economy at large.
 
 For these areas, the Strategic Programme indicates **24 policy initiatives** Italy should embrace (see table on the next
 page). These will be fundamental for Italy to retain technological competitiveness at the international level, connect
