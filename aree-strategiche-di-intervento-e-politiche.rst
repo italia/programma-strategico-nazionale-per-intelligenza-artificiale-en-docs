@@ -1,666 +1,505 @@
-Aree strategiche di intervento e politiche
-==========================================
+Strategic Areas of Intervention and policies
+============================================
 
-I sei obiettivi esposti nella sezione precedente definiscono le
-ambizioni di questo programma strategico, mentre gli undici settori
-prioritari definiscono dove l'Italia intende investire maggiormente.
-Questa sezione, che delinea le aree di intervento, definisce come questa
-strategia si propone di raggiungere gli obiettivi dichiarati nei settori
-prioritari.
+The six objectives laid out in the previous section define the goals of this strategic programme. The eleven priority
+sectors define where Italy intends to invest the most. This section, which lays out the areas of interventions, defines
+how this strategy aims to achieve the stated objectives in the priority sectors.
 
-**Tre aree chiave di intervento**
+**There are three key areas of policy intervention:**
 
 .. image:: ./media/2.jpg
 
-Nelle sezioni seguenti, questa strategia si svilupperà su queste aree di
-intervento e descriverà le politiche specifiche previste dal Governo.
+In the following sections, this strategy will develop on these areas of 
+intervention and describe the specific policies the Government envisions. 
 
-Talenti e competenze
---------------------
+Talent and skills
+-----------------
 
-L'IA può trasformare radicalmente molti aspetti della nostra società e
-la pandemia COVID-19 ha accelerato questa tendenza. Il World Economic
-Forum 2020 stima che, entro il 2025, 85 milioni di posti di lavoro
-potrebbero sparire, a causa del cambiamento nella divisione del lavoro
-tra esseri umani e macchine, mentre potrebbero emergere 97 milioni di
-nuovi ruoli. Questa transizione avrà effetti distributivi significativi,
-sia tra paesi, che all'interno dei paesi stessi.
+AI has a transformative impact on all aspects of our society, and the COVID-19 pandemic has accelerated this trend.
+The 2020 World Economic Forum estimates that by 2025 85 million jobs may be displaced by a shift in the division
+of labour between humans and machines, while 97 million new roles may emerge. This transition will have significant distributional effects both across and within 
+countries. 
 
-Per mitigare gli effetti di tale transizione e allo stesso tempo
-garantire che l'Italia si mantenga alla frontiera dell'innovazione
-tecnologica, il Paese deve investire nel sistema di formazione
-sull'intelligenza artificiale e nello sviluppo delle relative competenze
-per i cittadini. Da un lato, quindi, il Paese deve investire per essere
-all'avanguardia nella ricerca sull'IA. Ciò significa ampliare e
-migliorare i programmi di dottorato e attrarre/trattenere i migliori
-ricercatori. Dall'altro, l'Italia deve garantire che l'intero tessuto
-economico sfrutti le opportunità di produttività insite nella diffusione
-dell'IA. L’Italia deve pertanto rafforzare più in generale la componente
-STEM in tutto il sistema dell’istruzione, così da favorire lo sviluppo
-di una forza lavoro in grado di interagire con l'IA e sfruttarne i
-benefici.
+To mitigate the effects of such a transition (e.g., unemployment in certain segments of the population) and at the
+same time ensure that Italy remains on the edge of the technological frontier, the country needs to invest holistically
+in AI training and skills development for citizens. On the one hand, therefore, the country needs to invest in being at
+the forefront of AI research. This means expanding and improving the PhD programmes and attracting/retaining top
+researchers. On the other, Italy must ensure that the whole economy takes advantage of the productivity opportunities inherent in the diffusion of AI. Thus, it 
+needs to strengthen the STEM component of the broader educational system, in order to support the development of a workforce that can interact with AI and 
+exploit its benefits.
 
-**A1. Rafforzare il programma Nazionale di Dottorato**
+**A1. Strengthening the National PhD Program**
 
-**Questa misura mira a consolidare e ampliare complessivamente i corsi
-di dottorato italiani, con l'ambizione di assegnarne una quota adeguata
-all'IA.**
+**This measure aims at consolidating and expanding Italian PhD programmes overall, with the ambition of assigning an
+appropriate share to AI.**
+
+**Objective**
+
+To consolidate and expand PhDs to train a larger share of local students to AI and attract high-quality
+students from abroad.
+
+**Initiatives**
+
+-  Increasing the number of PhDs. The target is set largely to make up for the loss in PhD fellowships
+   suffered in recent years, as an intermediate step towards a further extension in numbers in the long
+   term
+
+-  Increasing the number of PhDs. The target is set largely to make up for the loss in PhD fellowships
+   suffered in recent years, as an intermediate step towards a further extension in numbers in the long
+   term
+
+**Possible source of investments**
+
+-  NRRP  [1]_ M4C1 Investment 4.1: Extension in number and career opportunities of PhDs. 430M€ granted
+   on a competitive basis (bottom-up approach).
+
+-  NRRP M4C2 Investment 3.3: Introduction of innovative doctorates that respond to the enterprises'
+   needs for innovation and promote the hiring of researchers by companies. 600M€ granted on a competitive basis (bottom-up approach).
+
+**A2. Attracting and retaining talents**
+
+**The precarious careers and the slow career advances push Italian talents towards more attractive countries and, at the
+same time, make Italy unattractive to foreigners. This is generating a severely negative talent balance for the country**
+
+**Objective**
+
+To retain and attract AI talents in Italy and maintain Italian competitiveness in AI research.
+
+**Initiatives**
+
+Financing research activities managed independently by young researchers, who will immediately gaina first experience of research responsibility. The programme - strongly inspired by the Excellent Science Pillar of the Horizon Europe programme-will aim at attracting young researchers who are beneficiary of high-profile international grants such as the ERC starting grants and the Postdoctoral Fellowships (MSCA).
+
+Recruiting young AI researchers under the “Rita Levi Montalcini” programme created by the Ministry of University and Research.
+
+**Possible source of investments**
+
+-  NRRP M4C2 Investment 1.2: Funding projects presented by young researchers. 600M€ granted on a competitive basis (not specifically targeting AI). 
+
+-  Fondo per la scienza (L.23 luglio 2021, n. 106) 50M€ in 2021 and 150M€ from 2022 granted on a competitive basis (bottom-up approach).
+
+-  Rita Levi Montalcini programme 5M€/year granted on a competitive basis (bottom-up approach). 
+
+**A3. Strengthening AI skills in the Public Administration**
+
+**A major weakness**\  [2]_ **of the Public Administration in Italy is the limited share of workers with a STEM degree, particularly in
+AI and in the digital technologies required to properly handle the huge and increasing amount of PA data.**
+
+**Objective**
+
+To increase the effectiveness of the Italian Public Administration and increase the share of PA workers
+knowledgeable of the opportunities and risks associated with AI.
+
+**Initiatives**
+
+Activating three cycles of new PhD programmes specifically designed for the needs of the general
+government in cooperation with the Ministry of Public Administration and by interacting with the Scuola
+Nazionale dell’Amministrazione (National School for Public Administration), an educational institution
+training administrative officials.
+
+**Possible source of investment**
+
+NRRP M4C1 Investment 4.1: Extension in number and career opportunities of PhDs. 430M€ granted on
+a competitive basis (bottom-up approach). 
+
+**A4. Promoting STEM courses and careers**
+
+**STEM subjects constitute the basis to develop AI skills and careers. Therefore, it is important to stimulate the interest of
+young generations towards STEM courses and careers, with special attention to women.**
+
+**Objective**
+
+To increase the share of students studying STEM subjects, the foundations to develop AI skills.
+
+**Initiatives**
+
+The measure aims to promote the integration within the curricula of all school cycles, of activities,
+methodologies and contents aimed at developing STEM, digital and innovation skills, with particular
+attention to equal opportunities.
+
+**Possible source of investment**
+
+-  NRRP M4C1 Investment 3.1: New competences and new languages (€1.1B).
+
+-  NRRP M4C1 Investment 3.2: School 4.0 - Innovative schools, new classrooms and laboratories
+(€2.1B).
+
+**A5. AI in ITS (“Istituti Tecnici Superiori”)**
+
+**The ITS training system**\  [3]_ **needs to respond to the demand of the labour market for specialized technicians trained for
+technological innovation in leading sectors of the economy.**
+
+**Objective**
+
+To develop professionals who can adjust and customize existing AI technologies to solve problems in
+various industrial contexts.
+
+**Initiatives**
+
+Expansion of programming courses and inclusion of applied AI courses and internships in all ITS curricula.
+
+**Possible source of investment**
+
+NRRP M4C1 Investment 1.5: Development of tertiary technical education (€1.5B).
+
+Research
+--------
+
+As shown in chapter 1, the Italian research ecosystem shows signs of strength, yet its fragmentation, lack of resources and low patenting rhythm impede its
+effectiveness. To address these challenges, this section illustrates policies
+that aim to bridge the gap between foundational and applied research by fostering collaborations between academia,
+industry, public bodies and society. The future of AI necessarily implies a strong synergy among public and private
+research centres, industrial research and innovation centres, start-ups and SMEs, and target users’ domain expertise.
+
+Research programme initiatives are divided into two classes:
+
+**B.** Building the Italian AI research ecosystem: fundamental and applied research. 
+
+**C.** Horizontal aspects.
+
+**B. Building the Italian AI research ecosystem: fundamental and applied research**
+
+These initiatives have been designed to connect existing excellence and territorial activities in a single national coordination plan. They are conceived to achieve both low-TRL (Technology Readiness Level) and close-to-market results. 
+
+**B1. Building on the Italian AI research ecosystem**
+
+**A structured ecosystem is necessary to define a large critical mass, strengthen synergies among smaller and larger
+centres and emphasize “vertical” excellence in some foundational aspects.**
 
 **Obiettivo**
 
-Consolidare ed espandere i dottorati di ricerca per formare una quota
-maggiore di studenti di IA e attirare studenti di talento dall'estero.
-
-**Iniziative**
-
--  Aumentare il numero dei dottorati. L'obiettivo della misura è
-   principalmente quello di recuperare la perdita di borse di dottorato
-   subita negli ultimi anni, come passaggio intermedio verso
-   un’ulteriore estensione numerica a lungo termine.
-
--  Istituire un dottorato dedicato con il contributo e il coinvolgimento
-   delle aziende. Il programma vuole incoraggiare la creazione di
-   spin-off di ricerca dedicati alle attività dell'industria e del
-   settore terziario.
-
-**Possibili fonti di investimento**
-
--  PNRR  [1]_ M4C1 Investimento 4.1: Estensione del numero di
-   dottorati di ricerca e dottorati innovativi. €430 Mln concessi su
-   base competitiva (approccio bottom-up).
-
--  PNRR M4C2 Investimento 3.3: Introduzione di dottorati innovativi che
-   rispondono ai fabbisogni di innovazione delle imprese e promuovono
-   l’assunzione dei ricercatori dalle imprese. €600 Mln concessi su base
-   competitiva (approccio bottom-up).
-
-**A2. Attrarre e trattenere i ricercatori**
-
-**Le carriere precarie e i lenti avanzamenti professionali spingono i
-talenti italiani verso Paesi con migliori opportunità e, allo stesso
-tempo, rendono l'Italia poco attrattiva per gli stranieri. Questo sta
-generando un flusso di talenti particolarmente negativo per il Paese.**
-
-**Obiettivo**
-
-Attrarre e trattenere talenti dell'IA in Italia e mantenere la
-competitività italiana nella ricerca sull'IA.
-
-**Iniziative**
-
-Finanziare attività di ricerca gestite in autonomia da giovani ricercatori, che acquisiranno da subito una prima esperienza di gestione autonoma della ricerca. Il programma - fortemente ispirato al pilastro Excellent Science del programma Horizon Europe - avrà lo scopo di attrarre giovani ricercatori, beneficiari di borse di studio di alto profilo internazionale come gli “starting grants” del Consiglio europeo della ricerca e le Marie Skłodowska-Curie Postdoctoral Fellowships (PF). Reclutare giovani ricercatori di IA nell'ambito del programma “Rita Levi Montalcini” ideato dal Ministero dell'Università e della Ricerca.
-
-**Possibili fonti di investimento**
-
--  PNRR M4C2 Investimento 1.2: Finanziamento di progetti presentati da
-   giovani ricercatori. 600 Mln concessi su base competitiva (non mirati
-   specificamente all'IA).
-
--  Fondo per la scienza (L.23 luglio 2021, n. 106): 50 Mln nel 2021 e
-   150 Mln dal 2022 concessi su base competitiva (approccio bottom-up).
-
--  Programma Rita Levi Montalcini: 5 Mln/anno concesso su base
-   competitiva (approccio bottom-up).
-
-**A3. Rafforzare le competenze di IA nella Pubblica Amministrazione**
-
-**Una grande debolezza**\  [2]_ **della Pubblica Amministrazione in
-Italia è la quota limitata di dipendenti con lauree STEM, in particolare
-nell'IA e in quelle tecnologie digitali necessarie per gestire
-correttamente l'enorme e crescente quantità di dati della pubblica
-amministrazione.**
-
-**Obiettivo**
-
-Aumentare l'efficacia della Pubblica Amministrazione italiana e
-aumentare la quota di lavoratori della PA consapevoli delle opportunità
-e dei rischi associati all'IA.
+To increase Italian competitiveness for grand AI challenges, in line with similar European and international
+initiatives by creating a structural connection of existing and new AI research centres in Italy. 
 
 **Iniziativa**
 
-Attivare tre cicli di nuovi corsi di dottorato specificamente progettati
-per le esigenze delle amministrazioni pubbliche in collaborazione con il
-Ministro per la Pubblica Amministrazione e interagendo con la Scuola
-Nazionale dell'Amministrazione, istituto di istruzione per la formazione
-dei funzionari e dirigenti pubblici.
+Creating a hub & spoke architecture with territorial expertise, especially in fundamental research.
 
-**Possibile fonte di investimento**
+**Launching the Italian AI Research Data and Software Platform**
 
-PNRR M4C1 Investimento 4.1: Estensione del numero di dottorati di
-ricerca e dottorati innovativi. 430M concessi su base competitiva
-(approccio bottom-up).
-
-**A4. Promuovere corsi e carriere in materie STEM**
-
-**Le materie STEM costituiscono la base per sviluppare le competenze e
-le carriere dell'IA. Pertanto, è importante stimolare l'interesse delle
-giovani generazioni verso i corsi e le carriere STEM, con particolare
-attenzione alle donne.**
-
-**Obiettivo**
-
-Aumentare la quota di studenti che studiano materie STEM, le basi per sviluppare le competenze di intelligenza artificiale.
-
-**Iniziativa**
-
-Promuovere l'integrazione, all'interno dei curricula di tutti i cicli
-scolastici, di attività, metodologie e contenuti volti allo sviluppo
-delle competenze STEM, digitali e di innovazione, con particolare
-attenzione alle pari opportunità.
-
-**Possibile fonte di investimento**
-
--  PNRR M4C1 Investimento 3.1: Nuove competenze e nuovi linguaggi (1,1
-   Mld).
-
--  PNRR M4C1 Investimento 3.2: Scuola 4.0 - Scuole innovative, nuove
-   aule didattiche e laboratori (2,1 Mld).
-
-**A5. Espandere l’IA negli ITS (“Istituti Tecnici Superiori”)**
-
-**Il sistema di formazione ITS**\  [3]_ **deve rispondere alla domanda
-del mercato del lavoro di tecnici specializzati e formati per
-l'innovazione tecnologica nei settori trainanti dell'economia.**
-
-**Obiettivo**
-
-Sviluppare professionisti in grado di adattare e personalizzare le
-tecnologie IA esistenti per risolvere problemi in vari contesti
-industriali.
-
-**Iniziativa**
-
-Ampliare corsi di programmazione e inclusione di corsi di IA applicata e
-stage in tutti i curricula ITS.
-
-**Possibile fonte di investimento**
-
-PNRR M4C1 Investimento 1.5: Sviluppo del sistema di formazione
-professionale terziaria (ITS) (1,5 Mld).
-
-Ricerca
--------
-
-Come illustrato nel capitolo 1, l'ecosistema della ricerca italiano
-presenta caratteristiche incoraggianti, ma la sua frammentazione, la
-mancanza di risorse e la bassa produttività brevettuale ne limitano
-l'efficacia. Questa sezione illustra le politiche che mirano a colmare
-il divario tra ricerca fondamentale e ricerca applicata favorendo le
-collaborazioni tra il mondo accademico, l'industria, gli enti pubblici e
-la società. Il futuro dell'IA implica necessariamente una forte sinergia
-tra centri di ricerca pubblici e privati, ricerca industriale, centri di
-innovazione, start-up e PMI e le competenze settoriali degli utenti.
-
-Le iniziative del programma di ricerca si dividono in due classi:
-
-**B.** Costruire l'ecosistema italiano della ricerca IA: ricerca
-fondamentale e applicata.
-
-**C.** Aspetti trasversali.
-
-**B. Costruire l'ecosistema italiano della ricerca IA: ricerca fondamentale e applicata**
-
-Queste iniziative sono state pensate per collegare le eccellenze
-esistenti e le attività territoriali in un unico piano di coordinamento
-nazionale. Sono concepiti per ottenere risultati sia a basso TRL
-(Technology Readiness Level) che vicini all’introduzione al mercato.
-
-**B1. Rafforzare l'ecosistema italiano della ricerca sull’IA**
-
-**Un ecosistema strutturato è necessario per definire una grande massa
-critica, rafforzare le sinergie tra centri più piccoli e più grandi e
-valorizzare l'eccellenza “verticale” in alcuni aspetti fondanti.**
-
-**Obiettivo**
-
-Aumentare la competitività italiana per le grandi sfide dell'IA, in
-linea con iniziative europee e internazionali simili, creando una
-connessione strutturale tra centri italiani di ricerca esistenti e
-quelli nuovi.
-
-**Iniziativa**
-
-Creare un'architettura hub & spoke con competenze territoriali,
-soprattutto nella ricerca fondamentale.
-
-**Possibile fonte di investimento**
-
-PNRR M4C2 Investimento 1.3: Partenariati allargati estesi a Università,
-centri di ricerca, imprese e finanziamento progetti di ricerca di base.
-1,61 Mld per almeno 10 partenariati selezionati su base competitiva. Un
-partenariato su 15 è rivolto alla ricerca sull'IA (approccio top-down)
-mentre aspetti dell'IA sono ritenuti cruciali nei restanti 14
-partenariati.
+NRRP M4C2 Investment 1.3: Partnerships extended to universities, research centres, companies and
+funding of basic research projects. 1.610M€ for at least 10 partnerships selected on a competitive basis.
+One out of 15 partnerships targets AI research (top-down approach) while AI aspects are crucial in the
+remaining 14 partnerships. 
 
 **B2. Lanciare la piattaforma italiana di dati e software per la ricerca sull’IA**
 
-**Una piattaforma unica condivisa da tutti gli ecosistemi italiani è
-necessaria per mantenere la proprietà intellettuale dei risultati
-scientifici italiani e fornire un rapido time-to-market dalla ricerca
-italiana all'industria italiana.**
+** A unique platform shared by all Italian ecosystems is necessary to keep intellectual property of Italian scientific results
+and provide a fast time-to-market from Italian research to Italian industry.**
 
 **Obiettivo**
 
-Generare una massa critica di dataset aperti e software progettati a
-livello di ricerca - resi accessibili secondo il principio FAIR [4]_-
-che le start-up e aziende possano riutilizzare, ingegnerizzare e
-trasferire dal prototipo al mercato.
+To generate a critical mass of open datasets and software designed at the research level, made accessible
+according to the FAIR principle, that could be reused, engineered and moved from prototype to market by
+start-ups and companies.
 
 **Iniziativa**
 
-Creare una connessione strutturale di piattaforme esistenti e nuove,
-dati e infrastrutture informatiche dedicate all'intelligenza
-artificiale, incluse biblioteche open source, specializzate per quegli
-ambiti in cui si concentra la ricerca fondamentale, sia per tecnologie
-specifiche che per lo sviluppo di modelli normativi e IA affidabile.
+Creating a structural connection of existing and new platforms, data and computing infrastructure devoted to AI, open-source libraries, specialised for the 
+target topics of fundamental research in both specific
+technologies and trustworthy, regulatory models.
 
 **Possibile fonte di investimento**
 
-PNRR M4C2 Investimento 3.1: Fondo per la realizzazione di un sistema
-integrato di infrastrutture di ricerca e innovazione. 1,58 Mld concessi
-su base competitiva (approccio bottom-up).
+NRRP M4C2 Investment 3.1: Fund for construction of an integrated system of research and innovation
+infrastructures. 1.580M€ granted on a competitive basis (bottom-up approach). 
 
-**B3. Creare cattedre italiane di ricerca sull'IA**
+**B3. Creating Italian AI Research Chairs**
 
 **Obiettivo**
 
-Rafforzare le eccellenze esistenti e prevenire la fuga di cervelli
-italiani verso centri di ricerca di altri paesi.
+To reinforce existing excellence and to prevent a brain drain of Italian talents towards research centres of
+other countries. 
 
 **Iniziativa**
 
-Stanziare fondi specifici per un unico Principal Investigator (PI), già
-membro di università e centri di ricerca nazionali, per promuovere la
-collaborazione con industrie ed enti pubblici, secondo gli interessi
-degli ecosistemi locali. Sulla base di competenze oggettive, questi
-bandi potrebbero essere dedicati a specifiche ricerche libere in
-argomenti fondativi o applicativi [5]_ proposti da un PI. Il 20% del
-budget totale può essere destinato a colmare i divari di genere e
-territoriali.
+Allocating specific funds for a single Principal Investigators (PIs), already enrolled in universities and
+national research centres to promote collaboration with industries and public bodies, according to the
+interests of local ecosystems. According to objective expertise, these calls could be devoted to specific
+free research in foundational or applicative topics [5]_ pproposed by a PI. 20% of the total budget may be devoted to bridge gender and territorial gaps.
 
 **Possibile fonte di investimento**
 
-Fondo per la scienza (L.23 luglio 2021, n. 106): 50 Mln nel 2021 e 150
-Mln dal 2022 concessi su base competitiva (approccio bottom-up).
+Fondo per la scienza (L.23 luglio 2021, n. 106) 50M€ in 2021 and 150M€ from 2022 granted on a competitive basis (bottom-up approach).
 
-**B4. Creare iniziative IA-PRIN per ricerca fondamentale**
+**B4. Creating AI-PRIN Curiosity-Driven Initiatives**
 
 **Obiettivo**
 
-Migliorare la ricerca, i risultati scientifici e la collaborazione tra i
-centri di ricerca
+To improve research and scientific results and collaboration among research centres.
 
 **Iniziativa**
 
-Bandi dedicati alla ricerca fondamentale in IA ispirata da curiosità di
-base (in machine learning, NLP, visione artificiale, rilevamento,
-percezione e azione, ragionamento simbolico, edge-AI, IA basata su HPC)
-e IA affidabile per progredire nello sviluppo di software, interazione
-uomo-macchina, regolamentazione e spiegazione dell’IA.
+Calls devoted to fundamental curiosity-driven AI research (in machine learning, NLP, computer Vision,
+sensing, perception and action, symbolic reasoning, edge-AI, HPC-based AI) and trustworthy AI for
+progressing in software development, human-machine interaction, AI regulation and explanation.
 
 **Possibile fonte di investimento**
 
-PNRR M4C2 Investimento 1.1: Fondo per il Programma Nazionale Ricerca
-(PNR) e progetti di Ricerca di Significativo Interesse Nazionale (PRIN).
-1,8 Mld concessi su base competitiva (approccio bottom-up).
+NRRP M4C2 Investment 1.1: Fund for the National Research Programme (PNR) and Research Projects of
+Significant National Interest (PRIN). 1.800M€ granted on a competitive basis (bottom-up approach). 
 
-**B5. Promuovere campioni nazionali IA multidisciplinari**
+**B5. Promoting multi-disciplinary AI National Champions**
 
 **Obiettivo**
 
-Avere un forte impatto sul mondo della ricerca e aumentare l’utilizzo
-dei risultati della ricerca.
+To have a high impact in the world of research and increase research result adoption.
 
 **Iniziativa**
 
-Sfide su temi specifici con valutazione competitiva di risultati
-misurabili. Potrebbero essere correlati ad aspetti critici dell'IA e
-collegati ad obiettivi definiti di Ricerca Applicata [6]_. Le sfide
-potrebbero essere coordinate con le infrastrutture esistenti come i
-centri HPC nazionali, i nodi Gaia-X e le infrastrutture dei centri di
-ricerca pubblici e privati.
+Challenges on specific themes with measurable and competitive result evaluation. They could be related
+to critical aspects of AI and linked to the defined targets of Applied Research. The challenges could be
+coordinated with existing infrastructures such as national HPC centres, Gaia-X nodes, public and private
+research centre infrastructures.
 
 **Possibile fonte di investimento**
 
-PNRR M4C2 Investimento 1.4: Potenziamento strutture di ricerca e
-creazione di “campioni nazionali di R&S” su alcune Key Enabling
-Technologies. 1,6 Mld per 5 Centri Nazionali selezionati su base
-competitiva. Un centro su 5 si rivolge all'HPC (approccio top-down)
-mentre gli aspetti dell'IA sono cruciali nei restanti 4 centri.
+NRRP M4C2 Investment 1.4: Strengthening research structures and supporting the creation of “national
+R&D leaders” on some key enabling technologies. 1,600M€ for 5 National Centres selected on a competitive basis. One out of 5 centres targets HPC (top-down 
+approach) while AI aspects are crucial in the
+remaining 4 centres. 
 
-**B6. Lanciare bandi di ricerca-innovazione IA per collaborazioni pubblico-private**
+**B6. Launching Italian AI 60-40 research-innovation calls**
 
 **Obiettivo**
 
-Incidere e promuovere il partenariato pubblico-privato e contribuire a
-dare una caratterizzazione locale della ricerca sull'IA consentendo un
-sostegno regionale o locale ai progetti.
+To impact and promote public-private partnership and contribute to giving a local characterization of AI
+research by allowing a regional or local support to the projects. 
 
 **Iniziativa**
 
-Grandi progetti su settori prioritari ma con proposte di libera
-iniziativa (simili ai Piani Operativi Nazionali, PON, ma 60% per i
-laboratori pubblici, 40% per le imprese) che mirano a trasferire
-competenze dalla ricerca alle industrie, lavorare insieme, creare
-start-up e “innovatori”. Almeno il 10% dovrebbe essere dedicato alla
-creazione di nuove start-up di intelligenza artificiale.
+Large projects on priority sectors but with free initiative proposals (similar to the National Operational
+Plans (PON) but 60% for public labs; 40% for companies) aiming at passing skills from research to industries, working together, creating start-ups and “innovators”. At least 10% should be devoted to creating
+new AI start-ups. 
 
 **Possibile fonte di investimento**
 
-PNRR M4C2 Investimento 1.5: Creazione e rafforzamento di "ecosistemi
-dell'innovazione", costruzione di "leader territoriali di R&S". 1,3 Mld
-per un massimo di 12 ecosistemi di innovazione selezionati su base
-competitiva (approccio bottom-up).
+NRRP M4C2 Investment 1.5: Establishing and strengthening of "innovation ecosystems for sustainability", building "territorial leaders of R&D". 1,300M€ for up to 12 innovation ecosystems selected on a competitive basis (bottom-up approach).
 
-**C. Aspetti trasversali**
+**C. Horizontal aspects**
 
 **C1. Finanziare ricerca e applicazioni dell’IA creativa**
 
 **Obiettivo**
 
-Creare eccellenza scientifica nelle applicazioni di ricerca in settori
-specifici, come il manifatturiero creativo.
+To create scientific excellence in research applications in specific sectors, such as creative manufacturing.
 
 **Iniziativa**
 
-Borse di studio per ricerca pionieristica nel mondo dell'intelligenza
-artificiale creativa, un argomento di ricerca di frontiera che mette
-insieme nuovi modelli di apprendimento e ragionamento, esperti di
-neuroscienze, psicologi e persone creative.
+Grants for pioneering research in the world for creative AI, a frontier research topic that puts together
+new models of learning and reasoning, neuroscience experts and psychologists and creative people.
 
 **Possibili fonti di investimento**
 
--  Fondo per la scienza (L.23 luglio 2021, n. 106): 50 Mln nel 2021 e
-   150 Mln dal 2022 concessi su base competitiva (approccio bottom-up).
+-  Fondo per la scienza (L.23 luglio 2021, n. 106) 50M€ in 2021 and 150M€ from 2022 granted on a competitive basis (bottom-up approach).
 
--  PNRR M4C1 Investimento 4.1: Estensione del numero di dottorati di
-   ricerca e dottorati
+-  NRRP M4C1 Investment 4.1: Extension in number and career opportunities of PhDs. 430M€ granted on a competitive basis (bottom-up approach).
 
--  innovativi. 430 Mln concessi su base competitiva (approccio
-   bottom-up).
+-  NRRP M4C2 Investment 1.2: Funding projects presented by young researchers. 600M€ granted on a competitive basis (not specifically targeting AI). 
 
--  PNNR M4C2 Investimento 1.2: Finanziamento di progetti presentati da
-   giovani ricercatori. 600 Mln concessi su base competitiva (non mirati
-   specificamente all'IA).
+-  PNRRP M4C2 Investment 1.3: Partnerships extended to universities, research centres, companies andfunding of basic research projects. 1,610M€ for up to 10 partnerships selected on a competitive basis. 
 
--  PNRR M4C2 Investimento 1.3: Partenariati allargati estesi a
-   Università, centri di ricerca, imprese e finanziamento progetti di
-   ricerca di base. 1,61 Mld per un massimo di 10 partnership
-   selezionate su base competitiva.
-
-**C2. Promuovere progetti bilaterali per incentivare il rientro in Italia di professionisti**
+**C2. Promoting bilateral projects for returning professionals**
 
 **Obiettivo**
 
-Aumentare l'attrattività dell'Italia per ricercatori e investitori
+To increase Italy's attractiveness to researchers and investors.
 
 **Iniziativa**
 
-Bando per progetti incentrati su temi specifici definiti dalle priorità
-italiane cofinanziato da un altro paese con almeno un ricercatore che
-rientra in Italia con la stessa remunerazione che all’estero. Una borsa
-di studio analoga dovrebbe essere assegnata al PI italiano.
+Call for projects focused on specific topics defined by Italian priorities co-funded by another country with
+at least one researcher that is coming back to Italy with the same salary they had before. A similar grant
+should be given to the Italian PI.
 
 **Possibili fonti di investimento**
 
--  Fondo per la scienza (L.23 luglio 2021, n. 106): 50 Mln nel 2021 e
-   150 Mln dal 2022 concessi su base competitiva (approccio bottom-up).
+-  Fondo per la scienza (L.23 luglio 2021, n. 106) 50M€ in 2021 and 150M€ from 2022 granted on a competitive basis (bottom-up approach).
 
--  PNNR M4C2 Investimento 1.2: Finanziamento di progetti presentati da
-   giovani ricercatori. 600 Mln concessi su base competitiva (non mirati
-   specificamente all'IA).
+-  NRRP M4C2 Investment 1.2: Funding projects presented by young researchers. 600M€ granted on a
+   competitive basis (not specifically targeting AI). 
 
-Queste iniziative saranno supportate dalle infrastrutture italiane
-esistenti come le strutture HPC nazionali per la formazione
-sull'apprendimento automatico, le reti 5G per l'acquisizione dei dati,
-il cloud nazionale Gaia-X per l'archiviazione dei dati e la
-virtualizzazione del calcolo, nonché tutte le infrastrutture dati
-sviluppate dalle comunità di ricerca, in particolare quelli stabiliti
-all'interno della tabella di marcia del Forum Strategico Europeo per le
-Infrastrutture di Ricerca (ESFRI Roadmap).
+These initiatives will be supported by existing Italian Infrastructures such as national HPC facilities for machine
+learning training, 5G networks for data acquisition, Gaia-X national cloud for data storing and virtualizing computation, as well as all the data infrastructures
+developed by the research communities, particularly those established
+within the ESFRI Road map.
 
-Applicazioni
+Applications
 ------------
 
-Come evidenziato nei capitoli introduttivi, l'ecosistema IA italiano
-soffre di un basso numero di brevetti e di un lento processo di
-trasferimento tecnologico. Inoltre, le aziende italiane, grandi e
-piccole, sono state finora lente nell'adottare soluzioni di intelligenza
-artificiale determinando un mercato dell'IA di dimensioni limitate.
+As evidenced in the introductory chapters, the Italian AI ecosystem suffers from low patenting and a slow technology
+transfer process. In addition, Italian firms, large and small, have so far been slow to adopt AI solutions resulting in an
+AI market of limited size. 
 
-Per affrontare queste sfide, questa strategia propone una serie di
-politiche volte ad ampliare l'applicazione dell'IA nelle industrie e
-nella società, nonché misure per favorire la nascita e la crescita di
-imprese innovative in ambito IA. Inoltre, queste politiche sono
-concepite per insistere su aree prioritarie ed accompagnare la crescita
-di settori che finora hanno mostrato risultati promettenti nello
-sviluppo e nell'adozione dell'IA.
+To address these challenges, this strategy proposes a set of policies aimed at broadening the breadth of AI application in industries and society, as well as 
+measures to foster the birth and growth of innovative AI enterprises. In addition, these policies are meant to insist on priority areas and accompany the growth 
+of sectors that have so far shown potential in AI development and adoption.
 
-Tutte le iniziative condividono problemi e obiettivi comuni:
+All initiatives share common issues and targets: 
 
--  Prestare particolare attenzione alle imprese più piccole, quelle che
-   operano nei contesti geografici o socioeconomici più periferici e
-   svantaggiati, focalizzandosi sui settori prioritari (Sezione 2.3) e
-   sui settori strategici nazionali (Infrastrutture Critiche, settori
-   definiti nel “Decreto Golden Power”).
+-  To pay particular attention to smaller companies, those operating in the most peripheral and disadvantaged geographical or socioeconomic contexts, focusing on the priority sectors (Section 2.3) and on national strategic sectors (Critical Infrastructures, sectors defined in “Decreto Golden Power”).
 
--  Aumentare il numero di imprenditrici ed esperte di IA, nonché
-   attrarre start-up e professionisti esteri focalizzati sull'IA con
-   incentivi economici da applicare a tutte le iniziative descritte di
-   seguito.
+-  To increase the number of female AI entrepreneurs and experts, as well as attracting foreign AI-based start-ups and practitioners with economic incentives to    be applied in all of the initiatives outlined below.
 
--  Allineare tutte le politiche di IA relative all'elaborazione,
-   aggregazione, condivisione e scambio dei dati, nonché alla sicurezza
-   dei dati, con la Strategia Nazionale per il Cloud e con le iniziative
-   in corso a livello europeo, a partire dalla Strategia Europea dei
-   Dati e dalle recenti proposte di un Data Governance Act e di un
-   regolamento sull'intelligenza artificiale.
+-  To align all AI policies related to data processing, aggregation, sharing and exchange, as well as data security
+   with the National Strategy for Cloud and with the initiatives underway at EU level, starting with the European
+   Data Strategy and the recent proposal for a Data Governance Act and AI Act. 
 
-A tal fine, questa strategia individua due aree di intervento che
-riteniamo di maggior impatto particolarmente strategiche.
+To that end, this strategy identifies two areas of intervention that we deem to be of highest impact as well as most
+strategic. 
 
-**D.** IA per modernizzare le imprese.
+**D.** . AI for more modern enterprises.
 
-**E.** IA per modernizzare la pubblica amministrazione.
+**E.** AI for a more modern public administration.
 
-**D.IA per modernizzare le imprese.**
+**D.AI for more modern enterprises.**
 
-L'impatto dell'IA sulle imprese sarà di enorme rilevanza. L'IA infatti
-implicherà una vera e propria rivoluzione nel loro *modus operandi*, dai
-processi interni e relazioni con i clienti allo sviluppo di nuovi
-prodotti e servizi basati sull'intelligenza artificiale. Per di più,
-l'intelligenza artificiale implica che le aziende italiane dovranno
-trasformare la propria forza lavoro e i propri processi, assumendo nuovi
-talenti, formando la forza lavoro esistente e assicurandosi che tale
-transizione avvenga con un uso efficace e responsabile delle soluzioni
-di intelligenza artificiale.
+The impact of AI on businesses will be of enormous relevance and should concern all enterprises. In fact, AI implies a
+real revolution in their modus operandi, from internal processes and customer relations to the development of new
+AI-based products and services. In turn, AI implies that Italian corporates would need to transform their workforce as
+well as processes, hiring new talent, upskilling the existing workforce and making sure such transition is carried out
+with the most effective and responsible use of AI solutions. 
 
-Complessivamente le iniziative proposte mirano a:
+Overall, the proposed initiatives aim at:
 
--  Supportare il processo di assunzione di personale IA altamente
-   qualificato nelle aziende private, in modo da rafforzare il loro
-   processo di Transizione 4.0 (macchinari, hardware, software persone).
+-  Supporting the hiring process of highly skilled AI personnel in private companies, so as to reinforce their 4.0
+   Transitions process (machinery, HW, SW and people),
 
--  Aumentare l'adozione di soluzioni IA nelle aziende private, in modo
-   da aumentare la loro competitività.
+-  Increasing the adoption of AI solutions in private companies, so as to increase their competitiveness, 
 
--  Aiutare start-up e spin-off a crescere, evitare la "valle della
-   morte" e sostenere la loro crescita nazionale e internazionale.
+-  Helping start-ups and spin-offs to scale up, avoid the “valley of death” and support their national and international growth,
 
--  Stabilire un contesto normativo che possa aiutare la sperimentazione
-   e la certificazione di prodotti e servizi IA affidabili che hanno
-   superato tale sperimentazione.
+-  Establishing a regulatory context that may help the experimentation and the certification of reliable AI products
+   and services that have passed such experimentation.
 
-Pertanto, questa strategia propone le seguenti iniziative:
+Therefore, this strategy supports the following initiatives:
 
-**D1. Fare dell'IA un pilastro a supporto della Transizione 4.0 delle imprese**
+**D1. Making AI a pillar that supports enterprises' Transition 4.0**
 
 **Obiettivo:**
 
-Stimolare la transizione verso un'economia basata sulla conoscenza;
-aumentare l'intensità della spesa in R&S rispetto al PIL [7]_; arginare
-la perdita sostanziale e duratura di talenti tecnico-scientifici,
-soprattutto giovani; migliorare la protezione intellettuale delle
-soluzioni di IA per aumentare la competitività delle imprese.
+To stimulate the transition towards a knowledge based economy; to increase the intensity of R&D expenditure compared to GDP; [7]_; to curb the substantial and 
+lasting loss of technical scientific talents, especially young people; to improve the intellectual protection of AI solutions for better competitiveness of enterprises.
 
 **Possibili iniziative**
 
-Introduzione di linee guida chiare sugli stipendi degli esperti di
-IA [8]_ che devono essere in linea con i parametri salariali
-internazionali.
+Introduction of clear guidelines on AI experts salaries [8]_ which should be in line with international salary
+benchmarks,
 
-Per quanto riguarda il reclutamento di esperti senior di AI, promozione
-di posizioni di doppio incarico attraverso incentivi per tutte le parti
-coinvolte.
+With regard to the recruiting of senior AI experts, promotion of double appointment positions through
+incentives for all the parties involved,
 
-Introduzione di credito d'imposta o voucher per l'assunzione di profili
-STEM.
+Introduction of tax credit or vouchers for the recruitment of STEM profiles,
 
-Aggiornamento dell’elenco spese software e hardware ammissibili agli
-incentivi Transizione 4.0 [9]_.
+Updating the list of software and hardware expenses that are eligible for Transition 4.0 incentives, [9]_.
 
-Sfruttare le iniziative di successo esistenti che offrono formazione
-formativa da parte di partner accademici e industriali, un Master di
-secondo livello e un chiaro percorso verso l'occupazione ove
-necessario [10]_.
+Leveraging the existing successful initiatives that offer educational training by academic and industrial
+partners, a second level Master Degree for participants and a clear path towards employment where
+needed [10]_.
 
 **Fonte di investimento**
 
-PNRR M1C2 Investimento 1: Transizione 4.0 (13,38 Mld)
+NRRP M1C2 Investment 1: Transition 4.0 (€13.38B)
 
-**Settori consigliati**
+**Recommended sectors**
 
-Si consiglia di iniziare l'attuazione (primi due anni) attraverso i
-settori prioritari — Industria e produzione e banche, finanza e
-assicurazioni — poiché i dati indicano che questi sono i settori in cui
-la misura può avere il maggiore impatto. Oltre a questi settori,
-dovrebbero essere considerati anche la sicurezza nazionale e le
-tecnologie dell'informazione. Dal secondo e terzo anno dovranno essere
-aggiunti tutti i settori prioritari.
+It is recommended to begin the implementation (Y1-Y2) through a couple of priority sectors - Industry &
+manufacturing and Banking, finance & insurance - as data indicates these are the sectors where the measure may have the largest impact. In addition to these sectors, National Security and Information technologies
+should also be considered. From Y2-Y3, all Priority sectors should be added. 
 
-**D2. Sostenere la crescita di spin-off innovativi e start-up**
+**D2. Supporting the growth of innovative spin-off and start-ups**
 
 **Obiettivo**
 
-Aumentare del 30% il numero di start-up di IA rispetto al 2021;
-migliorare i ricavi medi delle start-up di IA del 50% nel mercato
-domestico e del 30% nell'export; accrescere il numero di scale-up; per
-identificare e supportare scale-up e unicorni..
+To increase the number of AI start-ups by 30% with respect to 2021; to improve the average revenues of
+AI start-ups by 50% in the domestic market and 30% in export; to improve the number of scale-ups; to
+detect and support scale-ups and unicorns.
 
 **Iniziativa**
 
-Promuovere la creazione di start-up tra professionisti e studenti ad
-alto potenziale: sostenere l'educazione all'imprenditorialità per
-bambini/ragazzi, incoraggiare gli studenti universitari ad avviare
-un'impresa, sostenere le imprenditrici, garantire pari opportunità di
-innovazione, promuovere l’assunzione di laureandi da parte di scale-up.
+Fostering talents as start-up founders: supporting entrepreneurship education for children/youngsters, encouraging university students to start a business, 
+supporting female entrepreneurs, ensuring
+equal innovation opportunities, scale-up fair.
 
-Promuovere la collaborazione all'interno degli ecosistemi delle
-start-up: offrire appalti pubblici alle start-up per l'acquisto di beni
-e servizi, promuovere l'innovazione aperta, favorire gli spin-off,
-co-creare progetti di punta per collegare gli attori dell'ecosistema
-delle start-up, promuovere incentivi fiscali per la crescita.
+Fostering collaboration within start-up ecosystems: offering public procurement to start-ups for
+purchasing goods and services, fostering open innovation, fostering spin-offs, co-creating flagship
+projects to connect start-up ecosystem players, fostering tax incentives for growth.
 
 **Fonte di investimento**
 
-CDP Venture Capital – Fondo Nazionale Innovazione, istituito dal
-Ministero dello Sviluppo Economico, ha un budget di partenza di 1 Mld e
-punta ad unificare e moltiplicare le risorse pubbliche e private
-dedicate al tema strategico dell'innovazione. Il Fondo è un soggetto
-(SGR) multifondo che opera esclusivamente attraverso metodologie di
-cosiddetto venture capital.
+CDP Venture Capital – Fondo Nazionale Innovazione: established by the Ministry of Economic Development,
+has a starting budget of 1B€ and it aims at unifying and multiplying public and private resources dedicated
+to the strategic topic of innovation. The Fund is a muti-fund entity, operating exclusively through the so-called venture capital methodologies.
 
 **Settori consigliati**
 
-Industria e produzione, agroalimentare, salute e benessere, ambiente,
-infrastrutture e reti (in particolare comunicazione e servizi
-energetici), banche, finanza e assicurazioni e tecnologie
-dell'informazione.
+Industry & Manufacturing, Agri Food, Health and Wellbeing, Environment, Infrastructures and networks
+(specifically communication and energy utilities), Banking, Finance, and Insurance and Information technologies. 
 
-**D3. Promuovere e facilitare le sperimentazioni di tecnologie IA destinate al mercato**
+**D3. Promoting and facilitating experimentations of AI technologies going to market**
 
 **Obiettivo**
 
-Aumentare del 30% i prodotti e i servizi di IA testati tramite
-sperimentazioni controllate ed autorizzate.
+To increase by 30% the AI products and services tested via authorized controlled experimentations.
 
 **Iniziativa**
 
-Promuovere il progetto Sperimentazione Italia, sandbox che consente a
-start-up, aziende, università e centri di ricerca di sperimentare il
-proprio progetto innovativo per un periodo di tempo limitato attraverso
-un'esenzione temporanea dalla normativa vigente ai sensi dell'art 36 DL
-76/2020. Questo strumento specifico facilita l'accesso di imprese,
-spin-off, start-up, enti di ricerca, università, istituti tecnici
-superiori e centri di trasferimento tecnologico alla sperimentazione
-controllata ed autorizzata per testare tecnologie di IA in condizioni
-reali o prossime al reale con eccezioni normative di durata e perimetro
-limitati, prima della loro eventuale introduzione sul mercato.
+Promotion of Sperimentazione Italia, a sandbox which allows start-ups, companies, universities and
+research centres to experiment with their own innovative project for a limited period of time through a
+temporary exemption from the rules in force under art 36 DL 76/2020. This specific instrument facilitates
+the access of corporates, spin-offs, start-ups, research bodies, universities, higher technical institutes
+and technology transfer centres to authorised controlled experimentation for testing AI technologies
+under real or close to real conditions with regulatory exceptions of limited duration and perimeter, prior to
+their potential introduction on the market. 
 
 **Settori consigliati**
 
-Tutti i settori prioritari.
+All Priority sectors.
 
-**D4. Supportare le imprese nella certificazione dei prodotti di IA**
+**D4. Supporting enterprises in AI Product Certification**
 
 **Obiettivo**
 
-Aumentare del 30% il numero di prodotti e servizi di IA certificati
-dall'UE prodotti/forniti da imprese in settori in cui esistono già
-certificazioni UE.
+To increase by 30% the number of EU-certified AI products and services from enterprises in sectors where
+EU certifications already exist.
 
 **Iniziativa**
 
-Definizione di un sistema di governance nazionale (riferendosi il più
-possibile alle istituzioni e autorità nazionali esistenti nel settore) a
-supporto della certificazione dei prodotti di IA immessi sul mercato
-(con profili di rischio più elevati, in particolare per la salute, la
-sicurezza o i diritti) con la definizione di chiari strumenti
-armonizzati in linea con la nuova proposta di Regolamento
-sull'intelligenza artificiale della Commissione Europea del 21 aprile
-2021 (COM (2021) 206). In ambito sanitario sarà garantita una stretta
-collaborazione tra il sistema governativo italiano e gli organismi
-tecnico-scientifici a livello europeo chiamati a fornire indicazioni
-tecniche dettagliate per l'attuazione delle norme, sia del futuro
-Regolamento sull’IA che del Regolamento Dispositivi Medici, ovvero i
-Regolamenti UE 745 e 746/2017 (il primo è divenuto pienamente
-applicabile il 26 maggio 2021), affinché siano adottate tutte le
-opportune misure correttive. L'obiettivo è far sì che le due normative
-siano coerenti e ben coordinate tra loro, a vantaggio dello sviluppo del
-settore IA.
-
+Definition of a national governance system (referring as much as possible to existing national institutions and authorities in the sector) supporting the c
+ertification of AI products (with higher risk profiles, in
+particular to health, safety or rights) going to the market with the definition of clear harmonised tools in
+line with the new proposal for a Regulation on artificial intelligence issued by the European Commission
+on 21 April 2021 (COM (2021) 206). In the health sector, a close collaboration will be warranted between
+the Italian government system and technical / scientific bodies at European level, called upon to provide
+detailed technical indications for the implementation of the rules, both of the future AI Regulation and of
+the Medical Device Regulation, i.e. the Regulations EU 745 and 746/2017 (the first became fully applicable on May 26, 2021), so that all the appropriate 
+corrective measures are adopted. The goal is to ensure that the two regulations are coherent and well coordinated with each other, to the benefit of the
+development of the AI sector.
 **Settori consigliati:**
 
 Tutti i settori prioritari.
 
-**D5. Promuovere campagne di informazione sull’IA per le imprese**
+**D5.  Promoting AI information campaigns for enterprises**
 
 **Obiettivo**
 
-Promuovere campagne di comunicazione e sensibilizzazione sui benefici
-dei prodotti e servizi di IA raggiungendo almeno l'80% delle
-associazioni di categoria, il 30% degli iscritti alle associazioni di
-categoria, l'80% dei Competence Center e dei Digital Innovation Hub.
+To promote communication and awareness-raising campaigns on the benefits of AI products and
+services by reaching at least 80% of trade associations, 30% of trade association members, 80% of
+Competence Centres and Digital Innovation Hubs.
 
 **Iniziativa**
 
-Organizzazione di 20 azioni di comunicazione e sensibilizzazione
-sull'IA. La campagna prevede la diffusione del Programma Strategico
-Nazionale per l'IA agli imprenditori e ai manager delle imprese
-interessate attraverso un'azione coordinata con le associazioni di
-categoria, i Competence Center e i Digital Innovation Hub. La campagna
-si concentrerà anche sui rischi e gli obblighi per la
-commercializzazione di prodotti e servizi di IA ai sensi della
-legislazione nazionale ed europea, in particolare nel contesto del
-prossimo regolamento europeo sull'IA.
+Organisation of 20 communication and awareness actions on AI. The campaign will include the dissemination of the National Strategic Programme for AI to 
+entrepreneurs and managers of interested enterprises through a coordinated action with trade associations, Competence Centres and Digital Innovation
+Hubs. The campaign will also focus on the risks and obligations for marketing AI products and services
+under national and European legislation, especially in the context of the upcoming European regulation on
+AI.
 
 **Fonte di investimento**
 
-PNRR M1C2 Investimento 1: Transizione 4.0 ( 13,38 Mld)
+NRRP M1C2 Investment 1: Transition 4.0 (€13.38B).
 
 **Settori consigliati**
 
-Tutti i settori prioritari.
+All Priority Sectors.
 
 **E. IA modernizzare la pubblica amministrazione**
 
