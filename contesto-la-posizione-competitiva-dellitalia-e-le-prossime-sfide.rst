@@ -284,7 +284,7 @@ by the universities and research organizations participating in the programme.
    `Claire - AI <https://claire-ai.org/>`__
 
 .. [3]
-   `ELLIS units, three of them in Italy in Genova, Torino and Modena <https://ellis.eu/units#pro%1Fle>`__\ \ \
+   `ELLIS units <https://ellis.eu/units#pro%1Fle>`__\ \ \, three of them in Italy in Genova, Torino and Modena 
 
 .. [4]
    `Survey from CINI - Lab AIIS National Assembly 2020: 229 women and 936 men among a total 1167 members; for overall 
@@ -295,7 +295,7 @@ by the universities and research organizations participating in the programme.
    Hubs <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [6]
-   Italian Chamber of Commerce, `\ \ \ `Punto Impresa
+   Italian Chamber of Commerce, `\ \ \ Punto Impresa
    Digitale <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [7]
@@ -303,11 +303,11 @@ by the universities and research organizations participating in the programme.
    specializzazione, `\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
 
 .. [8]
-   European Commission, `\ \ \ `European Digital Innovation
+   European Commission, `\ \ \ European Digital Innovation
    Hubs <https://digital-strategy.ec.europa.eu/en/activities/edihs>`__\ \ \ `.`
 
 .. [9]
-   Politecnico di Milano, `\ \ \ `Osservatorio italiano
+   Politecnico di Milano, `\ \ \ Osservatorio italiano
    sull'IA <https://www.osservatori.net/it/home>`__\ \ \ `.`
 
 .. [10]
@@ -328,7 +328,7 @@ by the universities and research organizations participating in the programme.
    terms of size (population), scholarization, GDP and relative weight of the different sectors on GDP.
 
 .. [15]
-   Calculated based on data from Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019"
+   Calculated based on data from Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019".
 
 .. [16]
    Calculated based on the 2 lines above
