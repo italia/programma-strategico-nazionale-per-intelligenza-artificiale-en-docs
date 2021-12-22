@@ -1,5 +1,5 @@
 The strategic programme on artificial intelligence: anchoring, principles and goals
- =======================================================================================
+===================================================================================
 
 .. _section-3:
 
@@ -256,7 +256,7 @@ growth of Italian IT companies.
    European Commission, \ \ \ `Artificial Intelligence in Public services <https://knowledge4policy.ec.europa.eu/ai-watch/artificial-intelligence-public-    services_en>`__\ \ \ .
 
 .. [7]
-   See for instance, report <https://www.ericsson.com/en/network-services/ai-5g-networks>`__\ \ \  by Ericsson on AI applications to 5G networks
+   See for instance, \ \ \ `report <https://www.ericsson.com/en/network-services/ai-5g-networks>`__\ \ \  by Ericsson on AI applications to 5G networks
 
 .. [8]
    As stated in the White Paper on Artificial Intelligence at the service of citizens published by the AI Task Force.
