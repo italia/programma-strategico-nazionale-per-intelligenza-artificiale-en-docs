@@ -14,44 +14,13 @@ A. **Research Communities**
 
 Italy has a vibrant AI research community, which contributes to the Italian AI ecosystem in four ways:
 
--  **Research**: Italian researchers are active in both fundamental and applied research, thus covering all fields of
-AI. In particular, Italian research is clustered around the following topics: Machine/Deep Learning, Computer
-Vision, Natural Language Processing (NLP), Data Mining, Big Data analytics, Embedded AI, Human aspects in AI,
-Knowledge Representation and Symbolic Learning, Decision Support Systems, Agent-based systems and
-Trustworthy AI. Research in AI is mainly carried out in research labs of universities and public research centres
-as in the National Research Council (CNR) - and in research foundations such as Fondazione Bruno Kessler and
-the Italian Institute of Technology. As we shall see later, this community has a widely recognized international
-standing in terms of quality and quantity of its research output.
+-  **Research**: Italian researchers are active in both fundamental and applied research, thus covering all fields of AI. In particular, Italian research is clustered around the following topics: Machine/Deep Learning, Computer Vision,  Natural Language Processing (NLP), Data Mining, Big Data analytics, Embedded AI, Human aspects in AI, Knowledge Representation and Symbolic Learning, Decision Support Systems, Agent-based systems and Trustworthy AI. Research in AI is mainly carried out in research labs of universities and public research centres as in the National Research Council (CNR) - and in research foundations such as Fondazione Bruno Kessler and the Italian Institute of Technology. As we shall see later, this community has a widely recognized international standing in terms of quality and quantity of its research output.
 
--  **Education and training**: Italian universities offer more than **200 AI curricula** spread over roughly 50 universities. 
-To further boost this ecosystem, Italy launched in 2021 the **National “Artificial Intelligence” PhD
-Programme (PhD-AI.it)**, one of the largest and most ambitious PhD programmes in artificial intelligence
-worldwide. The programme involves over 50 universities, three public research bodies and three 
-research organisations with a view to train researchers, innovators and professionals. The PhD-AI.it is composed 
-of five federated PhD courses, which share a common core curriculum in AI foundations and developments. Each
-course has an area of specialisation related to a strategic sector for AI application: health and life sciences,
-agrifood and environment, security and cybersec, industry 4.0, and society. To date, the programme has issued
-200 PhD scholarships with a budget of €16 million [1]_ .
+-  **Education and training**: Italian universities offer more than **200 AI curricula** spread over roughly 50 universities. To further boost this ecosystem, Italy launched in 2021 the **National “Artificial Intelligence” PhD Programme (PhD-AI.it)**, one of the largest and most ambitious PhD programmes in artificial intelligence worldwide. The programme involves over 50 universities, three public research bodies and three research organisations with a view to train researchers, innovators and professionals. The PhD-AI.it is composed of five federated PhD courses, which share a common core curriculum in AI foundations and developments. Each course has an area of specialisation related to a strategic sector for AI application: health and life sciences, agrifood and environment, security and cybersec, industry 4.0, and society. To date, the programme has issued 200 PhD scholarships with a budget of €16 million [1]_ .
 
--  **Assets**: the Italian ecosystem hosts several top-tier **research infrastructures**, in terms of 
-computational power and data lakes. Examples are the CINECA-INFN Infrastructure for HPC, 
-CNR -High Performance Artificial Intelligence Center HP-AI, the IIT HPC infrastructures 
-devoted to the new 2020-2023 Strategic asset in AI and Machine Learning. These are all capable of 
-providing computing facilities and AI competences that allow scientists of 
-any discipline to realise complex and computationally demanding AI experiments.
+-  **Assets**: the Italian ecosystem hosts several top-tier **research infrastructures**, in terms of computational power and data lakes. Examples are the CINECA-INFN Infrastructure for HPC, CNR -High Performance Artificial Intelligence Center HP-AI, the IIT HPC infrastructures devoted to the new 2020-2023 Strategic asset in AI and Machine Learning. These are all capable of providing computing facilities and AI competences that allow scientists of any discipline to realise complex and computationally demanding AI experiments.
 
--  **Communities**: Italian researchers participate in all major **AI international research networks**, including the top
-rated EU networks, such as CLAIRE [2]_ , ELLIS - confederating several AI laboratories all over Europe [3]_ - and the
-networks of excellence under the EU Horizon 2020 ICT-48 portfolio, namely HumanE-AI-Net, TAILOR, AI4MEDIA, ELISE and VISION. 
-Italy is one of the founding members of **Global Partnership on AI (GPAI)** as the result of
-an idea developed within the G7, under the Canadian and French presidencies. This partnership aims to bridge
-the gap between theory and practice in AI. Italy has also a remarkable tradition of national scientific **research
-associations**, such as AIxIA, CVPL and AILC. In particular, AIxIA is the Italian Association of Artificial Intelligence,
-founded in 1988, and a member association of EurAI, the European Association of Artificial Intelligence. Many
-Italian researchers have covered important roles in the EurAI board. CVPL is the association of Computer Vision,
-Pattern Recognition and Machine Learning founded in 1983, devoted to theory and application of AI for 
-multimedia data, connected with the International Association of Pattern Recognition. AILC is the Italian Association
-of Computational Linguistics, mainly devoted to research in natural language processing.
+-  **Communities**: Italian researchers participate in all major **AI international research networks**, including the top rated EU networks, such as CLAIRE [2]_ , ELLIS - confederating several AI laboratories all over Europe [3]_ - and the networks of excellence under the EU Horizon 2020 ICT-48 portfolio, namely HumanE-AI-Net, TAILOR, AI4MEDIA, ELISE and VISION. Italy is one of the founding members of **Global Partnership on AI (GPAI)** as the result of an idea developed within the G7, under the Canadian and French presidencies. This partnership aims to bridge the gap between theory and practice in AI. Italy has also a remarkable tradition of national scientific **research associations**, such as AIxIA, CVPL and AILC. In particular, AIxIA is the Italian Association of Artificial Intelligence, founded in 1988, and a member association of EurAI, the European Association of Artificial Intelligence. Many Italian researchers have covered important roles in the EurAI board. CVPL is the association of Computer Vision, Pattern Recognition and Machine Learning founded in 1983, devoted to theory and application of AI for multimedia data, connected with the International Association of Pattern Recognition. AILC is the Italian Association of Computational Linguistics, mainly devoted to research in natural language processing.
 
 At the same time, however, the Italian AI research ecosystem presents **four main weaknesses** this strategy will
 address, and namely: 
@@ -310,6 +279,7 @@ The remainder of this document will provide the details of Italy’s plan going 
 .. [1]
 The first two cycles of PhD-AI.it have been co-funded with about €8 million by the Ministry of University and Research and with the same amount 
 by the universities and research organizations participating in the programme.
+
 .. [2]
    `Claire - AI <https://claire-ai.org/>`__
 
@@ -321,81 +291,81 @@ by the universities and research organizations participating in the programme.
    STEM figures, see Elsevier Foundation 2021 Report: Gender in Research cited in Ansa on July 24th 2021 <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-.`
 
 .. [5]
-   `Confindustria, `\ \ \ `Digital Innovation
+   Confindustria, `\ \ \ Digital Innovation
    Hubs <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [6]
-   `Italian Chamber of Commerce, `\ \ \ `Punto Impresa
+   Italian Chamber of Commerce, `\ \ \ `Punto Impresa
    Digitale <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [7]
-   `Centri di competenza ad alta
+   Centri di competenza ad alta
    specializzazione, `\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
 
 .. [8]
-   `European Commission, `\ \ \ `European Digital Innovation
+   European Commission, `\ \ \ `European Digital Innovation
    Hubs <https://digital-strategy.ec.europa.eu/en/activities/edihs>`__\ \ \ `.`
 
 .. [9]
-   `Politecnico di Milano, `\ \ \ `Osservatorio italiano
+   Politecnico di Milano, `\ \ \ `Osservatorio italiano
    sull'IA <https://www.osservatori.net/it/home>`__\ \ \ `.`
 
 .. [10]
-   `Registered in the innovative startups section of the Business Register of the Chamber of Commerce.`
+   Registered in the innovative startups section of the Business Register of the Chamber of Commerce.
 
 .. [11]
-   `Italian Observatory on AI, 2021, Il Mercato 2020 dell’Artificial Intelligence in Italia: Applicazioni e Trend di Sviluppo.`
+   Italian Observatory on AI, 2021, Il Mercato 2020 dell’Artificial Intelligence in Italia: Applicazioni e Trend di Sviluppo.
 
 .. [12]
-   `European AI spending data from Statista; GDP figures from IMF WEO.`
+   European AI spending data from Statista; GDP figures from IMF WEO.
 
 .. [13]
-   ` European Commission, `\ \ \ `EGovernment Benchmark
+   ` European Commission, `\ \ \ EGovernment Benchmark
    2020 <https://op.europa.eu/en/publication-detail/-/publication/8e708e4f-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-233013088>`__\ \ \ `.`
 
 .. [14]
-   `Comparison with peers has been focused on Germany, France and UK; these countries are similar to Italy in 
-   terms of size (population), scholarization, GDP and relative weight of the different sectors on GDP. `
+   Comparison with peers has been focused on Germany, France and UK; these countries are similar to Italy in 
+   terms of size (population), scholarization, GDP and relative weight of the different sectors on GDP.
 
 .. [15]
-   `Calculated based on data from Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019"`
+   Calculated based on data from Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019"
 
 .. [16]
-   `Calculated based on the 2 lines above`
+   Calculated based on the 2 lines above
 
 .. [17]
-   `Companies, Research Inst., Universities, ... involved in AI patents (from 2009 to 2018).`
+   Companies, Research Inst., Universities, ... involved in AI patents (from 2009 to 2018).
 
 .. [18]
-   `Calculated based on data from UNESCO UIS, Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019", and IMF: WEO October 2020.`
+   Calculated based on data from UNESCO UIS, Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019", and IMF: WEO October 2020.
 
 .. [19]
-   `AI unicorn companies count on Dealroom.com.`
+   AI unicorn companies count on Dealroom.com.
 
 .. [20]
-   `See for instance Best Paper Award @NeurIPS (Dec, 2020) or also CNR results on AI applied to quantum computing, (Aug 2021)`
+   See for instance Best Paper Award @NeurIPS (Dec, 2020) or also CNR results on AI applied to quantum computing, (Aug 2021)
 
 .. [21]
-   `High-level working group of the Italian National Commission for 
-   UNESCO, 2021, Ricerca e sviluppo: quale futuro per l’Italia?`
+   High-level working group of the Italian National Commission for 
+   UNESCO, 2021, Ricerca e sviluppo: quale futuro per l’Italia?
 
 .. [22]
-   `Data retrieved from Informatics Europe <https://www.informatics-europe.org/data/higher-education/academic-salaries/phds-postdocs.html>`__\ \ \ `.`
+   Data retrieved from `Informatics Europe <https://www.informatics-europe.org/data/higher-education/academic-salaries/phds-postdocs.html>`__\ \ \ `.`
 
 .. [23]
-   `Companies which are providing digital services to other companies all around the world, to run their business.`
+   Companies which are providing digital services to other companies all around the world, to run their business.
 
 .. [24]
-   `Eurostat, 2020, “European enterprise survey on the use of technologies based on 
+   Eurostat, 2020, “European enterprise survey on the use of technologies based on 
    artificial intelligence”; with some stats from POLIMI Osservatorio for the interviewed 
-   companies observed a 50% of adoption; American Chamber in Italy report.`
+   companies observed a 50% of adoption; American Chamber in Italy report.
 
 .. [25]
-   `More than 50% of interviewed companies declared that the one of the major 
-   obstacles is the absence of AI professionals (Osservatorio AI del Politecnico di Milano/2020).`
+   More than 50% of interviewed companies declared that the one of the major 
+   obstacles is the absence of AI professionals (Osservatorio AI del Politecnico di Milano/2020).
 
 .. [26]
-   `Data presented by McKinsey during the event “The Future Is Now” held in Milan in 2019. <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ `.
+   Data presented by McKinsey during the event `“The Future Is Now” <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ held in Milan in 2019. .
 
 .. |image0| image:: ./media/image2.png
    :width: 0.35069in
