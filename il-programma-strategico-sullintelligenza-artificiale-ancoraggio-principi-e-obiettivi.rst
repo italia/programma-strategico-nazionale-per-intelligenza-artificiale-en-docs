@@ -1,397 +1,268 @@
-Il programma strategico sull'intelligenza artificiale: ancoraggio, principi e obiettivi
-=======================================================================================
+The strategic programme on artificial intelligence: anchoring, principles and goals
+===================================================================================
 
 .. _section-3:
 
 .. _section-4:
 
-L'ancoraggio: un'IA che guarda all'UE
+The anchoring: an EU centred AI
 -------------------------------------
 
-Nell'ultimo decennio, l'industria e la società sono state radicalmente
-trasformate dalla rivoluzione digitale in corso. In questo contesto,
-l'UE ha riconosciuto l\ **'IA come un'area di importanza strategica**,
-visto il potenziale del settore di diventare una delle chiavi di
-successo per lo sviluppo economico futuro dell’Unione.
+Over the last decade, industry and society have been radically changed by the ongoing digital revolution. In this
+context, the EU has recognized **AI as an area of strategic importance** with the potential of becoming a key driver of
+economic development.
 
-Nell'aprile 2018 la Commissione europea ha presentato una strategia
-europea sull'IA all’interno della sua comunicazione "Intelligenza
-artificiale per l'Europa" COM(2018) 237, nell'ambito della strategia per
-il mercato unico digitale. Questa strategia delinea i seguenti
-obiettivi:
+In April 2018, the European Commission put forward a European strategy on 
+AI in its Communication ‘Artificial Intelligence for Europe’ COM(2018)237 a
+s part of its Digital Single Market Strategy. This strategy delineates the following
+aims: 
 
--  .. rubric:: Rafforzare la **leadership** europea in IA sia in ambito tecnologico che industriale e la diffusione dell'IA in tutta l'economia, sia nel settore privato che in quello pubblico.
+-  .. rubric:: Boosting the EU's **AI technological and industrial leadership** and AI uptake across the economy, both in the private and public sectors.
 
--  .. rubric:: Prepararsi ai **cambiamenti socio-economici** che l’IA comporta.
+-  .. rubric:: Preparing for **socio-economic changes** brought about by AI.
 
--  .. rubric:: Stabilire un **quadro giuridico** appropriato basato su valori e principi etici.
+-  .. rubric:: Establishing an appropriate **legal framework** based on ethical values and principles. 
 
-A seguire, la Commissione europea e gli Stati membri hanno presentato un
-"Piano coordinato sull'intelligenza artificiale" - COM(2018)795 nel
-dicembre 2018, con l'obiettivo di massimizzare l'impatto degli
-investimenti in IA sia a livello europeo che nazionale e rafforzare
-sinergie e cooperazione tra gli Stati membri. A tal fine, gli **Stati
-membri sono stati fortemente incoraggiati a sviluppare le proprie
-strategie nazionali di IA** come primo passo per raggiungere questi
-obiettivi. *Questo programma strategico risponde a tale
-incoraggiamento.*
+Following this, the European Commission and the Member States put forward a ‘Coordinated Plan 
+on Artificial Intelligence’ - COM(2018)795 in December 2018 with the stated goal of maximizing AI investments' impact both at
+European and national levels and strengthening synergies and cooperation among Member States. To this end,
+**Member States were strongly encouraged** to develop their own national AI strategies as a first step to achieve
+these aims. *This strategic programme responds to this encouragement.*
 
-Più di recente, la Commissione europea ha pubblicato la 'Revisione 2021
-del Piano Coordinato sull’Intelligenza Artificiale' al fine di
-rafforzare la competitività degli Stati membri. Questa revisione
-analizza le iniziative finora intraprese dalla Commissione europea
-nell’ambito del quadro finanziario pluriennale 2021-2027 e offre
-proposte concrete per ulteriori azioni congiunte tra l'UE e gli Stati
-membri. Il piano prevede investimenti importanti: 1,5 miliardi di euro
-(2018-2020) e 1 miliardo di euro all'anno (dopo il 2020) da assegnare
-all’interno dei seguenti programmi [1]_.
+More recently, the EU Commission published the ‘2021 review of the Coordinated Plan 
+on Artificial Intelligence’ with a view to strengthen Member States’ competitive landscapes. 
+The review reports actions taken by the European Commission so far within the framework of 
+the MFF 2021-2027 programming and sets concrete proposals and
+recommendations for further joint actions between the EU and Member States. 
+The plan was accompanied by significant investments: €1.5 billion (2018-2020) 
+and €1 billion/year (after 2020) to be allocated in the following funding
+framework programmes [1]_.
 
 -  .. rubric:: Horizon Europe
       :name: horizon-europe
 
-   -  .. rubric:: Aspetti che contribuiscono allo sviluppo dell'IA
-         (infrastrutture dati e cloud per l'IA).
-         :name: aspetti-che-contribuiscono-allo-sviluppo-dellia-infrastrutture-dati-e-cloud-per-lia.
+   -  .. rubric:: Aspects contributing to AI (data and cloud infrastructures for AI).
+         (data and cloud infrastructures for AI)).
+         :name: Aspects-contributing-to-AI-data-and-cloud-infrastructures-for-AI.
 
-   -  .. rubric:: Sviluppo di tecnologie IA (soprattutto nel cluster 4,
-         dove è stata lanciata la partnership IA-Big Data and Robotics,
-         e approcci bottom-up come EIC, MSCA, ERC ecc.)
-         :name: sviluppo-di-tecnologie-ia-soprattutto-nel-cluster-4-dove-è-stata-lanciata-la-partnership-ia-big-data-and-robotics-e-approcci-bottom-up-come-eic-msca-erc-ecc.
+   -  .. rubric:: Development of AI technologies (especially in cluster 4, where the partnership AI-Big Data and Robotics has been launched, and bottom-up approaches like EIC, MSCA, ERC etc.). :name: Development-of-AI-technologies-especially-in-cluster-4-where-the-partnership-AI-Big-Data-and-Robotics-has-been-launched-and-bottom-up-approaches-like-EIC-MSCA-ERC-etc.).
 
-   -  .. rubric:: Uso dell'IA in altri cluster che contribuiscono all'IA
-         (1. Salute, 3. Sicurezza civile per la società, 5. Clima,
-         energia e mobilità, 6. Cibo e risorse naturali) e in tutte le
-         missioni.
-         :name: uso-dellia-in-altri-cluster-che-contribuiscono-allia-1.-salute-3.-sicurezza-civile-per-la-società-5.-clima-energia-e-mobilità-6.-cibo-e-risorse-naturali-e-in-tutte-le-missioni.
+   -  .. rubric:: Use of AI in other clusters contributing to AI (1. Health, 3. Civil security for society, 5. Climate, energy and mobility, 6. Food and natural resources) and in all Missions. :name: Use-of-AI-in-other-clusters-contributing-to-AI-1-Health-3-Civil-security-for-society-5-Climate-energy-and-mobility-6-Food-and-natural-resources-and-in-all-Missions.
 
 -  .. rubric:: Digital Europe
       :name: digital-europe
 
-   -  .. rubric:: Obiettivo strategico 2.
+   -  .. rubric:: Strategic Objective 2.
          :name: obiettivo-strategico-2.
 
-   -  .. rubric:: Attività relative all'IA in SO4 (competenze) e SO5
-         (European Digital Innovation Hub).
-         :name: attività-relative-allia-in-so4-competenze-e-so5-european-digital-innovation-hub.
+   -  .. rubric:: AI-related activities in SO4 (skills) and SO5 (European Digital Innovation Hub).
+         :name: AI-related-activities-in-SO4-skills-and-SO5-European-Digital-Innovation-Hub.
 
 .. _section-5:
 
-Per supportare l'attuazione del piano sopra delineato, la Commissione
-europea ha lanciato nel 2019 il progetto "AI Watch", con l'obiettivo di
-monitorare la capacità industriale, tecnologica e di ricerca, nonché le
-politiche nazionali degli Stati membri. Inoltre, il progetto tiene
-traccia degli aggiornamenti e degli sviluppi tecnologici dell'IA in
-tutto il mondo, ne valuta l'impatto nell'economia, nella società e nei
-servizi pubblici. Il primo report sulle strategie nazionali è stato
-pubblicato a febbraio 2020.
+To support the implementation of the plan outlined above, the European Commission launched the project “AI Watch”
+in 2019, with the goal of monitoring industrial, technological and research capacity, as well as national 
+policy initiatives. Furthermore, the project keeps track of updates and technological developments of AI worldwide, 
+assesses their impact in the economy, society and public services. Its first national strategies’ 
+review was published in February 2020.
 
-L'ultimo passo compiuto dalla Commissione europea, nell'aprile 2021, è
-stata la proposta di un Regolamento europeo [2]_ con l’obiettivo di
-delineare un quadro giuridico comune ben definito, in grado di valutare
-il livello di rischio associato ad ogni possibile ambito applicativo di
-questa tecnologia.
+The last step taken by the European Commission, in April 2021, is the launch of the proposal for a European Regulation on AI [2]_ which aims to introduce a
+common regulatory and legal framework based on a well-defined risk-based assessment of each field of application. 
 
-L'atto propone inoltre l'introduzione di un Comitato europeo per
-l'intelligenza artificiale che incoraggerà la cooperazione nazionale e
-garantirà il rispetto del regolamento.
+The initiative also proposes the introduction
+of a European Artificial Intelligence Board, which will encourage national cooperation and ensure that the regulation is respected.
 
-L'IA è quindi una priorità fondamentale per l'Unione europea. L'Italia
-mira a strutturare il proprio Programma Strategico in linea con
-l’approccio europeo.
+AI is therefore a key priority for the European Union. Italy aims to be aligned with this European priority and integrate
+its Strategic Programme within this European approach.
 
-Principi guida
+Guiding Principles
 --------------
 
-Questo programma strategico nazionale per l'intelligenza artificiale
-definisce un quadro coerente ed olistico di iniziative per lo sviluppo
-di un ecosistema nazionale per l’intelligenza artificiale. Il programma
-**si ispira a cinque principi guida.**
+This National Strategic Programme for Artificial Intelligence 
+defines a coherent and holistic framework of initiatives to
+support the development of a national AI ecosystem. 
+Its design is **inspired by five guiding principles**.
 
-1. **L'IA italiana è un'IA europea**. In linea con il piano coordinato
-   dell'UE sull'intelligenza artificiale [3]_, il Programma strategico
-   italiano sviluppa azioni comuni e coordinate affinché l'Europa possa
-   raggiungere l’autonomia strategica e competere a livello
-   internazionale. Pertanto, questo programma riflette le quattro
-   proposte avanzate dal Piano coordinato dell'UE sull'IA. Innanzitutto,
-   stabilisce le condizioni abilitanti per lo sviluppo e l'adozione
-   dell'IA, concentrandosi sulla cooperazione, sui dati e
-   sull'infrastruttura informatica. In secondo luogo, fa leva sull'HPC
-   italiano esistente e sull'infrastruttura di gestione dei dati. In
-   terzo luogo, mira a formare ricercatori ed adottare un insieme
-   armonizzato di regole per l'IA come proposto dall'IA ACT. Infine,
-   individua i settori prioritari dove costruire una leadership
-   strategica.
+1. **Italy’s AI is a European AI**. In line with the EU Coordinated Plan on Artificial Intelligence [3]_, 
+   the Italian Strategic Programme stems from the awareness that only through common and coordinated actions Europe will
+   be able to compete globally and work towards strategic autonomy. Therefore, this programme reflects
+   the four sets of proposals put forward by the 2021 EU Coordinated Plan on AI. First, it sets enabling conditions for AI’s development and uptake by focusing  
+   on cooperation, data and computing infrastructure. Second, it leverages on existing Italian HPC and data-management infrastructure. Third, it aims at        
+   nurturing talents and adheres to the joint effort for
+   improving and adopting the harmonised set of rules for AI proposed by the AI ACT. Fourth, it identifies priority sectors where to build strategic leadership.
 
-2. **L'Italia sarà un polo globale di ricerca e innovazione
-   dell'IA**. [4]_ Per garantire la futura crescita economica e
-   l'autonomia strategica, è essenziale che l'Italia rafforzi il suo
-   ecosistema di ricerca e sviluppo sull'IA per generare innovazioni IA
-   all’avanguardia. Di conseguenza, questo programma strategico prevede
-   investimenti nella ricerca e nelle applicazioni di frontiera per
-   sviluppare le metodologie e tecniche di IA di domani.
+2. **Italy will be a global research and innovation hub of AI.**. 
+   [4]_ To guarantee future economic growth and
+   strategic autonomy, it is essential for Italy to boost its AI research and development ecosystem and
+   leapfrog at the forefront of AI developments. Accordingly, this strategic programme will invest in frontier
+   research and applications to develop AI methodologies and techniques of tomorrow.
 
-3. **L'intelligenza artificiale italiana sarà antropocentrica,
-   affidabile e sostenibile**. [5]_ Le tecnologie non devono solamente
-   promuovere la crescita economica ma assicurare che essa sia inclusiva
-   e sostenibile, in linea con i principi contenuti nell'articolo 3
-   della Costituzione italiana e negli obiettivi di sviluppo sostenibile
-   delle Nazioni Unite. Ciò significa che lo sviluppo dell'IA deve
-   essere incentrato sull'inclusione economica e sociale, sui diritti
-   umani e sulla sostenibilità ambientale. L'IA deve essere progettata e
-   implementata in modo responsabile e trasparente, affinché possa
-   rispondere alle sfide della società garantendo sicurezza in tutti i
-   settori. A tal fine, l'Italia aderisce alle “Linee guida etiche per
-   un programma di orientamento e attuazione affidabile dell'IA”
-   definito dall'High Level Expert Group on AI.
+3. **Italy’s AI will be human-centred, trustworthy and 
+   sustainable**. [5]_ Technologies must not promote economic growth per se, but inclusive and sustainable growth, in line with the principles contained in   
+   Article 3 of the Italian Constitution and the United Nations Sustainable Development Goals. This means that AI
+   development must be centred around economic and social inclusion, human rights as well as environmental sustainability. AI must be designed and implemented in
+   a responsible and transparent manner,
+   based on trust and robustness so that it can be safely adopted in every sector and be capable of responding to societal challenges. To this aim, Italy adheres
+   to the “Ethics Guidelines for trustworthy AI- Guidance
+   and implementation program” defined by the High Level Expert Group on AI.
 
-4. **Le aziende italiane diventeranno leader nella ricerca, nello
-   sviluppo e nell'innovazione di IA**. Se l'Italia vuole stare al passo
-   con le nazioni più innovative, bisogna agire sulla trasformazione
-   digitale del nostro ecosistema imprenditoriale. Pertanto, questo
-   programma promuove lo sviluppo, l'implementazione e l'adozione di
-   soluzioni di intelligenza artificiale nelle imprese. I partenariati
-   pubblico-privato saranno strumentali allo sviluppo di sinergie tra
-   enti di ricerca e imprese con l'obiettivo di aumentare le capacità di
-   trasferimento tecnologico e quindi la competitività dell'Italia.
+4. **Italian companies will become leaders of AI-based research, 
+   development and innovation.**. The digital
+   transformation of our entrepreneurial ecosystem is a must, if Italy wants to keep up with the most developed and innovative nations. To that end, this
+   programme fosters the development, implementation and
+   adoption of AI solutions. Public-private partnerships will be instrumental in finding appropriate synergies
+   between research bodies and enterprises with the aim of increasing Italy’s technology transfer capabilities and thus competitiveness. 
 
-5. **Le pubbliche amministrazioni italiane governeranno l'IA e
-   governeranno con l’IA**. [6]_ L'uso e l'impatto dell’IA nel settore
-   pubblico deriveranno da un approccio duale, seguendo la logica del
-   “govern IA and govern with IA”. Da un lato, il governo si è impegnato
-   a governare l’IA per attenuarne i potenziali rischi, con particolare
-   riferimento alla salvaguardia dei diritti umani e a un’IA che
-   rispetti i principi etici fondanti della Repubblica. D’altra parte,
-   il governo migliorerà i propri processi interni e le politiche grazie
-   ad un uso responsabile dei dati e della tecnologia IA.
+5. **Italy’s public administrations will govern with AI and will 
+   govern AI.**. [6]_ The use and impact of AI in the
+   public sector revolves around the dual dimensions of governance ‘with and of’ AI. On the one hand, Italy’s
+   Government will improve its internal processes and policies thanks to a responsible use of data and AI
+   technology. On the other hand, the Government is committed to governing AI and mitigating its potential
+   risks, especially to safeguard human rights and ensure an ethical deployment of AI. 
 
-Questi Principi Guida non sono pilastri separati, ma offrono una visione
-ambiziosa del futuro dell'IA in Italia e un approccio integrato volto a
-stimolare tutti i fattori che possono contribuire allo sviluppo di un
-ecosistema IA. I cambiamenti tecnico-industriali porteranno a dei
-cambiamenti sociali; entrambi, a loro volta, stimoleranno la ricerca
-fondamentale e quella applicata. Questo programma strategico è impostato
-per sostenere tutti questi aspetti.
+These Guiding Principles are not separate pillars. They offer an ambitious vision of the future of AI in Italy and an
+integrated approach that aims at stimulating all those factors that can contribute to the development of a favourable
+ecosystem. Industrial changes will lead to societal ones and both of these, in turn, will stimulate fundamental and
+challenge-driven research. The Strategic Programme is set to support all of these aspects. 
 
-Obiettivi e settori prioritari
+Objectives and Priority Sectors
 ------------------------------
 
-Date le sfide descritte nel capitolo precedente, nonché la posizione
-competitiva dell'Italia nel campo dell'IA, questo programma strategico
-delinea **sei obiettivi** per consolidare i punti di forza e superare i
-punti di debolezza dell’IA italiana. Questi obiettivi sono:
+Given the challenges laid out in the prior chapter, as well as Italy’s competitive position in the field of AI, this strategic
+programme lays out six objectives with a view to boosting Italy’s strengths while mitigating its weaknesses.
+These objectives are: 
 
-**Obiettivo 1**: rafforzare la ricerca di frontiera nell'IA, sia
-fondamentale che applicata, al fine di generare un impatto sui settori
-prioritari dell'industria, del settore pubblico, della società e
-dell'ambiente. Va incentivato un approccio multidisciplinare, dove la
-ricerca è accompagnata dall’innovazione industriale e sociale generando
-veri e propri ecosistemi di innovazione.
+**Objective 1**: Advance frontier research in AI, both fundamental and applied, with a view to generating
+impact on important priority sectors of Industry, Public sector, Society, and Environment. A multidisciplinary approach must be incentivized, where research coexists with industrial and social innovation generating true innovation ecosystems.
 
-**Obiettivo 2:** ridurre la frammentazione della ricerca sull'IA
-aiutando gli ecosistemi dell'IA a raggiungere massa critica e
-promuovendo le collaborazioni di rete, in modo da stimolare sia
-l'eccellenza scientifica che l'inclusività sociale e la coesione
-territoriale.
+**Objective 2:** Reduce AI research fragmentation by helping the AI ecosystems achieve critical mass and
+by fostering network collaborations, making scientific excellence coexist with social cohesion and territorial inclusiveness.
 
-**Obiettivo 3**: sviluppare e adottare un'IA antropocentrica e
-affidabile nel settore pubblico e privato affinché le soluzioni di IA
-siano conformi alla norme vigenti e vengano accettate dalla società
-sostenendo nel contempo lo sviluppo e la progettazione di tecnologie e
-sistemi di IA responsabili.
+**Objective 3**: Develop and adopt human-centred and trustworthy AI in the public and private sector,
+promoting the societal acceptability of AI solutions, their compliance to regulation of AI, while supporting
+the development and design of responsible AI technology and systems.
 
-**Obiettivo 4**: aumentare l'innovazione basata sull'IA e lo sviluppo
-della tecnologia di IA promuovendo investimenti industriali e
-partenariati che trasferiscano i risultati della ricerca sul mercato,
-facilitando così l'adozione dell'IA nelle PMI.
+**Objective 4**: Increase AI-based innovation and the development of AI technology by fostering industrial investments and partnerships that drive excellent
+science out to the market, hence facilitating the uptake of AI in SMBs.
 
-**Obiettivo 5**: sviluppare politiche e servizi basati sull’IA nel
-settore pubblico promuovendo l'innovazione, l'adozione di soluzioni di
-intelligenza artificiale e la cooperazione tra centri di ricerca,
-industrie ed enti pubblici.
+**Obiettivo 5**: Develop AI-driven policies and services in the public sector by boosting public sector innovation, the adoption of AI solutions and the
+cooperation between research centres, industries, and public bodies. 
 
-**Obiettivo 6**: creare, trattenere ed attrarre ricercatori di IA in
-Italia promuovendo l’IA in tutti i livelli di istruzione per creare una
-nuova generazione di ricercatori ed innovatori con il fine di rendere
-l’Italia una meta attrattiva per i ricercatori qualificati esteri,
-mantenendo una particolare attenzione alla diversità e all’equilibrio di
-genere.
+**Obiettivo 6**: Create, retain and attract AI talent in Italy by promoting all levels of education in AI, creating a new generation of holistic AI researchers and
+innovators, making Italy an attractive AI destination for qualified human capital from abroad, with a particular attention to diversity and gender balance.
 
-Per raggiungere i sei obiettivi di questa strategia, l'Italia è
-impegnata ad investire in **undici settori** prioritari. Tra questi sono
-compresi quelli in cui l'Italia ha già un vantaggio competitivo, come i
-settori manifatturiero, culturale, agroalimentare e sanitario, ma anche
-industrie strategiche per lo sviluppo tecnologico del Paese, come la
-sicurezza nazionale, l'informatica e l'ambiente.
+Together with this strategy’s **six objectives**, Italy is committed to investing in **eleven priority sectors**. These sectors
+include those where Italy already has a competitive advantage, such as manufacturing, culture, agri-food and health,
+but also industries that are strategic to the country’s technological development, such as national security, IT and the
+environment. 
 
-**Settori prioritari**
+**Priority sectors**
 
-**Industria e manifatturiero.** L'IA consentirà al settore
-manifatturiero italiano, il secondo più grande in Europa e il settimo
-nel mondo, di introdurre sul mercato processi, prodotti e modelli di
-business innovativi rafforzando il proprio vantaggio competitivo a
-livello mondiale.
+**Industry and Manufacturing**. AI will enable the Italian manufacturing sector, the second largest in
+Europe and seventh largest in the world, to introduce innovative processes, products and business
+models to the market while maintaining (or increasing) its global competitive edge. 
 
-**Sistema educativo.** Poiché l'intelligenza artificiale sta
-trasformando molti aspetti della nostra vita, bisogna formare i
-cittadini a questa tecnologia attraverso un nuovo piano di istruzione
-per comprendere, rafforzare, integrare e diffondere la tecnologia IA.
-L'intelligenza artificiale dovrebbe essere un argomento importante a
-tutti i livelli di istruzione. Allo stesso tempo, l’IA può costituire un
-potente strumento per trasformare il sistema educativo nazionale
-sviluppando piani di apprendimento personalizzati nei limiti dei
-principi di equità e affidabilità.
+**Education system**. As artificial intelligence is transforming every aspect of our lives we need to educate
+all people to this technology through a new education and training plan to understand, reinforce,
+integrate and disseminate AI technology. AI should be an important topic at all education levels. At the
+same time, it can constitute a powerful instrument for a fruitful transformation of the national education
+system to develop personalized learning plans while ensuring fairness and trustworthiness.
 
-**Agroalimentare.** Il settore agroalimentare italiano può aumentare
-ulteriormente la propria competitività tramite l’IA sviluppando
-l'agricoltura di precisione, la quale permette di evitare la
-sovrapproduzione e gli sprechi, aumentare la sicurezza alimentare e
-ridurre le emissioni.
+**Agri-food**. Through AI, Italy’s thriving agri-food sector has the potential to increase further 
+its competitive position by developing precision agriculture, thus avoiding overproduction and waste, increasing food
+safety and reducing emissions from land and agriculture. 
 
-**Cultura e turismo.** Le tecnologie avanzate aumenteranno ulteriormente
-l'attrattività turistica dell'Italia creando nuove sinergie tra
-industrie culturali e creative, produttori, gestori e utilizzatori del
-vasto patrimonio culturale italiano. Per esempio, le nuove tecnologie di
-IA permettono il monitoraggio continuo e il restauro preventivo del
-patrimonio culturale, il monitoraggio del patrimonio paesaggistico, la
-personalizzazione dei servizi per meglio rispondere alla domanda, la
-creazione di tour virtuali delle destinazioni turistiche per consentire
-scelte più consapevoli, i traduttori simultanei per la descrizione dei
-luoghi e dei monumenti visitati e servizi geolocalizzati per i turisti.
+**Culture and tourism**. Advanced technologies will further increase Italy’s touristic attractiveness by creating 
+new synergies between cultural and creative industries, producers, managers and users of Italy’s
+vast cultural heritage. These technologies enable, for instance, continuous monitoring and preventive
+restoration of cultural heritage, monitoring and alert system for landscape heritage, customisation of
+services to better meet demand, virtual tours of tourist destinations to allow for better informed choices
+of travel destination, simultaneous translators for the description of places and monuments visited,
+geolocalised services for tourists.
 
-**Salute e benessere.** Nel campo della sanità, le applicazioni di
-intelligenza artificiale stimolano l'innovazione di prodotti e processi
-scambiando e aggregando informazioni attualmente disperse in una
-moltitudine di database pubblici e ampiamente sottoutilizzati. Le
-applicazioni di intelligenza artificiale aiuteranno a soddisfare le
-nuove esigenze derivanti dall'invecchiamento della popolazione italiana.
-Inoltre, avranno un impatto significativo sulla popolazione a rischio di
-malattie gravi come le malattie degenerative, oncologiche e virali e
-aumenteranno l'inclusione sociale dei gruppi svantaggiati. Alcuni esempi
-di applicazioni sono: dispositivi e servizi medici in aree di screening
-e diagnostica come l'omica e l'imaging medico, nuovi farmaci e vaccini,
-monitoraggio e trattamento delle persone, supporto alla cura del
-paziente (diagnosi e prognosi) e modelli predittivi delle esigenze
-sanitarie.
+**Health and wellbeing**. In the field of healthcare, AI applications boost product and process innovation by
+exchanging and aggregating information that is currently scattered in a multitude of public and largely
+underused databases. AI applications will help meet the new needs arising from an ageing Italian 
+population. Moreover, they will have a significant impact on the population at risk of severe diseases such as
+degenerative, oncological, and viral diseases, and increase social inclusion of disadvantaged groups.
+A few application examples are medical devices and services in screening and diagnostic areas such as
+omics and medical imaging, new drugs and vaccines, tracking and treating people, supporting patient
+care (diagnosis and prognosis), and predictive models of healthcare needs.
 
-**Ambiente, infrastrutture e reti.** Le soluzioni di intelligenza
-artificiale avranno un impatto significativo sulla conservazione delle
-risorse, la riduzione delle emissioni, la gestione dei flussi di
-traffico e dei relativi rischi, il rafforzamento dell'economia circolare
-e la prevenzione dei disastri naturali. Più in generale, l'IA sarà un
-alleato fondamentale per accelerare la transizione ecologica, un
-pilastro del piano di ripresa e resilienza dell'Italia e degli sforzi di
-ripresa dell'Unione Europea. Inoltre, l'intelligenza artificiale può
-svolgere un ruolo abilitante anche nello sviluppo altamente strategico
-delle reti 5G in quanto può aiutare a migliorare le prestazioni della
-rete e a ridurre le spese in conto capitale associate alla
-distribuzione/gestione dell'infrastruttura [7]_. Altri esempi includono
-monitoraggio e gestione intelligente delle reti e dei consumi,
-monitoraggio e gestione predittiva del ciclo dei rifiuti, analisi
-situazionale e predittiva del dissesto idrogeologico
+**Environment, infrastructures and networks**. AI solutions will have a significant impact on preserving
+resources, reducing emissions, better managing traffic flows and related risks, strengthening the circular economy and better preventing natural disasters. More
+generally, AI will be a fundamental ally in
+accelerating the ecological transition, a pillar of Italy’s recovery and resilience plan and European Union’s
+recovery efforts. In addition, AI may have an enabling role also in the highly strategic development of 5G
+networks as it can help improve network performance as well as reduce capital expenditures associated
+with its infrastructure deployment/management . A few application examples are monitoring and intelligent management of networks and consumption, monitoring and
+predictive management of the waste
+cycle, situational and predictive analysis of hydrogeological instability.
 
-**Banche, finanza e assicurazioni.** Le nuove tecnologie di intelligenza
-artificiale consentiranno alle banche e alle compagnie assicurative di
-migliorare i loro servizi in almeno due modi. In primo luogo,
-aumenteranno la qualità dei servizi offerti ai clienti e ridurranno i
-loro costi attraverso un livello più elevato di personalizzazione e
-sicurezza delle transazioni. In secondo luogo, le applicazioni di
-intelligenza artificiale rafforzeranno i sistemi di prevenzione delle
-frodi e semplificheranno l'adempimento degli obblighi degli intermediari
-attraverso l'adozione di meccanismi per rilevare comportamenti sospetti
-e analizzare dati e documenti.
+**Banking, Finance, and Insurance**. Modern AI technologies will allow banks and insurers to improve in at
+least two ways. First, they will increase the quality of services offered to customers and reduce their
+costs through a higher level of personalisation and security of transactions. Second, AI applications will
+strengthen fraud prevention systems and simplify the fulfilment of intermediary obligations through the
+adoption of mechanisms for detecting suspicious behaviour and analysing data and documents.
 
-**Pubblica Amministrazione.** Nel futuro prossimo, l'IA ottimizzerà i
-processi amministrativi, migliorando servizi e prestazioni per i
-cittadini e le imprese e riducendo i costi [8]_. Inoltre, con le sue
-banche dati e strumenti di acquisto, investimento e regolamentazione
-innovativi, la PA è chiamata a svolgere un ruolo attivo nella
-rivoluzione dell'IA nel settore privato a beneficio della collettività
-(e.g., open data, strumenti di geolocalizzazione, acquisto di prodotti e
-servizi di IA, fondi per IA, sperimentazione di soluzioni IA). Pertanto,
-la PA potrebbe beneficiare di soluzioni IA inerenti alla gestione dei
-flussi, assistenti virtuali e chatbots e di supporto per l'esame delle
-domande di incentivazione, di supporto nella lotta contro l'evasione
-fiscale e altre forme di illegalità, valutazione delle politiche e
-analisi di impatto di progetti pilota.
+**Public Administration**. In the near future, AI will optimise bureaucratic processes, offering better services to citizens and businesses and reducing costs for
+better services and performance. Furthermore, with its databases and innovative tools for purchasing, investment and regulation, the PA is called upon
+to play an active role in the AI revolution in the private sector for the benefit of the community (e.g. open
+data, geolocation tools, purchase of AI products and services, funds for AI, experimentation of AI solutions). The PA could benefit from AI solutions concerning
+flow management, virtual assistants and chatbots, predictive analysis of business risks and support for the examination of incentive applications,
+support in the fight against tax evasion and other forms of illegality, evaluation of past policies and
+impact analysis of experiments.
 
-**Città, aree e comunità intelligenti.** La pandemia COVID-19 ha
-dimostrato che l'ecosistema digitale è essenziale per supportare tutti i
-cittadini, sia che vivano in città sia che si trovino in zone rurali.
-L'intelligenza artificiale consentirà ai residenti italiani, ovunque
-vivano, di accedere a comunità e servizi, riducendo i costi. Infine, le
-tecnologie IA consentiranno all'Italia di ridurre il traffico e limitare
-la congestione, contribuendo così anche a contenere gli effetti di una
-delle attività più inquinanti del Paese. Alcuni esempi di applicazione
-includono: parcheggio intelligente, gestione del traffico e controllo
-della segnaletica, sistemi di gestione dei veicoli a guida autonoma,
-gestione dell'illuminazione e ottimizzazione del trasporto pubblico,
-nonché monitoraggio di ponti ed edifici, domotica per edifici.
+**Smart cities, areas and communities**. The COVID-19 pandemic has shown that the digital ecosystem is
+essential to support all citizens, whether they live in cities or rural areas. AI will enable Italian residents,
+wherever they live, to gain access to communities and services, while reducing costs. Finally, AI technologies will enable Italy to reduce traffic and limit
+congestion thus also contributing to reining in the effects of one of the most polluting activities in the country. 
+A few examples are smart parking, traffic management and signage control, self-driving vehicle management
+systems, lighting management and optimisation of public transport, as well as monitoring of bridges and buildings, home automation for buildings.
 
-**Sicurezza nazionale.** L'importanza dell'IA per la sicurezza nazionale
-di un Paese è cresciuta costantemente negli ultimi cinque anni.
-Pertanto, l'Italia è pienamente impegnata a investire in applicazioni di
-intelligenza artificiale che garantiscano la sicurezza dei suoi
-cittadini. Ciò include la sicurezza informatica individuale e nazionale,
-in cui l'IA ha contribuito con lo sviluppo di software di rilevamento e
-risoluzione di nuova generazione.
+**National Security**. The importance of AI for the National Security of a country has been growing steadily
+in the last five years. Hence, Italy is fully committed to investing in AI applications that ensure the security of its citizens. This includes individual and
+national cybersecurity, where AI has been contributing to the development of new-generation detection and resolution software. 
 
-**Tecnologie dell'informazione.** Il successo delle applicazioni
-dell'intelligenza artificiale nei settori sopra descritti dipende
-fortemente da un alto livello di innovazione nei settori cruciali
-dell'informatica che incidono sull'intelligenza artificiale, come il
-rilevamento, il ragionamento e la ricerca, l'elaborazione del linguaggio
-naturale, la visione artificiale, l'interazione uomo-IA e l'edge
-computing. Il vasto campo dell'IT [9]_ ha un ruolo cruciale nel
-garantire un elevato livello di innovazione per l'attuazione di un'IA
-competitiva in tutte le diverse applicazioni. Per questo, uno sforzo
-particolare sarà dedicato a sostenere la nascita e la crescita delle
-aziende IT italiane.
+**Information Technologies**. The success of applications of AI in the sectors described above strongly
+depends on a high level of innovations in IT crucial fields impacting AI, such as Sensing, Reasoning and
+Search, Natural Language Processing, Computer Vision, Human-AI interaction, and Edge Computing. The
+broad field of IT has a crucial role in ensuring a high level of innovation for implementing competitive AI
+in all different applications. For this reason, a special effort will be devoted to supporting the birth and
+growth of Italian IT companies.
 
 .. raw:: html
 
    <hr>
 
 .. [1]
-   Commissione europea, \ \ \ `Eccellenza e fiducia
-   nell'intelligenza
-   artificiale <https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en>`__\ \ \ .
+   European Commission, \ \ \ `Excellence and trust in artificial intelligence <https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en>`__\ \ \ .
 
 .. [2]
-   Proposta di regolamento del Parlamento europeo e del Consiglio
-   recante norme armonizzate sull'intelligenza artificiale (Artificial
-   Intelligence Act) e che modifica alcuni atti legislativi.
-   COM/2021/206 definitivo.
+   Proposal for a regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (artificial intelligence act)  
+   and amending certain
+   Union legislative acts com/2021/206 final
 
 .. [3]
-   Commissione europea, 2020, \ \ \ `Libro bianco dell'UE
-   sull'intelligenza
-   artificiale <https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf>`__\ \ \ .
+   European Commission, 2020, \ \ \ `EU White-paper on AI <https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf>`__\ \ \ .
 
 .. [4]
-   Secondo il Piano Nazionale per la Ricerca 2021-2027.
+   According to the National Plan of Research 2021-2027.
 
 .. [5]
-   Commissione europea, \ \ \ `Linee guida etiche per un'IA
-   affidabile <https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1>`__\ \ \ .
+   European Commission, \ \ \ `Ethics guidelines for trustworthy AI <https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1>`__\ \ \ .
 
 .. [6]
-   Commissione europea, \ \ \ `L'intelligenza artificiale nei
-   servizi
-   pubblici <https://knowledge4policy.ec.europa.eu/ai-watch/artificial-intelligence-public-services_en>`__\ \ \ .
+   European Commission, \ \ \ `Artificial Intelligence in Public services <https://knowledge4policy.ec.europa.eu/ai-watch/artificial-intelligence-public-    services_en>`__\ \ \ .
 
 .. [7]
-   Cfr. ad esempio
-   il `rapporto <https://www.ericsson.com/en/network-services/ai-5g-networks>`__\ \ \  di
-   Ericsson sulle applicazioni di intelligenza artificiale alle reti
-   5G.
+   See for instance, \ \ \ `report <https://www.ericsson.com/en/network-services/ai-5g-networks>`__\ \ \  by Ericsson on AI applications to 5G networks
 
 .. [8]
-   Come affermato nel Libro bianco sull'intelligenza artificiale
-   al servizio dei cittadini pubblicato dalla Task Force AI.
-
+   As stated in the White Paper on Artificial Intelligence at the service of citizens published by the AI Task Force.
+   
 .. [9]
-   Con un focus specifico su tecnologie e metodi per
-   l'acquisizione, l'archiviazione e la trasmissione di informazioni,
-   big data, immagini, video e la loro elaborazione ed estrazione della
-   conoscenza, nonché tecnologie per la comprensione del linguaggio e
-   del testo, dai Chatbot alla Robot Process Automation Servizi.
+   With a specific focus on technologies and methods for the acquisition, storage 
+   and transmission of information, big data, images, video and their processing and knowledge
+   extraction, as well as technologies for language and text understanding, from 
+   Chatbots to Robot Process Automation services.
