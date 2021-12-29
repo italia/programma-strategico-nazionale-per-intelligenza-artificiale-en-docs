@@ -225,8 +225,7 @@ ecosystem fares less well when it comes to business spending on R&D, patenting a
      - 
      - 
      - 
-   * - Government AI-dedicated declared
-investments (€ Mld)
+   * - Government AI-dedicated declared investments (€ Mld)
      - 5,0 €
      - 3,0 €
      - n.a.
