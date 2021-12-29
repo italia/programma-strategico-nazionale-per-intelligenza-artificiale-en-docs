@@ -1,246 +1,118 @@
-Contesto: la posizione competitiva dell'Italia e le prossime sfide
+Context: Italy’s competitive position and challenges ahead
 ==================================================================
 
-L'ecosistema italiano
+The Italian Ecosystem
 ---------------------
 
-L'ecosistema italiano dell'IA è caratterizzato da quattro categorie di
-attori: 1) comunità scientifica 2) centri di trasferimento tecnologico
-3) fornitori di tecnologie e soluzioni 4) utenti pubblici e privati
-(come organizzazioni e aziende). Questa sezione esamina i punti di forza
-e di debolezza per ciascuna di queste categorie.
+The Italian AI ecosystem is composed of four categories of actors: 
+1) research communities 
+2) knowledge-transfercentres 
+3) technology and solution providers, and 4) private and public user organisations. 
+This section reviews each category’s relative strengths and weaknesses.
 
-A. **Comunità scientifica**
+A. **Research Communities**
 
-La comunità scientifica italiana è molto attiva nel settore
-dell’intelligenza artificiale. Essa contribuisce all'ecosistema in
-quattro modi:
+Italy has a vibrant AI research community, which contributes to the Italian AI ecosystem in four ways:
 
--  **Ricerca: i ricercatori italiani sono attivi su tutto lo spettro
-   della ricerca sull’IA -** da quella fondamentale a quella applicata.
-   In particolare, la ricerca italiana è concentrata sui seguenti temi:
-   Machine/Deep Learning, Computer Vision, Natural Language Processing
-   (NLP), Data Mining, analisi Big Data, Embedded AI, aspetti umani
-   dell’IA, Knowledge Representation and Symbolic Learning, Decision
-   Support Systems, sistemi Agent-based e IA affidabile. La ricerca
-   nell'IA viene svolta principalmente nei laboratori di ricerca di
-   università e centri di ricerca pubblici - come nel Consiglio
-   Nazionale delle Ricerche (CNR) - e in fondazioni di ricerca come la
-   Fondazione Bruno Kessler o l'Istituto Italiano di Tecnologia. Come
-   vedremo in seguito, questa comunità gode di una posizione
-   internazionale ampiamente riconosciuta in termini di qualità e
-   quantità della sua ricerca.
+-  **Research**: Italian researchers are active in both fundamental and applied research, thus covering all fields of AI. In particular, Italian research is clustered around the following topics: Machine/Deep Learning, Computer Vision,  Natural Language Processing (NLP), Data Mining, Big Data analytics, Embedded AI, Human aspects in AI, Knowledge Representation and Symbolic Learning, Decision Support Systems, Agent-based systems and Trustworthy AI. Research in AI is mainly carried out in research labs of universities and public research centres as in the National Research Council (CNR) - and in research foundations such as Fondazione Bruno Kessler and the Italian Institute of Technology. As we shall see later, this community has a widely recognized international standing in terms of quality and quantity of its research output.
 
--  **Istruzione e formazione:** le università italiane offrono più di
-   **200 curricula in IA** distribuiti su circa 50 università. Per
-   potenziare ulteriormente questo ecosistema, l'Italia ha lanciato nel
-   2021 il **Dottorato Nazionale in "Intelligenza Artificiale”**
-   (PhD-AI.it), uno dei più grandi e ambiziosi dottorati in intelligenza
-   artificiale a livello mondiale. Il programma coinvolge oltre 50
-   università, tre enti pubblici di ricerca e tre organizzazioni di
-   ricerca con l'obiettivo di formare ricercatori, innovatori e
-   professionisti. Il PhD-AI.it è composto da cinque corsi di dottorato
-   federati, che condividono un *core curriculum* per l’insegnamento dei
-   fondamentali dell’IA e delle sue applicazioni. Ogni corso ha un'area
-   di specializzazione relativa a un settore strategico per
-   l'applicazione dell'IA: salute e scienze della vita, agroalimentare e
-   ambiente, sicurezza e sicurezza cibernetica, industria 4.0 e società.
-   Ad oggi il programma ha erogato 200 borse di dottorato con un budget
-   di 16 milioni di euro [1]_ .
+-  **Education and training**: Italian universities offer more than **200 AI curricula** spread over roughly 50 universities. To further boost this ecosystem, Italy launched in 2021 the **National “Artificial Intelligence” PhD Programme (PhD-AI.it)**, one of the largest and most ambitious PhD programmes in artificial intelligence worldwide. The programme involves over 50 universities, three public research bodies and three research organisations with a view to train researchers, innovators and professionals. The PhD-AI.it is composed of five federated PhD courses, which share a common core curriculum in AI foundations and developments. Each course has an area of specialisation related to a strategic sector for AI application: health and life sciences, agrifood and environment, security and cybersec, industry 4.0, and society. To date, the programme has issued 200 PhD scholarships with a budget of €16 million [1]_ .
 
--  **Infrastrutture:** l'ecosistema italiano ospita diverse
-   **infrastrutture di ricerca di alto livello**, in termini sia di
-   capacità di calcolo che di data lake. Ne sono un esempio la
-   CINECA-INFN Infrastructure for HPC, il CNR-High Performance
-   Artificial Intelligence Center HP-AI, le infrastrutture IT HPC (High
-   Performance Computing) dedicate al nuovo asset strategico 2020-2023
-   in IA e Machine Learning. Questi centri sono tutti in grado di
-   fornire strutture informatiche e competenze di intelligenza
-   artificiale che consentono agli scienziati di qualsiasi disciplina di
-   realizzare esperimenti di intelligenza artificiale complessi e che
-   richiedono alta capacità di calcolo.
+-  **Assets**: the Italian ecosystem hosts several top-tier **research infrastructures**, in terms of computational power and data lakes. Examples are the CINECA-INFN Infrastructure for HPC, CNR -High Performance Artificial Intelligence Center HP-AI, the IIT HPC infrastructures devoted to the new 2020-2023 Strategic asset in AI and Machine Learning. These are all capable of providing computing facilities and AI competences that allow scientists of any discipline to realise complex and computationally demanding AI experiments.
 
--  **Comunità:** i ricercatori italiani partecipano a tutte le
-   principali **reti di ricerca internazionali sull'IA**, comprese le
-   reti UE più prestigiose, come CLAIRE [2]_, ELLIS - che riuniscono
-   vari laboratori di IA in tutta Europa [3]_ e le reti di eccellenza
-   sotto il portfolio ICT-48 dell’EU Horizon2020, vale a dire
-   HumanE-AI-Net, TAILOR, AI4MEDIA, ELISE e VISION. L'Italia è uno dei
-   membri fondatori della **Global Partnership on Artificial
-   Intelligence** (GPAI), risultato di un'idea sviluppata all'interno
-   del G7 sotto le presidenze canadese e francese. Questa partnership
-   mira a colmare il divario tra teoria e pratica in IA. L'Italia ha
-   anche una notevole tradizione di **associazioni nazionali di ricerca
-   scientifica**, come ad esempio AIxIA, CVPL e AILC. In particolare,
-   AIxIA è l'Associazione Italiana per l’Intelligenza Artificiale,
-   fondata nel 1988 e membro dell’EurAI, l'Associazione europea di
-   Intelligenza Artificiale. Molti ricercatori italiani hanno ricoperto
-   ruoli importanti nel consiglio dell’EurAI. CVPL è l'associazione di
-   Computer Vision, Pattern Recognition e Machine Learning fondata nel
-   1983, dedicata alla teoria e all'applicazione di IA per i dati
-   multimediali e legata all'Associazione Internazionale di Pattern
-   Recognition. AILC è l'Associazione Italiana di Linguistica
-   Computazionale, principalmente dedita alla ricerca in *natural
-   language processing*.
+-  **Communities**: Italian researchers participate in all major **AI international research networks**, including the top rated EU networks, such as CLAIRE [2]_ , ELLIS - confederating several AI laboratories all over Europe [3]_ - and the networks of excellence under the EU Horizon 2020 ICT-48 portfolio, namely HumanE-AI-Net, TAILOR, AI4MEDIA, ELISE and VISION. Italy is one of the founding members of **Global Partnership on AI (GPAI)** as the result of an idea developed within the G7, under the Canadian and French presidencies. This partnership aims to bridge the gap between theory and practice in AI. Italy has also a remarkable tradition of national scientific **research associations**, such as AIxIA, CVPL and AILC. In particular, AIxIA is the Italian Association of Artificial Intelligence, founded in 1988, and a member association of EurAI, the European Association of Artificial Intelligence. Many Italian researchers have covered important roles in the EurAI board. CVPL is the association of Computer Vision, Pattern Recognition and Machine Learning founded in 1983, devoted to theory and application of AI for multimedia data, connected with the International Association of Pattern Recognition. AILC is the Italian Association of Computational Linguistics, mainly devoted to research in natural language processing.
 
-Nonostante il buon punto di partenza, il comparto della ricerca italiana
-sull’IA registra **quattro punti di debolezza**, che questa strategia
-vuole mitigare. In particolare:
+At the same time, however, the Italian AI research ecosystem presents **four main weaknesses** this strategy will
+address, and namely: 
 
--  **Frammentarietà della ricerca.** Nonostante l'eccellenza
-   internazionale della comunità di ricerca italiana sull'IA, il
-   problema persistente della mancanza di scala e massa critica e della
-   bassa integrazione interdisciplinare nei laboratori di ricerca,
-   insieme allo scarso finanziamento pubblico/privato alla ricerca
-   fondamentale, rappresentano un serio rischio per la competitività del
-   settore.
+-  **Parceled growth of research labs**. Despite the international excellence of the Italian AI research community, the persistent issue of scale, critical mass and interdisciplinary integration of research labs, together with the scarce public/private national funding of fundamental research, represent a serious potential risk for the country’s competitiveness.
 
--  **Insufficiente attrazione di talenti.** Mentre la formazione di
-   nuovi talenti in Italia è a livelli adeguati, l'attrazione di profili
-   dall’estero è scarsa, con pochi ricercatori qualificati che si
-   trasferiscono per lavorare in Italia. Fino ad ora nessuna strategia
-   dedicata è stata efficace a favorire un flusso consistente di
-   ricercatori e professionisti stranieri.
+-  **Poor talent attraction**. While new talents’ development is adequate in Italy, talent attraction is poor, with few foreign talents coming to work in Italy. No special strategies have been effective, until now, to support the attraction of foreign talents.
 
--  **Divario di genere significativo.** Un sondaggio del 2020 di CINILab
-   AIIS National Assembly tra i suoi membri mostra che solo il 19,6% dei
-   ricercatori di IA sono donne, rispetto a quasi il 50% nelle STEM in
-   generale [4]_.
+-  **Significant gender gap**. A survey of 2020 of CINILab AIIS National Assembly among its members shows that only 19.6% of AI researchers are women, compared to close to 50% in STEMS overall. [4]_.
 
--  **Limitata capacità brevettuale.** L'Italia genera molti meno
-   brevetti per pubblicazione rispetto a quanto accade in Paesi europei
-   simili, come illustrato nella tabella 3.
+-  **Limited patent capacity**. Italy yields far less patents per paper than EU peers.
 
-B. **Centri di trasferimento tecnologico**
+B. **Knowledge transfer centres**
 
-Accanto alle università e ai centri di ricerca, l'Italia dispone di
-un'ampia rete di **centri di trasferimento tecnologico**, promossi da
-associazioni e istituzioni industriali a livello nazionale e locale. Tra
-questi vale la pena citare più di 20 Digital Innovation Hub (DIH)
-promossi da Confindustria [5]_ , più di 70 Punti Impresa Digitale
-promossi dalle Camere di Commercio Italiane [6]_ e 8 centri di
-competenza [7]_ promossi dal Ministero dello Sviluppo Economico. Questi
-centri, che fanno parte della Rete Industria 4.0, offrono servizi che
-spaziano dalle campagne di sensibilizzazione, alla valutazione
-tecnologica, alla pianificazione strategica e alla formazione dei
-dipendenti. Oltre a queste risorse nazionali, l'Italia è attiva nella
-rete EU-DIH [8]_, centri che sosterranno le PMI attraverso servizi per
-aiutarle a rispondere in modo dinamico alle sfide digitali e a diventare
-più competitive.
+Alongside universities and research nodes, Italy has a wide network of **knowledge transfer centers**, promoted by
+industrial associations and institutions at the national and local level. Among these, it is worth mentioning 20+
+Digital Innovation Hubs (DIHs) promoted by Confindustria [5]_ , 70+ Punti Impresa Digitale promoted by Italian Chambers
+of Commerce [6]_ and 8 competence centres [7]_ promoted by the Ministry of Economic Development. These centres, which
+belong to the Network Industria 4.0, offer services ranging from sensibilization and awareness campaigns, to technology 
+assessment, strategic roadmapping and employee training. In addition to these national resources, Italy is
+active in the EU-DIHs network [8]_, which will function as one-stop shops that help companies dynamically respond to
+the digital challenges and become more competitive.
 
-C. **Fornitori di tecnologie e soluzioni**
+C. **Technology and solution providers**
 
-L'ecosistema italiano è caratterizzato da vari fornitori tecnologici
-specializzati in diverse soluzioni di intelligenza artificiale. A
-febbraio 2021, l'Osservatorio sull'IA [9]_ ha censito 260 aziende
-italiane che offrono prodotti e servizi IA, di cui:
+The Italian ecosystem is characterised by a variety of technology providers which specialise in a variety of AI solutions. 
+As of February 2021, the Observatory on AI [9]_ registered 260 Italian companies offering AI products and services (See Figure 1): 
 
--  la maggior parte (55%) offre soluzioni progettate per essere
-   utilizzate in aree specifiche, ad esempio Salute, Marketing & Sales,
-   Finanza e Sicurezza Cibernetica.
+-  The majority of them (55%) offer solutions designed to be used in specific areas, i.e. **Healthcare, Marketing & Sales, Finance and Cybersecurity**. 
 
--  un quarto (25%) sono di natura generalista e forniscono ad esempio
-   analisi avanzata di dati strutturati e non strutturati per scopi
-   vari, che possono riguardare previsione, classificazione, Natural
-   Language Processing, Computer Vision e l'interazione uomo-IA in
-   diverse aree di applicazione. Circa un terzo di queste aziende sono
-   start-up [10]_.
+-  One quarter (25%) are more general in nature, providing for example advanced analysis of structured and unstructured data for purposes that may concern Forecasting, Classification, Natural Language Processing, Computer Vision, Human-AI interaction in various application areas. About a third of these companies are start-ups [10]_ .
 
--  le restanti società sono suddivise tra System integrator (circa il
-   10%) e società di consulenza (circa il 5%), la maggior parte delle
-   quali sono aziende di medie o grandi dimensioni.
+-  The remaining companies are divided between System integrators (about 10%) and Consulting companies (about 5%), most of which are either medium or large companies.
 
--  alcune sono fornitori di cloud che offrono soluzioni di intelligenza
-   artificiale e altre sono aziende che offrono *edge computing* per
-   efficienza di calcolo e conservazione dati per l’IA. I fornitori di
-   cloud sono in numero limitato ma tendono ad essere tra le realtà più
-   grandi. Tra questi, quelli di taglia più importante offrono servizi
-   di gestione delle infrastrutture critiche e/o sicurezza informatica.
+-  Few of them are cloud providers offering AI solutions and companies offering sensing and edge computing for efficient computing or storage dedicated to AI. Cloud providers are limited in number but they tend to be among the largest players. The largest among them offer services in critical infrastructures management or cybersecurity. 
 
 **Figura 1:**\ *Imprese italiane che offrono prodotti IA, per settore*
 
 .. image:: ./media/image7.jpg
 
-Inoltre, diverse grandi aziende italiane si stanno dotando di laboratori
-di ricerca sull'intelligenza artificiale, per creare soluzioni che
-migliorino la qualità dei prodotti o dei servizi offerti ai clienti. Le
-aziende più attive sono nei settori energia, sicurezza, aerospazio,
-telecomunicazioni, assicurazioni, banche, cloud e cura della casa e
-della persona.
+In addition, several large corporations are creating in-house AI research labs to create solutions and products that
+may cater to their business, their clients or both. Companies are most active in the energy, security, aerospace,
+telecommunications, insurance, banking, cloud and household and personal care (HPC) sectors.
 
-Infine, l'ecosistema imprenditoriale italiano registra un numero
-crescente di start-up con competenze IA. CINI Lab AIIS nel 2020 ha
-intervistato 110 spin-off universitari o start-up collegate a centri di
-ricerca, che operano nei settori di *machine learning* o *deep
-learning*, analisi big data e interazione uomo-IA. Questo dato è
-particolarmente rilevante in quanto l'IA è uno dei settori in cui le
-start-up si concentrano maggiormente, mostrando quindi un alto
-potenziale di crescita per il settore.
+Lastly, the Italian entrepreneurial ecosystem registers a growing number of start-ups with AI expertise; CINI Lab AIIS
+in 2020 surveyed 110 university spin-offs or start-ups connected with research centres, focusing on machine or
+deep learning, big data analytics and human-AI interaction. This figure is particularly relevant as AI is one of the
+sectors where startups concentrate the most, showing a national proclivity for the sector.
 
-Nonostante il numero considerevole di attori e start-up, **il mercato IA
-in Italia è però ancora di dimensioni limitate e questo sta incidendo
-negativamente sulla crescita delle nostre aziende e sulla loro capacità
-di investimento**. Considerando il rapido tasso di sviluppo dell'IA,
-questo aspetto rappresenta una debolezza che necessita di essere
-affrontata.
+Despite the considerable number of players / start-ups, **the AI market in Italy is still very limited in size** and this is
+negatively affecting the growth of our companies and their investment capability. Considering the fast development 
+rate of AI, this represents a weakness that should be addressed.
 
-D. **Utenti privati e pubblici**
+D. **Private and public user organisations**
 
-L'ecosistema italiano è infine composto da organizzazioni private e
-pubbliche, veri utenti delle tecnologie di IA. Per quanto riguarda le
-organizzazioni private, nel 2020, secondo una ricerca condotta dalla
-School of Management del Politecnico di Milano, il 53% delle imprese
-medio-grandi italiane dichiaravano di aver avviato almeno un progetto di
-IA. I **settori che mostrano la maggiore diffusione di progetti
-pienamente operativi sono il manifatturiero** (22% del totale dei
-progetti iniziati), **bancario-finanziario** (16%) e le
-**assicurazioni** (10%).
+Lastly, the Italian ecosystem is composed of private and public users organisations. As for private organisations, in
+2020 according to a research conducted by the School of Management of Politecnico di Milano, 53% of medium-large
+Italian companies declare that they have started at least one AI project. The sectors that show the greatest diffusion
+of fully operational projects are manufacturing (22% of total projects started), banking-finance (16%) and insurance
+(10%). 
 
 **Tabella 2:**\ *Progetti di IA nelle medio-grandi imprese italiane, per
 settore Categoria*
 
 .. image:: ./media/image8.jpg
 
-Nel 2020 il mercato privato dell'Intelligenza Artificiale in Italia ha
-raggiunto un valore di 300 milioni di euro [11]_, con un aumento del 15%
-rispetto al 2019 ma pari a circa solamente il 3% del mercato europeo,
-nettamente inferiore rispetto al peso italiano sul PIL europeo (ca.
-12%) [12]_. All'interno del mercato italiano, un controvalore di 230
-milioni di euro (77%) è fornito ad aziende italiane, mentre i restanti
-70 milioni di euro (23%) sono esportati verso aziende estere. In termini
-di applicazioni, le principali soluzioni IA presenti sul mercato
-italiano rilevate dallo studio del Politecnico sono:
+In 2020, the Artificial Intelligence private market in Italy reached a value of €300 million, an increase of 15% over
+2019 but that still places Italy’s contribution to Europe’s AI market below its GDP contribution (ca. 3% vs. ca. 12%).
+Within the Italian market, €230 million (77%) was commissioned by Italian companies, while €70 million (23%) was
+project exports. The Politecnico study highlights the following classes of AI based solutions: 
 
--  *Intelligence Data Processing* (33% della spesa),
+-  *Intelligence Data Processing* (33% of the expenditure),
 
 -  *Natural Language Processing* (18%),
 
--  *Sistemi di suggerimento* (18%),
+-  *Recommendation Systems* (18%),
 
--  *Automazione dei Processi Ripetitivi (RPA) intelligente, Chatbot /
-   Assistenti virtuali e Computer Vision* (31%).
+-  *Intelligent RPA, Chatbot / Virtual Assistant and Computer Vision* (31%).
 
-Per quanto riguarda il settore pubblico, le potenzialità dell’IA sono
-fortemente legate al processo di digitalizzazione del Paese. Secondo lo
-studio E-government Benchmark 2020 della Commissione Europea [13]_,
-l'Italia è caratterizzata da un basso livello di penetrazione (25% vs
-60% EU27+UK) e un livello medio di digitalizzazione (71% vs 72%
-EU27+UK). Permane quindi un divario tra l'offerta di servizi digitali e
-il loro effettivo utilizzo. Nonostante il livello di digitalizzazione
-nella PA sia in linea con quello di contesti europei simili, i servizi
-online non sono altrettanto utilizzati.
+With regards to the public sector, understanding what is happening in the field of digital transformation is crucial in
+order to imagine how AI can create synergies with the process of digitising the country. According to the study E-government Benchmark 2020 by the European Commission, [13]_, Italy is characterised by a low level of penetration (25% vs.
+60% of EU27+UK) and a medium level of digitisation (71% vs. 72% EU 27+UK). Therefore, there is still a gap between
+the supply of digital services and their actual use. Although the digitisation level is in line with the performance of
+other European countries with similar environments, online services are not fully widespread all over the country. 
 
-La posizione dell'Italia nel contesto internazionale
+Italy’s international position
 ----------------------------------------------------
 
-In un’ottica di confronto internazionale, l'ecosistema IA italiano è in
-linea con i Paesi di riferimento [14]_ per qualità della ricerca.
-Tuttavia il Paese registra un divario significativo quando si
-considerano elementi come spesa industriale in ricerca e sviluppo,
-brevetti e applicazioni dell’intelligenza artificiale. La tabella 3
-riassume i principali indicatori.
+The Italian AI ecosystem is in line with international peers [14]_ when it comes to research quality and output. Yet, this
+ecosystem fares less well when it comes to business spending on R&D, patenting and AI applications. Table 3 summarises key statistics. 
 
-**Tabella 3:**\ *La posizione internazionale dell'Italia*
+**Table 3:**\ *Comparison and international position*
 
 .. list-table:: 
    :widths: 50 25 25 25 25 25
@@ -252,19 +124,19 @@ riassume i principali indicatori.
      - |image6|
      - |image7|
      - 
-   * - **Risorse nazionali di R&S**
+   * - **National R&D resources**
      -
      -
      -
      -
-     - `Approfondisci <https://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20201127-1>`_
-   * - Spesa di Ricerca (% del PIL, 2019)
+     - `Learn more <https://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20201127-1>`_
+   * - R&D expenses (as a % of GPD, 2019)
      - 3,17% 
      - 2,19%
      - 1,76% 
      - 1,45%
      -
-   * - Spesa Pubblica in Ricerca [15]_ (% del PIL, 2019)
+   * - Share of GDP in Research [15]_ (as a % of GPD, 2019)
      - 0,46%  
      - 0,28% 
      - 0,13%  
@@ -275,74 +147,74 @@ riassume i principali indicatori.
      - 53.158 € 
      - 44.364 € 
      - 25.910 € 
-     - `Approfondisci <https://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20201127-1>`_
-   * - Personale R&S per milione di abitanti (2018)
+     - `Learn more <https://ec.europa.eu/eurostat/web/products-eurostat-news/-/DDN-20201127-1>`_
+   * - R&D personell per millions inhabitants (2018)
      - 8.500
      - 6.950
      - 7.000
      - 5.150
-     - `Approfondisci <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
-   * - **Statistiche di ricerca e brevetti IA**
+     - `Learn more <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
+   * - **AI research and patents statistics**
      - 
      - 
      -
      - 
      - 
-   * - Ricercatori IA (2019)
+   * - AI pubblications (2019)
      - 2.660 
      - 2.755
      - 2.974
      - 739
-     - `Approfondisci <https://jfgagne.ai/global-ai-talent-report-2020/>`_
-   * - Pubblicazioni IA (2019)
+     - `Learn more <https://jfgagne.ai/global-ai-talent-report-2020/>`_
+   * - AI pubblications (2019)
      - 5.310
      - 3.352
      - 6.645 
      - 3.374 
-     - `Approfondisci <https://www.oecd.ai/data-from-partners?selectedTab=AIResearch>`_
-   * - Produttività media dei ricercatori IA [16]_ 
+     - `Learn more <https://www.oecd.ai/data-from-partners?selectedTab=AIResearch>`_
+   * - Average AI researchers productivity [16]_ 
      - 2,00
      - 1,22
      - 2,23
      - 4,57
      - 
-   * - Indice di intensità della strategia di brevettazione (%brevett i mondiali / %pubblicazioni mondiali)
+   * - Patenting strategy intensity index (%global patents / %global publications)
      - 0,79
      - 0,34
      - 0,29
      - 0,07
      - 
-   * - Domande di brevetto
+   * - Patents Equivalent patent applications 2019
      - 178.184
      - 67.294
      - 54.762
      - 32.001
-     - `Approfondisci <https://www.wipo.int/edocs/pubdocs/en/wipo_pub_941_2020.pdf>`_
-   * - Numero di istituzioni [17]_
+     - `Learn more <https://www.wipo.int/edocs/pubdocs/en/wipo_pub_941_2020.pdf>`_
+   * - Number of agents [17]_
      - 147
      - 76
      - 163
      - 42
-     - `Approfondisci <https://data.jrc.ec.europa.eu/dataset/0cb8ba74-097c-4197-ac50-cfbb0a5099a5>`_
-   * - **Investimenti aziendali e risultati sull’IA**
+     - `Learn more <https://data.jrc.ec.europa.eu/dataset/0cb8ba74-097c-4197-ac50-cfbb0a5099a5>`_
+   * - **Business investments and outcomes on AI**
      - 
      - 
      - 
      - 
      - 
-   * - R&S industriale (€Mln, 2018)
+   * - Business spending on R&D (€Mln, 2018)
      - 74.162 €
      - 33.809 €
      - 28.926 €
      - 14.691 €
-     - `Approfondisci <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
-   * - R&S industria le (% del PIL, 2018) [18]_
+     - `Learn more <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
+   * - R&D business spending on R&D  (% of the PIL, 2018) [18]_
      - 2,23%
      - 1,45%
      - 1,22%
      - 0,84%
-     - `Approfondisci <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
-   * - Numero di campioni digitali globali [19]_
+     - `Learn more <http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en>`_
+   * - Number of Global Digital Champions [19]_
      - 8
      - 7
      - 33
@@ -354,197 +226,146 @@ riassume i principali indicatori.
      - 
      - 
      - 
-   * - Investimenti pubblici dedicati all’IA (€ Mld)
+   * - Government AI-dedicated declared
+investments (€ Mld)
      - 5,0 €
      - 3,0 €
      - n.a.
-     - Risultato del programma
-     - `Approfondisci <https://publication.enseignementsup-recherche.gouv.fr/eesr/FR/T923/l_e!ort_de_recherche_et_developpement_en_france/>`_
+     - Output plan
+     - `Learn more <https://publication.enseignementsup-recherche.gouv.fr/eesr/FR/T923/l_e!ort_de_recherche_et_developpement_en_france/>`_
 
 
-**La posizione della ricerca italiana**
+**Research position**
 
-I ricercatori italiani in IA sono riconosciuti a livello internazionale
-per la loro produzione scientifica, sia in termini di quantità che di
-qualità [20]_.
+Italian AI researchers have a widely recognized international standing regarding scientific output, both in terms of
+quantity and quality [20]_.
 
-Tuttavia, ci sono diversi limiti che frenano lo sviluppo della ricerca
-italiana, sia nella sfera pubblica che in quella privata, che devono
-essere considerati e affrontati. In particolare:
+Nevertheless, there are several limitations affecting the Italian research landscape - both in the public and private
+sphere - which need to be explicitly considered and addressed. In particular: 
 
--  **Il sistema di ricerca pubblico riceve minori finanziamenti rispetto
-   a quelli di Paesi simili e le remunerazioni sono generalmente
-   inferiori**. In media, i paesi dell'UE  [21]_ (UE28) investono il
-   2,38% del PIL nella ricerca, mentre l'Italia investe solo l'1,45% del
-   PIL. A tali finanziamenti si associano salari altrettanto ridotti, in
-   quanto gli enti di ricerca pubblici italiani devono rispettare gli
-   stessi parametri salariali del resto della Pubblica Amministrazione,
-   senza considerare le loro esigenze specifiche. Di conseguenza, i
-   ricercatori italiani ricevono stipendi inferiori (15.343 euro per i
-   dottorati di ricerca) rispetto a Germania (48.027 euro), Francia
-   (20.220 euro), Regno Unito (17.272 euro esentasse) e Svizzera (67.998
-   euro). [22]_
+-  The **public research system is less funded than peers and wages are low**. On average, EU countries (EU28) [21]_ invest 2.38% of GDP in research, while Italy invests 1.45% of GDP only. Low funding is compounded by low wages, as public research institutions must comply with the same rules as the rest of the Public Administration, without considering the specific needs of these entities. As a consequence, Italian researchers receive lower wages (€15,343 for PhDs) than in Germany (€48,027), France (€20,220), UK (€17,272 tax-free) and Switzerland (€67,998). [22]_
 
--  Nel **settore privato, le imprese stanno sotto-investendo in R&S**.
-   Le aziende italiane spendono ca. 15 miliardi di euro in R&S all'anno
-   (2018), cifra inferiore alla media dei Paesi europei simili. Gli
-   investimenti sono limitati anche dalle ridotte dimensioni medie
-   dell'impresa italiana. All'Italia, infine, mancano **Global Digital
-   Champions**\  [23]_ nei settori hardware, software e integrazione, la
-   cui presenza è considerata come un fattore chiave per stimolare
-   l'innovazione.
+-  In the private sector, firms are underinvesting in R&D. Although Italian companies spend €14.7 billion in R&D per annum (2018) this figure is less than average EU peers. Investments are also constrained by the small size of the average Italian firm. Lastly, Italy is missing **global Digital Champions** [23]_ in the hardware, software and integration areas, and is thus missing a key factor in stimulating innovation.
 
-**Fornitori di tecnologie e soluzioni**
+**Technology & solution providers**
 
-Il mercato italiano delle soluzioni IA è ancora limitato, riflettendo
-così il ritardo delle aziende nel processo di trasformazione digitale.
-Il tasso di adozione di soluzioni IA da parte delle imprese italiane
-(35%) è inferiore rispetto alla media UE (43%) e nel 2017 solo il 15% di
-esse ha sviluppato progetti oltre la fase pilota (vs. 32% per i paesi
-europei simili) [24]_. Le imprese italiane indicano gli alti costi di
-adozione e l'assenza di finanziamenti pubblici come la principale
-barriera all’adozione di soluzioni IA. Inoltre, le aziende italiane
-faticano a trovare professionisti qualificati in IA [25]_. Poiché l'IA è
-un importante fattore abilitante della crescita della produttività,
-questo ritardo nella sua adozione sarà riflesso sulla crescita del PIL,
-con il rischio che si ampli il divario tra l'Italia e i Paesi europei di
-riferimento. Secondo McKinsey [26]_, il PIL generato dall'IA crescerà
-del 19% per l'UE e solamente del 13% in Italia.
+The Italian Market for AI solutions is still small, as Italian companies are lagging in the digital transformation process.
+The adoption rate of AI solutions by Italian corporates is lower (35%) than the EU average (43%) and in 2017 only 15%
+had projects beyond the pilot phase (vs. 32% for European peers) [24]_. Italian corporations indicate the high costs of 
+adoption and the absence of public funding as the main obstacle. Moreover, Italian companies struggle to find qualified AI
+professional [25]_. Since AI is a significant enabler of productivity growth, this late adoption will negatively impact GDP growth, widening
+the gap between Italy and peer countries. According to McKinsey [26]_, while AI-driven GDP will grow at 19% for the EU ,
+it will grow only by 13% in Italy.
 
-**Riepilogo: le sfide future**
+**Summary: Challenges ahead**
 
-Il panorama illustrato obbliga **a un radicale aggiornamento della
-strategia nazionale sull’IA**. Come descritto, il Paese ha basi solide
-su cui deve costruire e specifiche aree di debolezza su cui invece
-concentrare riforme e investimenti. Per riassumere, l'Italia deve:
+The evidence provided so far calls for a radical upgrade and update of Italy’s national AI strategy. As described, the
+country needs to enhance the positive elements of its current ecosystem while concentrating on reforming and investing in specific areas of weakness. In short, Italy needs to:
 
--  Rafforzare la base di ricerca sull'IA e i finanziamenti associati.
-   Promuovere misure per trattenere e attrarre talenti.
+-  Strengthen its AI research base and funding,
+  
+-  Foster measures to retain and attract talent,
 
--  Migliorare il processo di trasferimento tecnologico.\ |image8|
+-  Improve its technology transfer process,\ |image8|
 
--  Aumentare l'adozione dell'IA tra le imprese e la pubblica
-   amministrazione e favorire la creazione di imprese innovative.
+-  Increase AI adoption among firms and public administration as well as foster the creation of innovative enter- prises.
 
-I prossimi capitoli forniranno dettagli sui progetti che l’Italia vuole
-promuovere d’ora in avanti per affrontare queste sfide.
+The remainder of this document will provide the details of Italy’s plan going forward.
 
 .. raw:: html
 
    <hr>
 
 .. [1]
-   Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019
+The first two cycles of PhD-AI.it have been co-funded with about €8 million by the Ministry of University and Research and with the same amount 
+by the universities and research organizations participating in the programme.
 
 .. [2]
    `Claire - AI <https://claire-ai.org/>`__
 
 .. [3]
-   `Unità ELLIS <https://ellis.eu/units#pro%1Fle>`__\ \ \  `tre delle quali in Italia a Genova, Torino e Modena.`
+   `ELLIS units <https://ellis.eu/units#pro%1Fle>`__\ \ \, three of them in Italy in Genova, Torino and Modena 
 
 .. [4]
-   `Indagine CINI <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-
-   Lab AIIS National Assembly 2020: 229 donne e 936 uomini su un totale
-   di 1167 membri; per i dati complessivi STEM si veda il Rapporto
-   Fondazione Elsevier 2021: Gender in Research citato da Ansa il 24
-   luglio 2021.`
+   `Survey from CINI - Lab AIIS National Assembly 2020: 229 women and 936 men among a total 1167 members; for overall 
+   STEM figures, see Elsevier Foundation 2021 Report: Gender in Research cited in Ansa on July 24th 2021 <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-.`
 
 .. [5]
-   `Confindustria,`\ \ \ `Digital Innovation
+   Confindustria, `\ \ \ Digital Innovation
    Hubs <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [6]
-   `Camere di Commercio d’Italia,`\ \ \ `Punto Impresa
+   Italian Chamber of Commerce, `\ \ \ Punto Impresa
    Digitale <https://www.puntoimpresadigitale.camcom.it/>`__\ \ \ `.`
 
 .. [7]
-   `Centri di competenza ad alta
-   specializzazione`\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
+   Centri di competenza ad alta
+   specializzazione, `\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
 
 .. [8]
-   `Commissione europea,`\ \ \ `European Digital Innovation
+   European Commission, `\ \ \ European Digital Innovation
    Hubs <https://digital-strategy.ec.europa.eu/en/activities/edihs>`__\ \ \ `.`
 
 .. [9]
-   `Politecnico di Milano,`\ \ \ `Osservatorio italiano
+   Politecnico di Milano, `\ \ \ Osservatorio italiano
    sull'IA <https://www.osservatori.net/it/home>`__\ \ \ `.`
 
 .. [10]
-   `Iscritta alla sezione start up innovative del Registro delle
-   Imprese della Camera di Commercio.`
+   Registered in the innovative startups section of the Business Register of the Chamber of Commerce.
 
 .. [11]
-   `Osservatorio Italiano sull'IA, 2021, Il Mercato 2020
-   dell'Intelligenza Artificiale in Italia: Applicazioni e Trend di
-   Sviluppo.`
+   Italian Observatory on AI, 2021, Il Mercato 2020 dell’Artificial Intelligence in Italia: Applicazioni e Trend di Sviluppo.
 
 .. [12]
-   `Dati europei sulla spesa per l'IA forniti da Statista; Dati sul
-   PIL del FMI WEO.`
+   European AI spending data from Statista; GDP figures from IMF WEO.
 
 .. [13]
-   `Commissione europea,`\ \ \ `EGovernment Benchmark
+   ` European Commission, `\ \ \ EGovernment Benchmark
    2020 <https://op.europa.eu/en/publication-detail/-/publication/8e708e4f-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-233013088>`__\ \ \ `.`
 
 .. [14]
-   `Il confronto con i pari si è concentrato su Germania, Francia e
-   Regno Unito; questi paesi sono simili all'Italia per dimensione
-   (popolazione), scolarizzazione, PIL e peso relativo dei diversi
-   settori sul PIL.`
+   Comparison with peers has been focused on Germany, France and UK; these countries are similar to Italy in 
+   terms of size (population), scholarization, GDP and relative weight of the different sectors on GDP.
 
 .. [15]
-   `Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
-   expenditure in the EU at 2.19% of GDP in 2019"`
+   Calculated based on data from Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019".
 
 .. [16]
-   `Rapporto delle due righe precedenti.`
+   Calculated based on the 2 lines above
 
 .. [17]
-   `Aziende, istituti di ricerca, università, ecc. coinvolti nella
-   creazione di brevetti.`
+   Companies, Research Inst., Universities, ... involved in AI patents (from 2009 to 2018).
 
 .. [18]
-   `Calcolato sulla base dei dati UNESCO UIS, Eurostat 2020, "R&D
-   expenditure in the EU at 2.19% of GDP in 2019", e IMF: WEO October
-   2020.`
+   Calculated based on data from UNESCO UIS, Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019", and IMF: WEO October 2020.
 
 .. [19]
-   `Numero di aziende "unicorni" focalizzate sull'IA.`
+   AI unicorn companies count on Dealroom.com.
 
 .. [20]
-   `Cfr. ad esempio Best Paper Award @NeurIPS (dicembre 2020) o
-   anche i risultati del CNR sull'IA applicata all'informatica.`
+   See for instance Best Paper Award @NeurIPS (Dec, 2020) or also CNR results on AI applied to quantum computing, (Aug 2021)
 
 .. [21]
-   `High-level working group della Commissione Nazionale Italiana
-   per l'UNESCO, 2021, Ricerca e sviluppo: quale futuro per l'Italia?`
+   High-level working group of the Italian National Commission for 
+   UNESCO, 2021, Ricerca e sviluppo: quale futuro per l’Italia?
 
 .. [22]
-   `Dati recuperati da`\ \ \  `Informatics
-   Europe <https://www.informatics-europe.org/data/higher-education/academic-salaries/phds-postdocs.html>`__\ \ \ `.`
+   Data retrieved from `Informatics Europe <https://www.informatics-europe.org/data/higher-education/academic-salaries/phds-postdocs.html>`__\ \ \ `.`
 
 .. [23]
-   `Aziende che forniscono servizi digitali ad altre aziende in
-   tutto il mondo per gestire la propria attività.`
+   Companies which are providing digital services to other companies all around the world, to run their business.
 
 .. [24]
-   `Eurostat,
-   2020 <https://www.amcham.it/upload/documenti/5/57/572/5728.pdf>`__\ \ \ `,
-   “Indagine sulle imprese europee sull'uso delle tecnologie basate
-   sull'intelligenza artificiale”; con alcune statistiche
-   dell'Osservatorio del Politecnico di Milano si osserva un 50% di
-   adozioni per le aziende intervistate; Rapporto della Camera di
-   Commercio americana in Italia.`
+   Eurostat, 2020, “European enterprise survey on the use of technologies based on 
+   artificial intelligence”; with some stats from POLIMI Osservatorio for the interviewed 
+   companies observed a 50% of adoption; American Chamber in Italy report.
 
 .. [25]
-   `Oltre il 50% delle aziende intervistate ha dichiarato che uno
-   dei maggiori ostacoli è l'assenza di professionisti di IA
-   (Osservatorio IA del Politecnico di Milano, edizione 2020).`
+   More than 50% of interviewed companies declared that the one of the major 
+   obstacles is the absence of AI professionals (Osservatorio AI del Politecnico di Milano/2020).
 
 .. [26]
-   `Dati presentati <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Arti%22cial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ `da
-   McKinsey durante l'evento “The Future Is Now” tenutosi a Milano nel
-   2019.`
+   Data presented by McKinsey during the event `“The Future Is Now” <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ held in Milan in 2019. .
 
 .. |image0| image:: ./media/image2.png
    :width: 0.35069in
