@@ -176,7 +176,7 @@ initiatives by creating a structural connection of existing and new AI research 
 
 Creating a hub & spoke architecture with territorial expertise, especially in fundamental research.
 
-**Launching the Italian AI Research Data and Software Platform**
+**Possible source of investment**
 
 NRRP M4C2 Investment 1.3: Partnerships extended to universities, research centres, companies and
 funding of basic research projects. 1.610M€ for at least 10 partnerships selected on a competitive basis.
@@ -279,7 +279,7 @@ NRRP M4C2 Investment 1.5: Establishing and strengthening of "innovation ecosyste
 
 **C. Horizontal aspects**
 
-**C1. FFunding projects for Creative AI for creative Italy**
+**C1. Funding projects for Creative AI for creative Italy**
 
 **Objective**
 
@@ -654,7 +654,7 @@ partnership with other public/private institutions where relevant.
    sectors, with particular reference to the innovation and technology transfer needs of small and medium-sized enterprises.
 
 .. [4]
-   Cfr https://www.go-fair.or
+   Cfr https://www.go-fair.org/fair-principles/
 
 .. [5]
    Some projects could be highly risky and foundational, e.g. sustainable energy saving machine learning or applicative: e.g. predicting congestion and traffic 
