@@ -1,5 +1,5 @@
-Programma strategico Intelligenza Artificiale 2022 – 2024
-=========================================================
+Strategic Programme on Artificial Intelligence 2022 - 2024
+==========================================================
 
 .. toctree::
   :maxdepth: 2
