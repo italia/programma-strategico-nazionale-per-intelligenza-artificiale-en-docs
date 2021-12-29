@@ -57,7 +57,7 @@ As of February 2021, the Observatory on AI [9]_ registered 260 Italian companies
 
 -  Few of them are cloud providers offering AI solutions and companies offering sensing and edge computing for efficient computing or storage dedicated to AI. Cloud providers are limited in number but they tend to be among the largest players. The largest among them offer services in critical infrastructures management or cybersecurity. 
 
-**Figura 1:**\ *Imprese italiane che offrono prodotti IA, per settore*
+**Figure 1:**\ *Italian companies offering AI products, by sector*
 
 .. image:: ./media/image7.jpg
 
@@ -82,8 +82,7 @@ Italian companies declare that they have started at least one AI project. The se
 of fully operational projects are manufacturing (22% of total projects started), banking-finance (16%) and insurance
 (10%). 
 
-**Tabella 2:**\ *Progetti di IA nelle medio-grandi imprese italiane, per
-settore Categoria*
+**Table 2:**\ *AI projects within Italian medium-large companies, by sector*
 
 .. image:: ./media/image8.jpg
 
@@ -112,7 +111,7 @@ Italy’s international position
 The Italian AI ecosystem is in line with international peers [14]_ when it comes to research quality and output. Yet, this
 ecosystem fares less well when it comes to business spending on R&D, patenting and AI applications. Table 3 summarises key statistics. 
 
-**Table 3:**\ *Comparison and international position*
+**Table 3:**\  *Comparison and international position*
 
 .. list-table:: 
    :widths: 50 25 25 25 25 25
@@ -287,8 +286,8 @@ by the universities and research organizations participating in the programme.
    `ELLIS units <https://ellis.eu/units#pro%1Fle>`__\ \ \, three of them in Italy in Genova, Torino and Modena 
 
 .. [4]
-   `Survey from CINI - Lab AIIS National Assembly 2020: 229 women and 936 men among a total 1167 members; for overall 
-   STEM figures, see Elsevier Foundation 2021 Report: Gender in Research cited in Ansa on July 24th 2021 <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-.`
+   `Survey from CINI <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-.` - Lab AIIS National Assembly 2020: 229 women and 936 men among a total 1167 members; for overall 
+   STEM figures, see Elsevier Foundation 2021 Report: Gender in Research cited in Ansa on July 24th 2021.
 
 .. [5]
    Confindustria, `\ \ \ Digital Innovation
@@ -300,7 +299,7 @@ by the universities and research organizations participating in the programme.
 
 .. [7]
    Centri di competenza ad alta
-   specializzazione, `\ \ \ `MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
+   specializzazione, `\ \ \ MISE <https://www.mise.gov.it/index.php/it/incentivi/impresa/centri-di-competenza>`__\ \ \ `.`
 
 .. [8]
    European Commission, `\ \ \ European Digital Innovation
@@ -320,7 +319,7 @@ by the universities and research organizations participating in the programme.
    European AI spending data from Statista; GDP figures from IMF WEO.
 
 .. [13]
-   ` European Commission, `\ \ \ EGovernment Benchmark
+   European Commission, `\ \ \ EGovernment Benchmark
    2020 <https://op.europa.eu/en/publication-detail/-/publication/8e708e4f-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-233013088>`__\ \ \ `.`
 
 .. [14]
@@ -331,7 +330,7 @@ by the universities and research organizations participating in the programme.
    Calculated based on data from Eurostat 2020, "R&D expenditure in the EU at 2.19% of GDP in 2019".
 
 .. [16]
-   Calculated based on the 2 lines above
+   Calculated based on the 2 lines above.
 
 .. [17]
    Companies, Research Inst., Universities, ... involved in AI patents (from 2009 to 2018).
@@ -343,7 +342,7 @@ by the universities and research organizations participating in the programme.
    AI unicorn companies count on Dealroom.com.
 
 .. [20]
-   See for instance Best Paper Award @NeurIPS (Dec, 2020) or also CNR results on AI applied to quantum computing, (Aug 2021)
+   See for instance Best Paper Award @NeurIPS (Dec, 2020) or also CNR results on AI applied to quantum computing, (Aug 2021).
 
 .. [21]
    High-level working group of the Italian National Commission for 
@@ -365,7 +364,7 @@ by the universities and research organizations participating in the programme.
    obstacles is the absence of AI professionals (Osservatorio AI del Politecnico di Milano/2020).
 
 .. [26]
-   Data presented by McKinsey during the event `“The Future Is Now” <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ held in Milan in 2019. .
+   Data presented by McKinsey during the event `“The Future Is Now” <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ held in Milan in 2019.
 
 .. |image0| image:: ./media/image2.png
    :width: 0.35069in
