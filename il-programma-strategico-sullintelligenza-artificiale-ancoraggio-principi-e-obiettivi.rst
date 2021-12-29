@@ -91,7 +91,7 @@ Its design is **inspired by five guiding principles**.
    nurturing talents and adheres to the joint effort for
    improving and adopting the harmonised set of rules for AI proposed by the AI ACT. Fourth, it identifies priority sectors where to build strategic leadership.
 
-2. **Italy will be a global research and innovation hub of AI.**. 
+2. **Italy will be a global research and innovation hub of AI.** 
    [4]_ To guarantee future economic growth and
    strategic autonomy, it is essential for Italy to boost its AI research and development ecosystem and
    leapfrog at the forefront of AI developments. Accordingly, this strategic programme will invest in frontier
@@ -107,14 +107,14 @@ Its design is **inspired by five guiding principles**.
    and implementation program” defined by the High Level Expert Group on AI.
 
 4. **Italian companies will become leaders of AI-based research, 
-   development and innovation.**. The digital
+   development and innovation.** The digital
    transformation of our entrepreneurial ecosystem is a must, if Italy wants to keep up with the most developed and innovative nations. To that end, this
    programme fosters the development, implementation and
    adoption of AI solutions. Public-private partnerships will be instrumental in finding appropriate synergies
    between research bodies and enterprises with the aim of increasing Italy’s technology transfer capabilities and thus competitiveness. 
 
 5. **Italy’s public administrations will govern with AI and will 
-   govern AI.**. [6]_ The use and impact of AI in the
+   govern AI.** [6]_ The use and impact of AI in the
    public sector revolves around the dual dimensions of governance ‘with and of’ AI. On the one hand, Italy’s
    Government will improve its internal processes and policies thanks to a responsible use of data and AI
    technology. On the other hand, the Government is committed to governing AI and mitigating its potential
@@ -241,7 +241,7 @@ growth of Italian IT companies.
 .. [2]
    Proposal for a regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (artificial intelligence act)  
    and amending certain
-   Union legislative acts com/2021/206 final
+   Union legislative acts com/2021/206 final.
 
 .. [3]
    European Commission, 2020, \ \ \ `EU White-paper on AI <https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf>`__\ \ \ .
