@@ -1,4 +1,4 @@
-# Programma strategico nazionale per l'intelligenza artificiale
+# Programma strategico nazionale per l'intelligenza artificiale (Versione EN 🇬🇧)
 
 In questo documento viene discussa l'influenza dell'intelligenza artificiale (IA) sulla maggior parte delle attività economiche, fornendo opportunità per maggiore produttività, sviluppo tecnologico e attività analitiche avanzate in tutti i settori.
 
