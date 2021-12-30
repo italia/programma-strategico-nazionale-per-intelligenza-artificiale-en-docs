@@ -86,8 +86,8 @@ of fully operational projects are manufacturing (22% of total projects started),
 
 .. image:: ./media/image8.jpg
 
-In 2020, the Artificial Intelligence private market in Italy reached a value of €300 million, an increase of 15% over
-2019 but that still places Italy’s contribution to Europe’s AI market below its GDP contribution (ca. 3% vs. ca. 12%).
+In 2020, the Artificial Intelligence private market in Italy reached a value of €300 million [11]_, an increase of 15% over
+2019 but that still places Italy’s contribution to Europe’s AI market below its GDP contribution (ca. 3% vs. ca. 12%) [12]_.
 Within the Italian market, €230 million (77%) was commissioned by Italian companies, while €70 million (23%) was
 project exports. The Politecnico study highlights the following classes of AI based solutions: 
 

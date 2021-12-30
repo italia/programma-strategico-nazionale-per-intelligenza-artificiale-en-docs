@@ -195,7 +195,7 @@ generally, AI will be a fundamental ally in
 accelerating the ecological transition, a pillar of Italy’s recovery and resilience plan and European Union’s
 recovery efforts. In addition, AI may have an enabling role also in the highly strategic development of 5G
 networks as it can help improve network performance as well as reduce capital expenditures associated
-with its infrastructure deployment/management . A few application examples are monitoring and intelligent management of networks and consumption, monitoring and
+with its infrastructure deployment/management [7]_. A few application examples are monitoring and intelligent management of networks and consumption, monitoring and
 predictive management of the waste
 cycle, situational and predictive analysis of hydrogeological instability.
 
@@ -205,7 +205,7 @@ costs through a higher level of personalisation and security of transactions. Se
 strengthen fraud prevention systems and simplify the fulfilment of intermediary obligations through the
 adoption of mechanisms for detecting suspicious behaviour and analysing data and documents.
 
-**Public Administration**. In the near future, AI will optimise bureaucratic processes, offering better services to citizens and businesses and reducing costs for
+**Public Administration**. In the near future, AI will optimise bureaucratic processes, offering better services to citizens and businesses and reducing costs [8]_ for
 better services and performance. Furthermore, with its databases and innovative tools for purchasing, investment and regulation, the PA is called upon
 to play an active role in the AI revolution in the private sector for the benefit of the community (e.g. open
 data, geolocation tools, purchase of AI products and services, funds for AI, experimentation of AI solutions). The PA could benefit from AI solutions concerning
@@ -227,7 +227,7 @@ national cybersecurity, where AI has been contributing to the development of new
 **Information Technologies**. The success of applications of AI in the sectors described above strongly
 depends on a high level of innovations in IT crucial fields impacting AI, such as Sensing, Reasoning and
 Search, Natural Language Processing, Computer Vision, Human-AI interaction, and Edge Computing. The
-broad field of IT has a crucial role in ensuring a high level of innovation for implementing competitive AI
+broad field of IT [9]_ has a crucial role in ensuring a high level of innovation for implementing competitive AI
 in all different applications. For this reason, a special effort will be devoted to supporting the birth and
 growth of Italian IT companies.
 

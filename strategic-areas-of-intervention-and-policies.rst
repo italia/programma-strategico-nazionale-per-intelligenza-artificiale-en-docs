@@ -191,7 +191,7 @@ and provide a fast time-to-market from Italian research to Italian industry.**
 **Objective**
 
 To generate a critical mass of open datasets and software designed at the research level, made accessible
-according to the FAIR principle, that could be reused, engineered and moved from prototype to market by
+according to the FAIR principle [4]_, that could be reused, engineered and moved from prototype to market by
 start-ups and companies.
 
 **Initiative**
@@ -249,7 +249,7 @@ To have a high impact in the world of research and increase research result adop
 **Initiative**
 
 Challenges on specific themes with measurable and competitive result evaluation. They could be related
-to critical aspects of AI and linked to the defined targets of Applied Research. The challenges could be
+to critical aspects of AI and linked to the defined targets of Applied Research [6]_. The challenges could be
 coordinated with existing infrastructures such as national HPC centres, Gaia-X nodes, public and private
 research centre infrastructures.
 
