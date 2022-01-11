@@ -57,7 +57,7 @@ As of February 2021, the Observatory on AI [9]_ registered 260 Italian companies
 
 -  Few of them are cloud providers offering AI solutions and companies offering sensing and edge computing for efficient computing or storage dedicated to AI. Cloud providers are limited in number but they tend to be among the largest players. The largest among them offer services in critical infrastructures management or cybersecurity. 
 
-**Figure 1:**\ *Italian companies offering AI products, by sector*
+**Figure 1:**\  *Italian companies offering AI products, by sector*
 
 .. image:: ./media/image7.jpg
 
@@ -82,7 +82,7 @@ Italian companies declare that they have started at least one AI project. The se
 of fully operational projects are manufacturing (22% of total projects started), banking-finance (16%) and insurance
 (10%). 
 
-**Table 2:**\ *AI projects within Italian medium-large companies, by sector*
+**Table 2:**\  *AI projects within Italian medium-large companies, by sector*
 
 .. image:: ./media/image8.jpg
 
@@ -233,6 +233,8 @@ ecosystem fares less well when it comes to business spending on R&D, patenting a
      - `Learn more <https://publication.enseignementsup-recherche.gouv.fr/eesr/FR/T923/l_e!ort_de_recherche_et_developpement_en_france/>`_
 
 
+
+
 **Research position**
 
 Italian AI researchers have a widely recognized international standing regarding scientific output, both in terms of
@@ -285,7 +287,7 @@ by the universities and research organizations participating in the programme.
    `ELLIS units <https://ellis.eu/units#pro%1Fle>`__\ \ \, three of them in Italy in Genova, Torino and Modena 
 
 .. [4]
-   `Survey from CINI <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ `-.` - Lab AIIS National Assembly 2020: 229 women and 936 men among a total 1167 members; for overall 
+   `Survey from CINI <https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2021/07/24/donne-e-ricerca-scientifica-litalia-avanti-verso-la-parita-di-genere_7bc6393e-d37f-46ae-b4f4-c87362aee7b6.html>`__\ \ \ - Lab AIIS National Assembly 2020: 229 women and 936 men among a total 1167 members; for overall 
    STEM figures, see Elsevier Foundation 2021 Report: Gender in Research cited in Ansa on July 24th 2021.
 
 .. [5]
@@ -363,7 +365,7 @@ by the universities and research organizations participating in the programme.
    obstacles is the absence of AI professionals (Osservatorio AI del Politecnico di Milano/2020).
 
 .. [26]
-   Data presented by McKinsey during the event `“The Future Is Now” <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ held in Milan in 2019.
+   Data presented by McKinsey during the event `“The Future Is Now” <https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx>`__\ \ \ `.` held in Milan in 2019.
 
 .. |image0| image:: ./media/image2.png
    :width: 0.35069in
