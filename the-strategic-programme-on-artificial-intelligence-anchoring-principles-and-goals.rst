@@ -156,8 +156,6 @@ include those where Italy already has a competitive advantage, such as manufactu
 but also industries that are strategic to the country’s technological development, such as national security, IT and the
 environment. 
 
-**Priority sectors**
-
 **Industry and Manufacturing**. AI will enable the Italian manufacturing sector, the second largest in
 Europe and seventh largest in the world, to introduce innovative processes, products and business
 models to the market while maintaining (or increasing) its global competitive edge. 
