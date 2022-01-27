@@ -28,7 +28,8 @@ researchers. On the other, Italy must ensure that the whole economy takes advant
 needs to strengthen the STEM component of the broader educational system, in order to support the development of a workforce that can interact with AI and 
 exploit its benefits.
 
-**A1. Strengthening the National PhD Program**
+A1. Strengthening the National PhD Program
+++++
 
 **This measure aims at consolidating and expanding Italian PhD programmes overall, with the ambition of assigning an
 appropriate share to AI.**
@@ -56,7 +57,8 @@ students from abroad.
 -  NRRP M4C2 Investment 3.3: Introduction of innovative doctorates that respond to the enterprises'
    needs for innovation and promote the hiring of researchers by companies. 600M€ granted on a competitive basis (bottom-up approach).
 
-**A2. Attracting and retaining talents**
+A2. Attracting and retaining talents
+++++
 
 **The precarious careers and the slow career advances push Italian talents towards more attractive countries and, at the
 same time, make Italy unattractive to foreigners. This is generating a severely negative talent balance for the country**
@@ -81,7 +83,8 @@ Recruiting young AI researchers under the “Rita Levi Montalcini” programme c
 
 -  Rita Levi Montalcini programme 5M€/year granted on a competitive basis (bottom-up approach). 
 
-**A3. Strengthening AI skills in the Public Administration**
+A3. Strengthening AI skills in the Public Administration
+++++
 
 **A major weakness**\  [2]_ **of the Public Administration in Italy is the limited share of workers with a STEM degree, particularly in
 AI and in the digital technologies required to properly handle the huge and increasing amount of PA data.**
@@ -103,7 +106,8 @@ training administrative officials.
 NRRP M4C1 Investment 4.1: Extension in number and career opportunities of PhDs. 430M€ granted on
 a competitive basis (bottom-up approach). 
 
-**A4. Promoting STEM courses and careers**
+A4. Promoting STEM courses and careers
+++++
 
 **STEM subjects constitute the basis to develop AI skills and careers. Therefore, it is important to stimulate the interest of
 young generations towards STEM courses and careers, with special attention to women.**
@@ -125,7 +129,8 @@ attention to equal opportunities.
 -  NRRP M4C1 Investment 3.2: School 4.0 - Innovative schools, new classrooms and laboratories
 (€2.1B).
 
-**A5. AI in ITS (“Istituti Tecnici Superiori”)**
+A5. AI in ITS (“Istituti Tecnici Superiori”)
+++++
 
 **The ITS training system**\  [3]_ **needs to respond to the demand of the labour market for specialized technicians trained for
 technological innovation in leading sectors of the economy.**
@@ -158,7 +163,8 @@ Research programme initiatives are divided into two classes:
 
 **C.** Horizontal aspects.
 
-**B. Building the Italian AI research ecosystem: fundamental and applied research**
+B. Building the Italian AI research ecosystem: fundamental and applied research
+++++
 
 These initiatives have been designed to connect existing excellence and territorial activities in a single national coordination plan. They are conceived to achieve both low-TRL (Technology Readiness Level) and close-to-market results. 
 
@@ -183,7 +189,8 @@ funding of basic research projects. 1.610M€ for at least 10 partnerships selec
 One out of 15 partnerships targets AI research (top-down approach) while AI aspects are crucial in the
 remaining 14 partnerships. 
 
-**B2. Launching the Italian AI Research Data and Software Platform**
+B2. Launching the Italian AI Research Data and Software Platform
+++++
 
 **A unique platform shared by all Italian ecosystems is necessary to keep intellectual property of Italian scientific results
 and provide a fast time-to-market from Italian research to Italian industry.**
@@ -205,7 +212,8 @@ technologies and trustworthy, regulatory models.
 NRRP M4C2 Investment 3.1: Fund for construction of an integrated system of research and innovation
 infrastructures. 1.580M€ granted on a competitive basis (bottom-up approach). 
 
-**B3. Creating Italian AI Research Chairs**
+B3. Creating Italian AI Research Chairs
+++++
 
 **Objective**
 
@@ -223,7 +231,8 @@ free research in foundational or applicative topics [5]_ pproposed by a PI. 20% 
 
 Fondo per la scienza (L.23 luglio 2021, n. 106) 50M€ in 2021 and 150M€ from 2022 granted on a competitive basis (bottom-up approach).
 
-**B4. Creating AI-PRIN Curiosity-Driven Initiatives**
+B4. Creating AI-PRIN Curiosity-Driven Initiatives
+++++
 
 **Objective**
 
@@ -240,7 +249,8 @@ progressing in software development, human-machine interaction, AI regulation an
 NRRP M4C2 Investment 1.1: Fund for the National Research Programme (PNR) and Research Projects of
 Significant National Interest (PRIN). 1.800M€ granted on a competitive basis (bottom-up approach). 
 
-**B5. Promoting multi-disciplinary AI National Champions**
+B5. Promoting multi-disciplinary AI National Champions
+++++
 
 **Objective**
 
@@ -260,7 +270,8 @@ R&D leaders” on some key enabling technologies. 1,600M€ for 5 National Centr
 approach) while AI aspects are crucial in the
 remaining 4 centres. 
 
-**B6. Launching Italian AI 60-40 research-innovation calls**
+B6. Launching Italian AI 60-40 research-innovation calls
+++++
 
 **Objective**
 
@@ -279,7 +290,8 @@ NRRP M4C2 Investment 1.5: Establishing and strengthening of "innovation ecosyste
 
 **C. Horizontal aspects**
 
-**C1. Funding projects for Creative AI for creative Italy**
+C1. Funding projects for Creative AI for creative Italy
+++++
 
 **Objective**
 
@@ -300,7 +312,8 @@ new models of learning and reasoning, neuroscience experts and psychologists and
 
 -  PNRRP M4C2 Investment 1.3: Partnerships extended to universities, research centres, companies andfunding of basic research projects. 1,610M€ for up to 10 partnerships selected on a competitive basis. 
 
-**C2. Promoting bilateral projects for returning professionals**
+C2. Promoting bilateral projects for returning professionals
+++++
 
 **Objective**
 
@@ -370,7 +383,8 @@ Overall, the proposed initiatives aim at:
 
 Therefore, this strategy supports the following initiatives:
 
-**D1. Making AI a pillar that supports enterprises' Transition 4.0**
+D1. Making AI a pillar that supports enterprises' Transition 4.0
+++++
 
 **Objective**
 
@@ -403,7 +417,8 @@ It is recommended to begin the implementation (Y1-Y2) through a couple of priori
 manufacturing and Banking, finance & insurance - as data indicates these are the sectors where the measure may have the largest impact. In addition to these sectors, National Security and Information technologies
 should also be considered. From Y2-Y3, all Priority sectors should be added. 
 
-**D2. Supporting the growth of innovative spin-off and start-ups**
+D2. Supporting the growth of innovative spin-off and start-ups
+++++
 
 **Objective**
 
@@ -432,7 +447,8 @@ to the strategic topic of innovation. The Fund is a muti-fund entity, operating 
 Industry & Manufacturing, Agri Food, Health and Wellbeing, Environment, Infrastructures and networks
 (specifically communication and energy utilities), Banking, Finance, and Insurance and Information technologies. 
 
-**D3. Promoting and facilitating experimentations of AI technologies going to market**
+D3. Promoting and facilitating experimentations of AI technologies going to market
+++++
 
 **Objective**
 
@@ -452,7 +468,8 @@ their potential introduction on the market.
 
 All Priority sectors.
 
-**D4. Supporting enterprises in AI Product Certification**
+D4. Supporting enterprises in AI Product Certification
+++++
 
 **Objective**
 
@@ -476,7 +493,8 @@ development of the AI sector.
 
 All priority sectors.
 
-**D5.  Promoting AI information campaigns for enterprises**
+D5.  Promoting AI information campaigns for enterprises
+++++
 
 **Objective**
 
@@ -518,7 +536,8 @@ with appropriate skills, procedures and tools.
 
 To this end, we propose the following initiatives for the promotion of AI *within* the PA and *for* the PA: 
 
-**E1. Creating integrated datasets for Open Data and Open AI Models**
+E1. Creating integrated datasets for Open Data and Open AI Models
+++++
 
 **Objective**
 
@@ -540,7 +559,8 @@ Data Strategy. This will be done jointly with the implementation of already exis
 the establishment of reward mechanisms for individual PA managers based on the compliance of their
 data structure and AI-based services with the indicated criteria.
 
-**E2. Strengthening AI solutions in the PA and the GovTech ecosystem in Italy**
+E2. Strengthening AI solutions in the PA and the GovTech ecosystem in Italy
+++++
 
 **Objective**
 
@@ -570,7 +590,8 @@ con il comitato tecnico del MITD [12]_, esegue la prima selezione delle
 start-up e fornisce il finanziamento iniziale, il mentoring e l'accesso
 a investitori di venture capital.
 
-**E3. Creating a common Italian language resource dataset for AI development**
+E3. Creating a common Italian language resource dataset for AI development
+++++
 
 **Objective**
 
@@ -589,7 +610,8 @@ improving both public and private services. The initiative will effectively help
 aspiring Italian AI companies/services and larger international tech companies that have access to their
 own private databases.
 
-**E4. Creating datasets and AI/NLP based analytics for feedback and service improvement in PA**
+E4. Creating datasets and AI/NLP based analytics for feedback and service improvement in PA
+++++
 
 **Objective**
 
@@ -603,7 +625,8 @@ development or integration of AI tools/technology providers to develop new servi
 interfaces, sentiment analysis, pain-points detection and prediction and support employers to identify
 possible solutions. Create specific calls for providing scalable solutions at national level for the PA.
 
-**E5. Creating datasets and AI/Computer Vision based analytics for service improvement in PA**
+E5. Creating datasets and AI/Computer Vision based analytics for service improvement in PA
+++++
 
 **Objective**
  
@@ -617,7 +640,8 @@ applications could be a) land registry categorization, anomaly identification in
 satellite images of urban and suburban areas to support construction sectors and infrastructure monitoring, c) satellite data and urban camera video of
 national roads for short-term and long-term traffic prediction.
 
-**E6.  Introducing cross-authority case processing**
+E6. Introducing cross-authority case processing
+++++
 
 **Objective**
 
