@@ -1,7 +1,6 @@
 --- 
 document: 
-  name: "Documento di prova"
-  short_name: doc-proca
-  description: "Descrizione"
+  name: "National Strategic Programme on Artificial Intelligence"
+  description: "Strategic Programme on Artificial Intelligence 2022 - 2024"
   tags:
-    - Docs Italia
+    - ai
